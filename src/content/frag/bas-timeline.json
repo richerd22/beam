@@ -1,0 +1,37 @@
+[
+ {
+  "date": "1973-11-19",
+  "label": "Laserium opens at Griffith Observatory",
+  "detail": "Ivan Dryer's laser show opens in Los Angeles and runs there for nearly three decades.",
+  "source_url": "https://timeout.com/los-angeles/blog/laserium-las-original-laser-light-show-is-back",
+  "era": "1973-1989"
+ },
+ {
+  "date": "2004",
+  "label": "First multicolor laser moving head",
+  "detail": "LOBO dates its ZAPHIR, a scanned laser in a moving-head fixture, to this year.",
+  "source_url": "https://www.lobo.de/en/company/history/",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2012-04",
+  "label": "Tupac \"hologram\" at Coachella",
+  "detail": "A 2D projection reflected off a slanted transparent film - Pepper's ghost; the vendor's CEO said it was not holographic.",
+  "source_url": "https://theconversation.edu.au/tupacs-rise-from-the-dead-was-sadly-not-holography-6641",
+  "era": "2010-now"
+ },
+ {
+  "date": "2018-08-13",
+  "label": "Lasers as lighting fixtures",
+  "detail": "PLSN describes the push to run scanned lasers from standard lighting consoles like any other fixture.",
+  "source_url": "https://plsn.com/archives/august-2018/thinking-about-lasers-as-lighting-fixtures",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023-07-20",
+  "label": "Laser-source searchlight reported",
+  "detail": "Claypaky's Skylos uses a 300 W white laser source; the maker claims output equal to a 4,000 W xenon lamp.",
+  "source_url": "https://www.lsionline.com/claypaky-skylos-offers-multiple-features",
+  "era": "2010-now"
+ }
+]

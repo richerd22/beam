@@ -1,0 +1,152 @@
+[
+ {
+  "term": "Stimulated emission",
+  "definition": "A passing photon makes an excited atom release a second photon matching it in wavelength, direction and phase.",
+  "section": "lasers",
+  "source_url": "https://laserfx.com/Works/Works2.html"
+ },
+ {
+  "term": "Population inversion",
+  "definition": "The condition lasing needs: more atoms in the excited state than in the ground state.",
+  "section": "lasers",
+  "source_url": "https://laserfx.com/Works/Works2.html"
+ },
+ {
+  "term": "Ion laser",
+  "definition": "An argon or krypton gas laser; the professional show source before solid state, water-cooled and about 0.05% efficient.",
+  "section": "lasers",
+  "source_url": "https://www.repairfaq.org/sam/laserarg.htm"
+ },
+ {
+  "term": "White-light laser",
+  "definition": "A mixed argon/krypton ion laser that emits red, green and blue lines from one tube.",
+  "section": "lasers",
+  "source_url": "https://laserfx.com/Works/Works2.html"
+ },
+ {
+  "term": "DPSS",
+  "definition": "Diode-pumped solid state: an 808 nm diode pumps a crystal lasing at 1064 nm, which a second crystal doubles to 532 nm green.",
+  "section": "lasers",
+  "source_url": "https://laserfx.com/Works/Works2.html"
+ },
+ {
+  "term": "Direct diode",
+  "definition": "A semiconductor chip that lases when current is applied to it, with no crystal in between.",
+  "section": "lasers",
+  "source_url": "https://pangolin.com/blogs/news/the-ultimate-guide-to-understanding-laser-light"
+ },
+ {
+  "term": "OPSL",
+  "definition": "Optically pumped semiconductor laser: diodes pump a thin gain chip in a small cavity, giving a clean, narrow beam and chosen colors such as 577 nm yellow.",
+  "section": "lasers",
+  "source_url": "https://www.coherent.com/news/blog/150000-optically-pumped-semiconductor-lasers"
+ },
+ {
+  "term": "Divergence",
+  "definition": "How fast a beam widens with distance, in milliradians; 1 mrad is 1 cm wider per 10 m.",
+  "section": "lasers",
+  "source_url": "https://steinigke.de/en/Showlaser"
+ },
+ {
+  "term": "Shutter",
+  "definition": "A mechanical flag inside the projector that blocks the beam ahead of the scanners; the beam attenuator of the US rule.",
+  "section": "lasers",
+  "source_url": "https://laserfx.com/Works/Works3.html"
+ },
+ {
+  "term": "Scan-fail",
+  "definition": "A safeguard that blanks the beam if the scanners stop moving it.",
+  "section": "lasers",
+  "source_url": "https://ilda.com/audiencescanningtips.htm"
+ },
+ {
+  "term": "Remote interlock connector",
+  "definition": "The connector US law requires on Class IIIb and IV laser systems; an emergency stop plugs into it.",
+  "section": "lasers",
+  "source_url": "https://www.law.cornell.edu/cfr/text/21/1040.10"
+ },
+ {
+  "term": "Masking plate",
+  "definition": "Metal plates at the aperture that cut off any output below or outside a set line, whatever the software sends.",
+  "section": "lasers",
+  "source_url": "https://pangolin.com/blogs/news/what-is-a-laser-show-projector"
+ },
+ {
+  "term": "Galvo",
+  "definition": "Galvanometer scanner: a limited-rotation motor with a small mirror on its shaft. Two of them aim the beam.",
+  "section": "scanning",
+  "source_url": "https://www.laserfocusworld.com/software-accessories/positioning-support-accessories/article/16547109/optical-scanning-scanning-advances-brighten-and-enhance-laser-light-shows"
+ },
+ {
+  "term": "Closed loop",
+  "definition": "A scanner whose position detector feeds a servo amplifier that corrects the mirror.",
+  "section": "scanning",
+  "source_url": "https://en.wikipedia.org/wiki/Laser_projector"
+ },
+ {
+  "term": "kpps",
+  "definition": "Thousands of points per second, the scanner speed rating.",
+  "section": "scanning",
+  "source_url": "https://ilda.com/projectorspecs.htm"
+ },
+ {
+  "term": "ILDA test pattern",
+  "definition": "The standard circle-in-square image, sent at 12,000 or 30,000 points per second, used to tune and rate scanners.",
+  "section": "scanning",
+  "source_url": "https://ilda.com/resources/StandardsDocs/ILDA_TestPattern95_rev002.pdf"
+ },
+ {
+  "term": "Flicker",
+  "definition": "Visible pulsing when a frame has too many points for the scanner to redraw before the eye lets the start of it fade.",
+  "section": "scanning",
+  "source_url": "https://laserfx.com/Science/Science3.html"
+ },
+ {
+  "term": "Blanking",
+  "definition": "Switching the beam off while the mirrors travel between parts of an image.",
+  "section": "scanning",
+  "source_url": "https://pangolin.com/blogs/news/laser-light-show-definitions-what-industry-terms-mean"
+ },
+ {
+  "term": "PCAOM",
+  "definition": "Polychromatic acousto-optic modulator: a tellurium dioxide crystal driven by radio-frequency signals that set color and brightness on gas lasers.",
+  "section": "scanning",
+  "source_url": "https://laserfx.com/Backstage.LaserFX.com/Archives/Archives6.html"
+ },
+ {
+  "term": "Analog modulation",
+  "definition": "Continuous brightness control of each laser, usually 256 steps per color.",
+  "section": "scanning",
+  "source_url": "https://ilda.com/projectorspecs.htm"
+ },
+ {
+  "term": "TTL",
+  "definition": "On/off-only laser control, giving seven colors and no fades.",
+  "section": "scanning",
+  "source_url": "https://pangolin.com/blogs/news/laser-show-projector-specifications"
+ },
+ {
+  "term": "Dichroic",
+  "definition": "A mirror or filter that passes one color and reflects others; used to merge red, green and blue into one beam.",
+  "section": "scanning",
+  "source_url": "https://en.wikipedia.org/wiki/Laser_projector"
+ },
+ {
+  "term": "Beam table",
+  "definition": "A row of actuators that switch the beam to fixed positions, each aimed at a bounce mirror.",
+  "section": "scanning",
+  "source_url": "https://laserfx.com/Works/Works3.html"
+ },
+ {
+  "term": "Lumia",
+  "definition": "A soft, gauze-like moving pattern made by sending a beam through rippled glass or plastic.",
+  "section": "scanning",
+  "source_url": "https://laserfx.com/Science/Science3.html"
+ },
+ {
+  "term": "Liquid sky",
+  "definition": "Haze or fog visibly swirling inside a flat sheet of scanned laser light.",
+  "section": "scanning",
+  "source_url": "https://laserfx.com/Science/Science3.html"
+ }
+]

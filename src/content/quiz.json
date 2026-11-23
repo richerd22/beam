@@ -1,0 +1,146 @@
+[
+ {
+  "q": "What draws the picture in a laser show?",
+  "options": [
+   "A spinning color wheel",
+   "Two small mirrors moving a single dot very fast",
+   "A video chip like a projector's",
+   "Hundreds of separate lasers, one per line"
+  ],
+  "answer": 1,
+  "why": "A pair of mirrors on galvanometers steers one beam. Your eye joins the moving dot into lines.",
+  "section": "scanning"
+ },
+ {
+  "q": "Why can you see a laser beam in the air at a show?",
+  "options": [
+   "The beam glows on its own",
+   "Haze or fog scatters some of its light sideways",
+   "Your eyes adjust in the dark",
+   "The air is ionized by the beam"
+  ],
+  "answer": 1,
+  "why": "Without particles to scatter it, the light only goes where the beam is pointed.",
+  "section": "basics"
+ },
+ {
+  "q": "Where and when did Laserium open?",
+  "options": [
+   "Hayden Planetarium, New York, 1969",
+   "Griffith Observatory, Los Angeles, 1973",
+   "Adler Planetarium, Chicago, 1977",
+   "London Planetarium, 1975"
+  ],
+  "answer": 1,
+  "why": "Ivan Dryer's show opened at Griffith Observatory on November 19, 1973.",
+  "section": "planetarium"
+ },
+ {
+  "q": "How was an original Laserium show performed?",
+  "options": [
+   "Played live by an operator at an analog console",
+   "Run from a film print",
+   "Triggered by the music automatically",
+   "Drawn by a computer"
+  ],
+  "answer": 0,
+  "why": "A laserist played the console live to recorded music, with some passages fixed and some improvised.",
+  "section": "planetarium"
+ },
+ {
+  "q": "What kind of laser lit most professional shows for about 30 years?",
+  "options": [
+   "Ruby",
+   "Carbon dioxide",
+   "Argon and krypton ion gas lasers",
+   "Blue diodes"
+  ],
+  "answer": 2,
+  "why": "Water-cooled argon and krypton tubes ruled until solid-state and diode lasers replaced them in the 2000s.",
+  "section": "lasers"
+ },
+ {
+  "q": "What does 30K mean on a scanner spec?",
+  "options": [
+   "30,000 points per second",
+   "30 kilowatts of power",
+   "30,000 colors",
+   "A 30-kilohertz audio input"
+  ],
+  "answer": 0,
+  "why": "Scanner speed is rated in points per second against ILDA's test pattern at a stated scan angle.",
+  "section": "scanning"
+ },
+ {
+  "q": "The exposure limit for visible laser light assumes you look away within what time?",
+  "options": [
+   "One hundredth of a second",
+   "A quarter of a second",
+   "One second",
+   "Ten seconds"
+  ],
+  "answer": 1,
+  "why": "It is built on the aversion response: a blink or a turned head within 0.25 seconds.",
+  "section": "safety"
+ },
+ {
+  "q": "In the US, what does a show laser above 5 mW of visible output need?",
+  "options": [
+   "Nothing",
+   "A city business license only",
+   "A variance from the FDA",
+   "A pilot's license"
+  ],
+  "answer": 2,
+  "why": "The FDA limits demonstration laser products to 5 mW visible unless it approves a variance.",
+  "section": "rules"
+ },
+ {
+  "q": "Which US agency gets involved when beams leave for open sky?",
+  "options": [
+   "The FCC",
+   "The FAA",
+   "NASA",
+   "The EPA"
+  ],
+  "answer": 1,
+  "why": "Outdoor laser operations are notified to the FAA, which sets protected flight zones around airports.",
+  "section": "rules"
+ },
+ {
+  "q": "What is audience scanning?",
+  "options": [
+   "Counting the crowd with lasers",
+   "Deliberately sweeping beams through the audience",
+   "Checking tickets with a laser reader",
+   "Filming the crowd"
+  ],
+  "answer": 1,
+  "why": "It is permitted under exposure limits in much of Europe and tightly restricted in practice in the US.",
+  "section": "safety"
+ },
+ {
+  "q": "How many laser sources set the Guinness record for largest laser show in 2025?",
+  "options": [
+   "110",
+   "314",
+   "1,100",
+   "11,000"
+  ],
+  "answer": 2,
+  "why": "Guinness lists 1,100 laser emission sources in front of about 40,000 people.",
+  "section": "stage"
+ },
+ {
+  "q": "What did Phoebe Bridgers do in planetariums in August 2026?",
+  "options": [
+   "Played a full concert tour",
+   "Previewed the album Lost Weekend with fulldome and laser shows",
+   "Filmed a music video",
+   "Hosted astronomy lectures"
+  ],
+  "answer": 1,
+  "why": "The album played in 44 planetariums, with a laser version designed by Laser Fantasy.",
+  "section": "planetarium"
+ }
+]

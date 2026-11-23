@@ -1,0 +1,42 @@
+[
+ {
+  "q": "How do laser light shows work?",
+  "a": "Each image is a list of points. Converters turn the points into voltages for two mirrors at right angles, and the list is redrawn many times a second so the eye sees a steady line. The beam is switched off, or blanked, while the mirrors travel between shapes.",
+  "section": "programming"
+ },
+ {
+  "q": "What is an ILDA cable and what do the pins do?",
+  "a": "It is the 25-pin ISP-DB25 connection defined in the ILDA Standard Projector. Pin pairs carry X and Y position, red, green and blue, an intensity signal and an interlock loop, with a pin for the shutter and four pairs left to the user. A projector that finds the interlock loop broken is required to close a shutter or turn off the laser.",
+  "section": "programming"
+ },
+ {
+  "q": "Why does my laser projector flicker on complex images?",
+  "a": "Frame rate is the projector's sample rate divided by the number of samples in the frame, so more points means fewer redraws per second. A 1,500-sample frame at 30,000 samples per second redraws 20 times a second. Raising the sample rate reduces flicker but dims each sample and can distort the path.",
+  "section": "programming"
+ },
+ {
+  "q": "What software do professional laser shows use?",
+  "a": "Pangolin's BEYOND and QuickShow, Laserworld's Showcontroller, Phoenix, and LaserAnimation's Lasergraph DSP are established show controllers. Newer routes include MadLaser, TouchDesigner and Liberation, often through DACs such as Ether Dream or Helios.",
+  "section": "programming"
+ },
+ {
+  "q": "Can you control lasers from a lighting console with DMX?",
+  "a": "Yes. Pangolin describes running laser content from grandMA, ChamSys, Hog and Avolites desks, either through a PC or directly to FB4 hardware with a 39-channel DMX profile. DMX mainly triggers stored laser content, and Art-Net carries it over a network.",
+  "section": "programming"
+ },
+ {
+  "q": "How long does it take to program a laser show?",
+  "a": "The one published rule of thumb is a 2011 forum thread: about 4 hours per minute of show for beams and about 8 hours per minute for graphics, for experienced programmers. On those rates a 3-minute beam show is roughly 12 to 24 hours of work. One tour designer reported three to four weeks for a full tour in 2026.",
+  "section": "programming"
+ },
+ {
+  "q": "How do you become a laser show operator or laserist?",
+  "a": "Mostly by shadowing a working operator, which is how both Laserium's laserists and current tour designers describe starting. Formal courses exist too: ILDA lists a 4.75-hour Lasershow Operator course and a roughly 9-hour Laser Safety Officer course in 2025.",
+  "section": "programming"
+ },
+ {
+  "q": "What is the difference between a busked and a time-coded laser show?",
+  "a": "A busked show has an operator firing cues live to the music. A time-coded show plays a programmed timeline locked to a clock signal such as SMPTE or MIDI timecode, so lasers, lights and video stay together.",
+  "section": "programming"
+ }
+]

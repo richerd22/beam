@@ -1,0 +1,548 @@
+[
+ {
+  "date": "1960-05-16",
+  "label": "First laser works",
+  "detail": "Theodore Maiman and Irnee d'Haenens see laser action from a ruby crystal at Hughes Research Laboratories.",
+  "source_url": "https://physicsworld.com/a/and-then-there-was-light/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1960-12-13",
+  "label": "First continuous gas laser",
+  "detail": "Javan, Bennett and Herriott run a helium-neon laser at Bell Labs at 1,153 nm infrared.",
+  "source_url": "https://optica-opn.org/home/articles/volume_21/issue_1/features/history_of_gas_lasers_part_1%E2%80%94continuous_wave_gas",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1962",
+  "label": "Red helium-neon line",
+  "detail": "White and Rigden at Bell Labs get the 632.8 nm red line.",
+  "source_url": "https://optica-opn.org/home/articles/volume_21/issue_1/features/history_of_gas_lasers_part_1%E2%80%94continuous_wave_gas",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1964-02-14",
+  "label": "Argon-ion laser first seen",
+  "detail": "William Bridges observes argon-ion lasing at Hughes; krypton lines follow that July. These gas lasers make colored shows possible.",
+  "source_url": "https://authors.library.caltech.edu/records/xd9tm-d6b47/preview/BRIieeejstqe00.pdf",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1964-02-14",
+  "label": "Argon-ion laser",
+  "detail": "William Bridges sees the 488 nm blue line at Hughes Research Labs.",
+  "source_url": "https://optica-opn.org/home/articles/volume_21/issue_1/features/history_of_gas_lasers_part_1%E2%80%94continuous_wave_gas",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1967",
+  "label": "Rockne Krebs shows laser beams as sculpture",
+  "detail": "\"Sculpture Minus Object\" at the Washington Gallery of Modern Art used red beams, fog and mirrors.",
+  "source_url": "https://www.patrickmccray.com/leaping-robot/2015/10/17/remembering-lines-of-light",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1967",
+  "label": "Rockne Krebs shows laser sculpture",
+  "detail": "\"Sculpture Minus Object\" in Washington uses red beams, fog and mirrors. Other accounts date his first laser work to 1968.",
+  "source_url": "https://patrickmccray.com/leaping-robot/2015/10/17/remembering-lines-of-light?format=amp",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1969-05-09",
+  "label": "Audio/Video/Laser at Mills College",
+  "detail": "Lowell Cross, David Tudor and Carson Jeffries stage what Cross calls the first multi-color laser light show with x-y scanning.",
+  "source_url": "https://www.fzmw.de/2001/2001T1.htm",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1969-09",
+  "label": "Krebs files a laser art patent",
+  "detail": "US patent 3,622,228, which ILDA calls apparently the first patent for laser artistic display.",
+  "source_url": "https://ilda.com/laserhistory.htm",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1970-03-18",
+  "label": "Pepsi Pavilion opens at Expo '70",
+  "detail": "A four-color krypton laser system by Cross and Jeffries runs in Osaka; Cross gives the dedication date as March 15.",
+  "source_url": "https://spectrum.ieee.org/when-artists-engineers-and-pepsico-collaborated-then-clashed-at-the-1970-worlds-fair",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1972-08-01",
+  "label": "New York regulates lasers",
+  "detail": "Industrial Code Rule 50 takes effect, ahead of the US federal laser standard.",
+  "source_url": "https://dol.ny.gov/system/files/documents/2021/03/cr50.pdf",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1973-11-19",
+  "label": "Laserium opens at Griffith Observatory",
+  "detail": "Ivan Dryer's laser show opens in Los Angeles and runs there for nearly three decades.",
+  "source_url": "https://timeout.com/los-angeles/blog/laserium-las-original-laser-light-show-is-back",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1973-11-19",
+  "label": "Laserium opens at Griffith Observatory",
+  "detail": "Ivan Dryer's live-played laser show begins a trial run in Los Angeles and stays 28 years.",
+  "source_url": "https://griffithobservatory.lacity.gov/about/observatory-history/historical-timeline/",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1975-02-13",
+  "label": "Led Zeppelin photographed with lasers",
+  "detail": "Three beams at Nassau Coliseum, New York - the earliest dated evidence of lasers at a rock show.",
+  "source_url": "https://www.techbriefs.com/component/content/article/17792-lazed-and-confused",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1975-10-18",
+  "label": "The Who's argon laser at Leicester",
+  "detail": "A 4 W argon laser fanned through a diffraction grating at Granby Halls.",
+  "source_url": "https://thewho.net/whotabs/gear/pa/lighting.html",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1976",
+  "label": "Moving-magnet galvo patented",
+  "detail": "The design became practical with neodymium magnets in the late 1980s and reached production in 1992.",
+  "source_url": "https://www.laserfocusworld.com/software-accessories/positioning-support-accessories/article/16547109/optical-scanning-scanning-advances-brighten-and-enhance-laser-light-shows",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1977",
+  "label": "FDA Laser Notice 22",
+  "detail": "Light shows fall under the federal standard and show producers count as manufacturers. FDA pages date it November 22 or 23.",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1977-02-04",
+  "label": "Lovelight, the first automated show",
+  "detail": "A planetarium laser show run from stored images and recorded control tracks, with no live player.",
+  "source_url": "https://laserfx.com/Backstage.LaserFX.com/Newsletter/BriefHistory.html",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1977-02-04",
+  "label": "\"Lovelight\" runs from stored images",
+  "detail": "Described by LaserFX as the first automated laser show: images drawn on a digitizing pad and stored in PROMs, control tracks on an 8-track recorder.",
+  "source_url": "https://laserfx.com/Backstage.LaserFX.com/Newsletter/BriefHistory.html",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1978",
+  "label": "\"Icarus\" on steam screens",
+  "detail": "Laser images projected onto steam screens over Washington DC in summer 1978.",
+  "source_url": "https://laserfx.com/Backstage.LaserFX.com/Newsletter/BriefHistory.html",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1978-07-10",
+  "label": "Time reports FDA inspectors at light shows",
+  "detail": "The Bureau of Radiological Health had told Blue Oyster Cult to adjust its show and halted a preview on the Mall in Washington.",
+  "source_url": "https://time.com/archive/6879942/capsules-eying-laser-light/",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1981",
+  "label": "Metal-ceramic ion tubes",
+  "detail": "Coherent introduces Innova tubes, lifting tube life from about 1,500 hours toward 5,000.",
+  "source_url": "https://www.livedesignonline.com/theming-lasers-advances-entertainment-lasers-enable-spectacular-theme-park-attractions",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1981-10-21",
+  "label": "Jarre plays the laser harp in China",
+  "detail": "Five concerts in Beijing and Shanghai, on a harp ordered from Bernard Szajner; 218,000 attended by the artist's figure.",
+  "source_url": "https://JeanMichelJarre.com/live/concerts-in-china",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1983",
+  "label": "Stone Mountain laser show opens",
+  "detail": "The Georgia park's mountain-side show begins; the park estimated 20 million viewers in its first 25 years.",
+  "source_url": "https://www.ajc.com/entertainment/celebrity-news/stone-mountain-timeline/R2luAvMz783IXvblS7TmZP",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1983",
+  "label": "Stone Mountain Lasershow begins",
+  "detail": "A mountain face in Georgia becomes a laser screen about 400 ft square.",
+  "source_url": "https://11alive.com/article/news/the-science-behind-the-stone-mountain-lasershow/85-548763380",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1985-08-20",
+  "label": "21 CFR 1040.11(c) takes its current form",
+  "detail": "The demonstration laser rule names Classes I, IIa, II and IIIa (50 FR 33702).",
+  "source_url": "https://www.govinfo.gov/content/pkg/CFR-2013-title21-vol8/pdf/CFR-2013-title21-vol8-sec1040-11.pdf",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1986",
+  "label": "Pangolin's first product, Laser PC",
+  "detail": "The company's About page gives 1986 for its founding; another company page says 1985.",
+  "source_url": "https://pangolin.com/pages/about",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1986-04-05",
+  "label": "Rendez-vous Houston",
+  "detail": "Jarre uses downtown skyscrapers as screens; attendance is estimated at 1.3 million or 1.5 million.",
+  "source_url": "https://JeanMichelJarre.com/live/houston-a-city-in-concert",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1986-08-15",
+  "label": "ILDA founded",
+  "detail": "The International Laser Display Association holds its first organizational meeting at Lake Tahoe, Nevada.",
+  "source_url": "https://ilda.com/history.htm",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1986-08-16",
+  "label": "ILDA founded",
+  "detail": "The International Laser Display Association holds its first organizational meeting in Lake Tahoe.",
+  "source_url": "https://en.wikipedia.org/wiki/International_Laser_Display_Association",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1986-08-20",
+  "label": "US manual-reset rule",
+  "detail": "Class IV laser systems made after this date must need a manual reset after an interlock trip or a power loss over 5 seconds.",
+  "source_url": "https://www.law.cornell.edu/cfr/text/21/1040.10",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1988",
+  "label": "ILDA Awards begin",
+  "detail": "The trade association starts its annual awards program.",
+  "source_url": "https://ilda.com/awards.htm",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1989",
+  "label": "First ILDA DB-25 specification",
+  "detail": "Later superseded by the ISP-DB25 section of the ILDA Standard Projector.",
+  "source_url": "https://k1.spdns.de/Develop/Projects/pico/Laseroids/ILDA%20files/ILDA_ISP99_rev002.pdf",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1992",
+  "label": "PCAOM and the Cambridge 6800",
+  "detail": "The polychromatic acousto-optic modulator and Cambridge Technology's 6800 galvo both arrive.",
+  "source_url": "https://www.laserfocusworld.com/software-accessories/software/article/16549676/laser-light-shows-take-on-new-dimensions",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1992-06-24",
+  "label": "ILDA test pattern adopted",
+  "detail": "The circle-in-square pattern becomes the common way to tune and rate scanners.",
+  "source_url": "https://laserfx.com/Backstage.LaserFX.com/Systems/Scanning1.html",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1994",
+  "label": "Pink Floyd tours with copper-vapor lasers",
+  "detail": "The US tour carried two complete 50 W copper-vapor laser systems built by Oxford Lasers.",
+  "source_url": "https://pfco.neptunepinkfloyd.co.uk/band/interviews/art-rev/art-ld.html",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1995",
+  "label": "LD2000 and Phoenix",
+  "detail": "Pangolin dates Lasershow Designer 2000 with QM2000 hardware to 1995; development of Phoenix Showcontroller began the same year.",
+  "source_url": "https://pangolin.com/pages/about",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1995-10",
+  "label": "ILDA Test Pattern revision 002",
+  "detail": "The published standard sets tuning at 12,000 or 30,000 points per second.",
+  "source_url": "https://ilda.com/resources/StandardsDocs/ILDA_TestPattern95_rev002.pdf",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1995-10",
+  "label": "ILDA Test Pattern Rev. 002",
+  "detail": "The circle-in-a-square tuning frame, at 12,000 or 30,000 points per second.",
+  "source_url": "https://ilda.com/resources/StandardsDocs/ILDA_TestPattern95_rev002.pdf",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1996",
+  "label": "HSE publishes HS(G)95",
+  "detail": "UK guidance on display laser safety, published in October to replace note PM19 of 1980; since withdrawn.",
+  "source_url": "https://cdn.shopify.com/s/files/1/2706/3278/files/Chapter_2.pdf",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1998-12-22",
+  "label": "O'Hagan thesis",
+  "detail": "A Loughborough University PhD on entertainment laser risk finds audience scanning not acceptable as then practiced.",
+  "source_url": "https://core.ac.uk/download/288373811.pdf",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1999",
+  "label": "Scanners pass 50 kpps",
+  "detail": "A modified Cambridge 6800 shows the test pattern at 52,083 points per second at 6 degrees.",
+  "source_url": "https://laserfx.com/Backstage.LaserFX.com/Systems/Scanning2.html",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1999-07",
+  "label": "ILDA Standard Projector Rev. 002",
+  "detail": "Clarified signal levels and interlock on the DB-25 connector.",
+  "source_url": "https://ilda.com/technical.htm",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2001-05-27",
+  "label": "FDA Laser Notice 51",
+  "detail": "Projectors may be delivered only to customers holding an approved variance.",
+  "source_url": "https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/responsibilities-laser-light-show-projector-manufacturers-dealers-and-distributors-laser-notice-51",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2001-10-31",
+  "label": "Photon 999 opens at Guggenheim Bilbao",
+  "detail": "Hiro Yamagata's installation projected 15 lasers onto a structure on the museum facade until December 2.",
+  "source_url": "https://guggenheim-bilbao.eus/en/exhibitions/hiro-yamagata-photon-999",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2002",
+  "label": "First OPSL ships",
+  "detail": "Coherent sells a 488 nm optically pumped semiconductor laser as an ion-laser replacement.",
+  "source_url": "https://www.coherent.com/news/blog/150000-optically-pumped-semiconductor-lasers",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2002-01-05",
+  "label": "Last Laserium show at Griffith",
+  "detail": "\"Laser Visions\" plays to a sold-out dome; the observatory's timeline gives January 6, the day the building closed.",
+  "source_url": "https://ilda.com/resources/Laserist/Laser-Show-News_Feb01.html",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2004",
+  "label": "First multicolor laser moving head",
+  "detail": "LOBO dates its ZAPHIR, a scanned laser in a moving-head fixture, to this year.",
+  "source_url": "https://www.lobo.de/en/company/history/",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2004",
+  "label": "Plug-in RGB",
+  "detail": "5 W full-color DPSS lasers that run from a standard outlet are on offer.",
+  "source_url": "https://www.laserfocusworld.com/software-accessories/software/article/16549676/laser-light-shows-take-on-new-dimensions",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2007",
+  "label": "Roger Waters adds a solid-state laser prism",
+  "detail": "Five direct-diode solid-state lasers totaling over 100 W drew a rotating 3D prism above the stage.",
+  "source_url": "https://www.livedesignonline.com/brickman-adds-stunning-lasers-to-waters-tour",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2007-09-25",
+  "label": "FDA Laser Notice 55",
+  "detail": "Streamlined yearly renewal for eligible show variances; audience scanning excluded.",
+  "source_url": "https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/procedures-renewal-and-amendment-certain-laser-light-show-variances-laser-notice-55",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2008",
+  "label": "QuickShow and FB3QS",
+  "detail": "Pangolin's entry software with a USB DAC (maker's date).",
+  "source_url": "https://pangolin.com/pages/about",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2008",
+  "label": "Aquamarine festival eye injuries",
+  "detail": "Festivalgoers in Kirzhach, Russia, are treated for retinal injuries after a July laser show; reports give 12, 29 or more than 30 patients.",
+  "source_url": "https://www.nbcnews.com/id/wbna25675477",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2009-01-19",
+  "label": "Global Rainbow first shown",
+  "detail": "Yvette Mattern's seven parallel laser beams, one per color of the spectrum, debut in New York.",
+  "source_url": "https://static1.squarespace.com/static/54ec549be4b03ce768b8e805/t/5791e8909de4bbae635ccefc/1469180055597/GR_chronology_final_1.pdf",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2010",
+  "label": "Blue diodes reach hobbyists",
+  "detail": "445 nm laser diodes pulled from Casio data projectors were sold on at about $46 each, by one hobbyist's account.",
+  "source_url": "https://laserpointersafety.com/news/news/other-news_files/08ff728fbeff3a7a48d56726bed4db04-114.php",
+  "era": "2010-now"
+ },
+ {
+  "date": "2011",
+  "label": "BEYOND",
+  "detail": "Pangolin's flagship show software (maker's date).",
+  "source_url": "https://pangolin.com/pages/about",
+  "era": "2010-now"
+ },
+ {
+  "date": "2012-02-14",
+  "label": "18 U.S.C. 39A",
+  "detail": "Aiming a laser pointer at an aircraft becomes a US federal crime under Public Law 112-95.",
+  "source_url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI-chap2-sec39A.htm",
+  "era": "2010-now"
+ },
+ {
+  "date": "2012-04",
+  "label": "Tupac \"hologram\" at Coachella",
+  "detail": "A 2D projection reflected off a slanted transparent film - Pepper's ghost; the vendor's CEO said it was not holographic.",
+  "source_url": "https://theconversation.edu.au/tupacs-rise-from-the-dead-was-sadly-not-holography-6641",
+  "era": "2010-now"
+ },
+ {
+  "date": "2013",
+  "label": "Green diodes take over",
+  "detail": "Laserworld dates the show industry's switch from DPSS green to direct green diodes to this year.",
+  "source_url": "https://www.laserworld.com/en/technical-explanations-overview/the-2013-revolution-green-laser-diodes.html",
+  "era": "2010-now"
+ },
+ {
+  "date": "2014",
+  "label": "FB4 and IDTF Rev. 011",
+  "detail": "Pangolin's network DAC (maker's date); ILDA's .ild file format reaches Revision 011 on November 16.",
+  "source_url": "https://ilda.com/technical.htm",
+  "era": "2010-now"
+ },
+ {
+  "date": "2014-12-04",
+  "label": "Seoul club case report",
+  "detail": "Clinical Ophthalmology publishes two retinal injuries after a club laser show; both patients recovered after surgery.",
+  "source_url": "https://www.dovepress.com/inner-retinal-damage-after-exposure-to-green-diode-laser-during-a-lase-peer-reviewed-fulltext-article-OPTH",
+  "era": "2010-now"
+ },
+ {
+  "date": "2015",
+  "label": "IDN adopted",
+  "detail": "ILDA members vote in Dubai to adopt the IDN Stream specification for laser data over networks.",
+  "source_url": "https://www.ilda.com/resources/StandardsDocs/ILDA_IDN-Stream_rev001.pdf",
+  "era": "2010-now"
+ },
+ {
+  "date": "2017-11-18",
+  "label": "314-fixture Guinness record",
+  "detail": "ER Productions ran 314 laser fixtures at 1,377 W outside the Las Vegas Convention Center during LDI.",
+  "source_url": "https://www.livedesignonline.com/ldi/world-s-largest-laser-show-at-ldi2017",
+  "era": "2010-now"
+ },
+ {
+  "date": "2018-08-13",
+  "label": "Lasers as lighting fixtures",
+  "detail": "PLSN describes the push to run scanned lasers from standard lighting consoles like any other fixture.",
+  "source_url": "https://plsn.com/archives/august-2018/thinking-about-lasers-as-lighting-fixtures",
+  "era": "2010-now"
+ },
+ {
+  "date": "2018-12-31",
+  "label": "Mexico City swaps fireworks for lasers",
+  "detail": "New Year's Eve fireworks were replaced with a concert and laser show on Reforma Avenue, for air-pollution reasons.",
+  "source_url": "https://www.euronews.com/video/2019/01/01/lasers-replace-fireworks-for-mexico-city-new-year-s-eve-celebrations",
+  "era": "2010-now"
+ },
+ {
+  "date": "2019-05-24",
+  "label": "PLASA display laser guidance",
+  "detail": "PLASA publishes the guide HSE now points to in place of HS(G)95.",
+  "source_url": "http://www.plasa.org/technical/Laser_Guidance.asp",
+  "era": "2010-now"
+ },
+ {
+  "date": "2019-10-17",
+  "label": "642-beam record",
+  "detail": "Image Engineering set a Guinness record with 642 laser beams at Staples Center, Los Angeles.",
+  "source_url": "https://www.ilda.com/worldrecord.htm",
+  "era": "2010-now"
+ },
+ {
+  "date": "2020-06-01",
+  "label": "Canada restricts hand-held lasers",
+  "detail": "SOR/2020-124 is registered, banning hand-held lasers over 1 mW near airports and in three metro regions.",
+  "source_url": "https://gazette.gc.ca/rp-pr/p2/2020/2020-06-10/html/sor-dors124-eng.html",
+  "era": "2010-now"
+ },
+ {
+  "date": "2021",
+  "label": "DGUV Information 203-036",
+  "detail": "Germany's accident insurers issue the January 2021 edition of their show laser guidance.",
+  "source_url": "https://publikationen.dguv.de/widgets/pdf/download/article/99",
+  "era": "2010-now"
+ },
+ {
+  "date": "2021-10-28",
+  "label": "MadLaser beta",
+  "detail": "garageCube adds laser output to the MadMapper world.",
+  "source_url": "https://cdm.link/2021/10/madmapper-will-now-let-you-control-lasers-with-madlaser-beta/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2022-02-14",
+  "label": "FAA Advisory Circular 70-1B",
+  "detail": "Current FAA guidance on outdoor laser operations; Change 1 followed on May 5, 2022.",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023",
+  "label": "150,000 OPSLs",
+  "detail": "Coherent reports more than 150,000 OPSLs in the field.",
+  "source_url": "https://www.coherent.com/news/blog/150000-optically-pumped-semiconductor-lasers",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023-04",
+  "label": "Stone Mountain's classic show ends",
+  "detail": "The 40-year laser show is replaced by one with lasers, fireworks and drones.",
+  "source_url": "https://www.axios.com/local/atlanta/2023/04/28/stone-mountain-laser-show-ending",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023-07-04",
+  "label": "Flagstaff replaces July 4 fireworks",
+  "detail": "The Arizona city ran a free laser show set to music, citing extreme fire risk.",
+  "source_url": "https://goodmorningamerica.com/US/story/high-tech-4th-july-displays-ditch-fireworks-fire-100560162",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023-07-20",
+  "label": "Laser-source searchlight reported",
+  "detail": "Claypaky's Skylos uses a 300 W white laser source; the maker claims output equal to a 4,000 W xenon lamp.",
+  "source_url": "https://www.lsionline.com/claypaky-skylos-offers-multiple-features",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-07-19",
+  "label": "1,100-source Guinness record",
+  "detail": "Verknipt ArenA at the Johan Cruijff ArenA, Amsterdam, set the current largest laser show record with 1,100 laser emission sources.",
+  "source_url": "https://www.guinnessworldrecords.com/world-records/459824-largest-laser-show",
+  "era": "2010-now"
+ },
+ {
+  "date": "2026-02-25",
+  "label": "FAA reports 2025 laser strikes",
+  "detail": "10,994 strikes on aircraft in 2025, down 14% from 2024; the record is 13,304 in 2023.",
+  "source_url": "https://www.faa.gov/newsroom/laser-strikes-aircraft-drop-second-year-row",
+  "era": "2010-now"
+ },
+ {
+  "date": "2026-07-31",
+  "label": "FDA revises its laser import alert",
+  "detail": "Import Alert 95-04, first issued in December 1997, covers laser pointers and light show projectors from listed firms.",
+  "source_url": "https://www.accessdata.fda.gov/CMS_IA/importalert_254.html",
+  "era": "2010-now"
+ }
+]

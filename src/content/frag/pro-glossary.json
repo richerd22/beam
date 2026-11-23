@@ -1,0 +1,140 @@
+[
+ {
+  "term": "Frame",
+  "definition": "One complete list of points for one image; frames played in sequence make animation.",
+  "section": "programming",
+  "source_url": "https://laserfx.com/Works/Works5.html"
+ },
+ {
+  "term": "Point (sample)",
+  "definition": "One X-Y-color position sent to the projector. A frame is a list of them.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:vectors_and_points"
+ },
+ {
+  "term": "Vector (in show software)",
+  "definition": "A point with automatic sample placement: the software adds samples along long lines and at corners.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:vectors_and_points"
+ },
+ {
+  "term": "Anchor point",
+  "definition": "Repeated points at a line end or corner that give the scanners time to stop or turn.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:vectors_and_points"
+ },
+ {
+  "term": "Blanking",
+  "definition": "Switching the beam off while the scanners move between parts of an image.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:vectors_and_points"
+ },
+ {
+  "term": "Flicker",
+  "definition": "Visible strobing when a frame has so many points that it is redrawn too few times a second.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:vectors_and_points"
+ },
+ {
+  "term": "Raster",
+  "definition": "An image built from closely spaced horizontal lines, as on a TV; too fast for scanner mirrors beyond low resolutions.",
+  "section": "programming",
+  "source_url": "https://laserfx.com/Works/Works5.html"
+ },
+ {
+  "term": "Vector graphics",
+  "definition": "Images stored as points joined by lines and drawn as outlines.",
+  "section": "programming",
+  "source_url": "https://laserfx.com/Works/Works5.html"
+ },
+ {
+  "term": "DAC",
+  "definition": "Digital-to-analog converter: the hardware that turns software output into the voltages a projector takes.",
+  "section": "programming",
+  "source_url": "https://pangolin.com/blogs/news/laser-light-show-definitions-what-industry-terms-mean"
+ },
+ {
+  "term": "ISP-DB25 (ILDA cable)",
+  "definition": "The 25-pin analog connection carrying X, Y, color, shutter and interlock signals to a projector.",
+  "section": "programming",
+  "source_url": "https://k1.spdns.de/Develop/Projects/pico/Laseroids/ILDA%20files/ILDA_ISP99_rev002.pdf"
+ },
+ {
+  "term": "ILDA test pattern",
+  "definition": "A standard frame, including a circle in a square, used to tune scanners and blanking at 12,000 or 30,000 points per second.",
+  "section": "programming",
+  "source_url": "https://ilda.com/resources/StandardsDocs/ILDA_TestPattern95_rev002.pdf"
+ },
+ {
+  "term": "IDTF (.ild)",
+  "definition": "ILDA Image Data Transfer Format, for exchanging laser show frames and files between systems.",
+  "section": "programming",
+  "source_url": "https://ilda.com/technical.htm"
+ },
+ {
+  "term": "IDN",
+  "definition": "ILDA Digital Network, a protocol for streaming laser graphics, effects and DMX data over a network.",
+  "section": "programming",
+  "source_url": "https://www.ilda.com/resources/StandardsDocs/ILDA_IDN-Stream_rev001.pdf"
+ },
+ {
+  "term": "Projection zone",
+  "definition": "A named output area with its own size, position, geometric correction and safety settings.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:projection_zones-new"
+ },
+ {
+  "term": "Geometric correction",
+  "definition": "Warping the output with sliders or a mesh so shapes land correctly on the target.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:projection_zones-new"
+ },
+ {
+  "term": "Beam Attenuation Map (BAM)",
+  "definition": "A 64 by 64 brightness map over a zone that dims or blocks output in chosen areas (Pangolin's term).",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:projection_zones-new"
+ },
+ {
+  "term": "Timecode",
+  "definition": "A running clock signal, such as SMPTE or MIDI timecode, that keeps lasers, lights, video and audio on one timeline.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:timecode"
+ },
+ {
+  "term": "Busking",
+  "definition": "Running cues live to the music instead of playing back a time-coded show.",
+  "section": "programming",
+  "source_url": "https://pangolin.com/blogs/news/veld-festival-2026"
+ },
+ {
+  "term": "Art-Net",
+  "definition": "A network transport for DMX lighting control data.",
+  "section": "programming",
+  "source_url": "https://pangolin.com/blogs/news/laser-light-show-definitions-what-industry-terms-mean"
+ },
+ {
+  "term": "Laser mapping",
+  "definition": "Laser outlines fitted to the features of a building or 3D object.",
+  "section": "programming",
+  "source_url": "https://pangolin.com/pages/laser-mapping"
+ },
+ {
+  "term": "Laserist",
+  "definition": "The person who performs or operates a laser show; in the analog era, the player of the console.",
+  "section": "programming",
+  "source_url": "https://ilda.com/thomas.htm"
+ },
+ {
+  "term": "Laser safety officer (LSO)",
+  "definition": "The person responsible for laser safety on a show, usually the laser operator on site.",
+  "section": "programming",
+  "source_url": "https://eventsafetyalliance.org/member-newsletter/2024/05/31/laser-safety-in-practice"
+ },
+ {
+  "term": "Real-time performance console",
+  "definition": "A generally analog console that lets the laserist change size, position, color and effects live.",
+  "section": "programming",
+  "source_url": "https://laserfx.com/Works/Works4.html"
+ }
+]

@@ -1,0 +1,100 @@
+[
+ {
+  "date": "1960-12-13",
+  "label": "First continuous gas laser",
+  "detail": "Javan, Bennett and Herriott run a helium-neon laser at Bell Labs at 1,153 nm infrared.",
+  "source_url": "https://optica-opn.org/home/articles/volume_21/issue_1/features/history_of_gas_lasers_part_1%E2%80%94continuous_wave_gas",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1962",
+  "label": "Red helium-neon line",
+  "detail": "White and Rigden at Bell Labs get the 632.8 nm red line.",
+  "source_url": "https://optica-opn.org/home/articles/volume_21/issue_1/features/history_of_gas_lasers_part_1%E2%80%94continuous_wave_gas",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1964-02-14",
+  "label": "Argon-ion laser",
+  "detail": "William Bridges sees the 488 nm blue line at Hughes Research Labs.",
+  "source_url": "https://optica-opn.org/home/articles/volume_21/issue_1/features/history_of_gas_lasers_part_1%E2%80%94continuous_wave_gas",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1976",
+  "label": "Moving-magnet galvo patented",
+  "detail": "The design became practical with neodymium magnets in the late 1980s and reached production in 1992.",
+  "source_url": "https://www.laserfocusworld.com/software-accessories/positioning-support-accessories/article/16547109/optical-scanning-scanning-advances-brighten-and-enhance-laser-light-shows",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1981",
+  "label": "Metal-ceramic ion tubes",
+  "detail": "Coherent introduces Innova tubes, lifting tube life from about 1,500 hours toward 5,000.",
+  "source_url": "https://www.livedesignonline.com/theming-lasers-advances-entertainment-lasers-enable-spectacular-theme-park-attractions",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1986-08-20",
+  "label": "US manual-reset rule",
+  "detail": "Class IV laser systems made after this date must need a manual reset after an interlock trip or a power loss over 5 seconds.",
+  "source_url": "https://www.law.cornell.edu/cfr/text/21/1040.10",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1992",
+  "label": "PCAOM and the Cambridge 6800",
+  "detail": "The polychromatic acousto-optic modulator and Cambridge Technology's 6800 galvo both arrive.",
+  "source_url": "https://www.laserfocusworld.com/software-accessories/software/article/16549676/laser-light-shows-take-on-new-dimensions",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1992-06-24",
+  "label": "ILDA test pattern adopted",
+  "detail": "The circle-in-square pattern becomes the common way to tune and rate scanners.",
+  "source_url": "https://laserfx.com/Backstage.LaserFX.com/Systems/Scanning1.html",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1995-10",
+  "label": "ILDA Test Pattern revision 002",
+  "detail": "The published standard sets tuning at 12,000 or 30,000 points per second.",
+  "source_url": "https://ilda.com/resources/StandardsDocs/ILDA_TestPattern95_rev002.pdf",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1999",
+  "label": "Scanners pass 50 kpps",
+  "detail": "A modified Cambridge 6800 shows the test pattern at 52,083 points per second at 6 degrees.",
+  "source_url": "https://laserfx.com/Backstage.LaserFX.com/Systems/Scanning2.html",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2002",
+  "label": "First OPSL ships",
+  "detail": "Coherent sells a 488 nm optically pumped semiconductor laser as an ion-laser replacement.",
+  "source_url": "https://www.coherent.com/news/blog/150000-optically-pumped-semiconductor-lasers",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2004",
+  "label": "Plug-in RGB",
+  "detail": "5 W full-color DPSS lasers that run from a standard outlet are on offer.",
+  "source_url": "https://www.laserfocusworld.com/software-accessories/software/article/16549676/laser-light-shows-take-on-new-dimensions",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2013",
+  "label": "Green diodes take over",
+  "detail": "Laserworld dates the show industry's switch from DPSS green to direct green diodes to this year.",
+  "source_url": "https://www.laserworld.com/en/technical-explanations-overview/the-2013-revolution-green-laser-diodes.html",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023",
+  "label": "150,000 OPSLs",
+  "detail": "Coherent reports more than 150,000 OPSLs in the field.",
+  "source_url": "https://www.coherent.com/news/blog/150000-optically-pumped-semiconductor-lasers",
+  "era": "2010-now"
+ }
+]

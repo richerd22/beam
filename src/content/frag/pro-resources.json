@@ -1,0 +1,37 @@
+[
+ {
+  "title": "ILDA technical standards",
+  "url": "https://ilda.com/technical.htm",
+  "why": "The primary list of the Standard Projector, test pattern, IDTF and IDN documents with revision dates."
+ },
+ {
+  "title": "LaserFX: How Laser Shows Work - Graphics System",
+  "url": "https://laserfx.com/Works/Works5.html",
+  "why": "A plain-language explanation of points, frames and why lasers draw vectors. Old (1996-2008) but foundational."
+ },
+ {
+  "title": "Pangolin Wiki: BEYOND manual, Vectors and Points",
+  "url": "https://wiki.pangolin.com/beyond:vectors_and_points",
+  "why": "Working documentation on points, anchors, blanking and flicker. A vendor manual, so it shows how one product does it."
+ },
+ {
+  "title": "Glenn Thomas: The Laserium Laserist",
+  "url": "https://ilda.com/thomas.htm",
+  "why": "The most detailed first-hand account of what an analog laserist did each night."
+ },
+ {
+  "title": "Event Safety Alliance: Laser Show Safety in Practice",
+  "url": "https://eventsafetyalliance.org/member-newsletter/2024/05/31/laser-safety-in-practice",
+  "why": "A laser safety officer's account of setup, alignment and zoning on a show day."
+ },
+ {
+  "title": "ILDA Awards 2026 rules",
+  "url": "https://ilda.com/rules2026/",
+  "why": "Category definitions that double as a map of the kinds of laser show that exist."
+ },
+ {
+  "title": "ILDA: Laser Light Show Safety Overview",
+  "url": "https://www.ilda.com/resources/Safety/Laser_Light_Show_Safety_Overview_One_Page-v7-ILDA-logo.pdf",
+  "why": "One page on what the operator is expected to do before and during a show."
+ }
+]

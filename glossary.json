@@ -1,0 +1,638 @@
+[
+ {
+  "term": "Abstracts",
+  "definition": "Non-representational moving laser patterns.",
+  "section": "basics",
+  "source_url": "https://pangolin.com/blogs/news/types-of-laser-shows"
+ },
+ {
+  "term": "Analog modulation",
+  "definition": "Continuous brightness control of each laser, usually 256 steps per color.",
+  "section": "scanning",
+  "source_url": "https://ilda.com/projectorspecs.htm"
+ },
+ {
+  "term": "Anchor point",
+  "definition": "Repeated points at a line end or corner that give the scanners time to stop or turn.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:vectors_and_points"
+ },
+ {
+  "term": "Argon-ion laser",
+  "definition": "A gas laser with strong blue and green lines, first seen working on February 14, 1964. The bright beam of 1970s rock tours.",
+  "section": "history",
+  "source_url": "https://authors.library.caltech.edu/records/xd9tm-d6b47/preview/BRIieeejstqe00.pdf"
+ },
+ {
+  "term": "Art-Net",
+  "definition": "A network transport for DMX lighting control data.",
+  "section": "programming",
+  "source_url": "https://pangolin.com/blogs/news/laser-light-show-definitions-what-industry-terms-mean"
+ },
+ {
+  "term": "Audience scanning",
+  "definition": "Beams deliberately swept through the crowd at levels meant to stay within the exposure limit. Excluded by the standard conditions of a US variance.",
+  "section": "safety",
+  "source_url": "https://www.fda.gov/media/72256/download"
+ },
+ {
+  "term": "Automated show",
+  "definition": "A laser show run from recorded control tracks, with nobody playing it. Lovelight (1977) is described as the first.",
+  "section": "planetarium",
+  "source_url": "https://laserfx.com/Backstage.LaserFX.com/Newsletter/BriefHistory.html"
+ },
+ {
+  "term": "Aversion response",
+  "definition": "The blink or turn-away reflex to bright light. Exposure limits for visible beams assume it takes 0.25 seconds.",
+  "section": "safety",
+  "source_url": "https://laserpointersafety.com/irradiance.html"
+ },
+ {
+  "term": "Beam Attenuation Map (BAM)",
+  "definition": "A 64 by 64 brightness map over a zone that dims or blocks output in chosen areas (Pangolin's term).",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:projection_zones-new"
+ },
+ {
+  "term": "Beam show",
+  "definition": "A show seen in mid-air: shapes scanned through haze as beams, fans, cones and tunnels.",
+  "section": "basics",
+  "source_url": "https://pangolin.com/blogs/news/types-of-laser-shows"
+ },
+ {
+  "term": "Beam table",
+  "definition": "A row of actuators that switch the beam to fixed positions, each aimed at a bounce mirror.",
+  "section": "scanning",
+  "source_url": "https://laserfx.com/Works/Works3.html"
+ },
+ {
+  "term": "Beam termination",
+  "definition": "A surface or unit placed to catch a laser beam at the end of its path.",
+  "section": "stage",
+  "source_url": "https://www.livedesignonline.com/news/illeniums-odyssey-sphere"
+ },
+ {
+  "term": "Blanking",
+  "definition": "Switching the beam off while the scanners move between parts of an image.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:vectors_and_points"
+ },
+ {
+  "term": "Bureau of Radiological Health (BRH)",
+  "definition": "The US Food and Drug Administration unit that inspected laser light shows in the late 1970s.",
+  "section": "history",
+  "source_url": "https://time.com/archive/6879942/capsules-eying-laser-light/"
+ },
+ {
+  "term": "Busking",
+  "definition": "Running cues live to the music instead of playing back a time-coded show.",
+  "section": "programming",
+  "source_url": "https://pangolin.com/blogs/news/veld-festival-2026"
+ },
+ {
+  "term": "CDRH",
+  "definition": "The FDA's Center for Devices and Radiological Health, which receives laser product reports and variance applications.",
+  "section": "rules",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows"
+ },
+ {
+  "term": "Class 3B / IIIb",
+  "definition": "Above 5 mW up to 500 mW. Hazardous even for brief accidental direct exposure.",
+  "section": "safety",
+  "source_url": "https://www.gov.uk/government/publications/laser-radiation-safety-advice/laser-radiation-safety-advice"
+ },
+ {
+  "term": "Class 3R / IIIa",
+  "definition": "Up to 5 mW of visible output; the most a US show projector may emit without an FDA variance.",
+  "section": "rules",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows"
+ },
+ {
+  "term": "Class 4 / IV",
+  "definition": "Above 500 mW. An eye and skin hazard from the direct or reflected beam, and often a fire hazard.",
+  "section": "safety",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-products-and-instruments"
+ },
+ {
+  "term": "Closed loop",
+  "definition": "A scanner whose position detector feeds a servo amplifier that corrects the mirror.",
+  "section": "scanning",
+  "source_url": "https://en.wikipedia.org/wiki/Laser_projector"
+ },
+ {
+  "term": "Coherence",
+  "definition": "Light waves lined up in time and space; the reason a laser beam spreads far less than ordinary light.",
+  "section": "basics",
+  "source_url": "https://laserfx.com/Works/Works2.html"
+ },
+ {
+  "term": "Copper-vapor laser",
+  "definition": "A gas laser used on large 1990s tours; Pink Floyd's 1994 US tour carried two 50 W systems.",
+  "section": "stage",
+  "source_url": "https://pfco.neptunepinkfloyd.co.uk/band/interviews/art-rev/art-ld.html"
+ },
+ {
+  "term": "Critical Flight Zone",
+  "definition": "FAA airspace within 10 NM of an airport up to 10,000 ft above ground, capped in Advisory Circular 70-1B at 5 microwatts/cm2.",
+  "section": "rules",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "term": "DAC",
+  "definition": "Digital-to-analog converter: the hardware that turns software output into the voltages a projector takes.",
+  "section": "programming",
+  "source_url": "https://pangolin.com/blogs/news/laser-light-show-definitions-what-industry-terms-mean"
+ },
+ {
+  "term": "Demonstration laser product",
+  "definition": "The US legal term for a laser made, designed, intended or promoted for demonstration, entertainment, advertising display or artistic composition.",
+  "section": "rules",
+  "source_url": "https://www.law.cornell.edu/cfr/text/21/1040.10"
+ },
+ {
+  "term": "Dichroic",
+  "definition": "A mirror or filter that passes one color and reflects others; used to merge red, green and blue into one beam.",
+  "section": "scanning",
+  "source_url": "https://en.wikipedia.org/wiki/Laser_projector"
+ },
+ {
+  "term": "Diffraction grating",
+  "definition": "A ruled sheet that splits one beam into a fan of many. The Who's 1975 effect used a hand-held one.",
+  "section": "history",
+  "source_url": "https://thewho.net/whotabs/gear/pa/lighting.html"
+ },
+ {
+  "term": "Direct diode",
+  "definition": "A semiconductor chip that lases when current is applied to it, with no crystal in between.",
+  "section": "lasers",
+  "source_url": "https://pangolin.com/blogs/news/the-ultimate-guide-to-understanding-laser-light"
+ },
+ {
+  "term": "Divergence",
+  "definition": "How fast a beam widens as it travels. Doubling it halves the hazard distance.",
+  "section": "safety",
+  "source_url": "https://laserpointersafety.com/irradiance.html"
+ },
+ {
+  "term": "DPSS",
+  "definition": "Diode-pumped solid state: an 808 nm diode pumps a crystal lasing at 1064 nm, which a second crystal doubles to 532 nm green.",
+  "section": "lasers",
+  "source_url": "https://laserfx.com/Works/Works2.html"
+ },
+ {
+  "term": "Fenning Award",
+  "definition": "ILDA's award for technical achievement.",
+  "section": "stage",
+  "source_url": "https://ilda.com/awards2014.htm"
+ },
+ {
+  "term": "Flicker",
+  "definition": "Visible strobing when a frame has so many points that it is redrawn too few times a second.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:vectors_and_points"
+ },
+ {
+  "term": "Fog",
+  "definition": "A thicker, billowing mist that shows swirls inside the beams.",
+  "section": "basics",
+  "source_url": "https://ilda.com/hazefoglasers.htm"
+ },
+ {
+  "term": "Frame",
+  "definition": "One complete list of points for one image; frames played in sequence make animation.",
+  "section": "programming",
+  "source_url": "https://laserfx.com/Works/Works5.html"
+ },
+ {
+  "term": "Galvo",
+  "definition": "Galvanometer scanner: a limited-rotation motor with a small mirror on its shaft. Two of them aim the beam.",
+  "section": "scanning",
+  "source_url": "https://www.laserfocusworld.com/software-accessories/positioning-support-accessories/article/16547109/optical-scanning-scanning-advances-brighten-and-enhance-laser-light-shows"
+ },
+ {
+  "term": "Geometric correction",
+  "definition": "Warping the output with sliders or a mesh so shapes land correctly on the target.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:projection_zones-new"
+ },
+ {
+  "term": "Grand rights",
+  "definition": "Dramatic performance rights - music used to tell a story, as in opera or musical theater. They are negotiated directly with the rights holder and are outside a blanket license.",
+  "section": "planetarium",
+  "source_url": "https://www.sweetwater.com/insync/public-performance-right-dramatic-performance-right/"
+ },
+ {
+  "term": "Graphics show",
+  "definition": "A show in which the laser draws logos, text and animation on a surface.",
+  "section": "basics",
+  "source_url": "https://pangolin.com/blogs/news/types-of-laser-shows"
+ },
+ {
+  "term": "Haze",
+  "definition": "A very fine, evenly spread mist that makes beams visible as smooth cones and sheets.",
+  "section": "basics",
+  "source_url": "https://ilda.com/hazefoglasers.htm"
+ },
+ {
+  "term": "Helium-neon laser",
+  "definition": "A low-power gas laser. Its red 632.8 nm line, found in 1962, gave the first continuous visible beam sold commercially.",
+  "section": "history",
+  "source_url": "https://photonics.com/Articles/Decades-of-Discoveries-Broadened-the-Laser/p5/a70982"
+ },
+ {
+  "term": "Hologram",
+  "definition": "A recording of the full wavefield of light that replays a true 3D image when lit by a laser.",
+  "section": "basics",
+  "source_url": "https://theconversation.edu.au/tupacs-rise-from-the-dead-was-sadly-not-holography-6641"
+ },
+ {
+  "term": "IAPLC",
+  "definition": "ILDA Accredited Professional Lasershow Company: an industry credential requiring documented shows, client references, a staff member who has passed a Laser Safety Officer course and a signed safety affirmation.",
+  "section": "stage",
+  "source_url": "https://ilda.com/certification-laser-show-companies.htm"
+ },
+ {
+  "term": "IDN",
+  "definition": "ILDA Digital Network, a protocol for streaming laser graphics, effects and DMX data over a network.",
+  "section": "programming",
+  "source_url": "https://www.ilda.com/resources/StandardsDocs/ILDA_IDN-Stream_rev001.pdf"
+ },
+ {
+  "term": "IDTF (.ild)",
+  "definition": "ILDA Image Data Transfer Format, for exchanging laser show frames and files between systems.",
+  "section": "programming",
+  "source_url": "https://ilda.com/technical.htm"
+ },
+ {
+  "term": "ILDA",
+  "definition": "The International Laser Display Association, the laser show trade body.",
+  "section": "safety",
+  "source_url": "https://ilda.com/audiencescanningsafety.htm"
+ },
+ {
+  "term": "ILDA Awards",
+  "definition": "The laser display industry's annual prizes, with artistic categories such as Beams/Atmospherics, Graphics, Planetarium and Live Stage.",
+  "section": "stage",
+  "source_url": "https://ilda.com/awards2014.htm"
+ },
+ {
+  "term": "ILDA test pattern",
+  "definition": "A standard frame, including a circle in a square, used to tune scanners and blanking at 12,000 or 30,000 points per second.",
+  "section": "programming",
+  "source_url": "https://ilda.com/resources/StandardsDocs/ILDA_TestPattern95_rev002.pdf"
+ },
+ {
+  "term": "Import alert",
+  "definition": "An FDA instruction that lets border staff detain listed firms' products without examining them; Import Alert 95-04 covers laser pointers and light show projectors.",
+  "section": "now",
+  "source_url": "https://www.accessdata.fda.gov/CMS_IA/importalert_254.html"
+ },
+ {
+  "term": "Ion laser",
+  "definition": "An argon or krypton gas laser; the professional show source before solid state, water-cooled and about 0.05% efficient.",
+  "section": "lasers",
+  "source_url": "https://www.repairfaq.org/sam/laserarg.htm"
+ },
+ {
+  "term": "Irradiance",
+  "definition": "Power spread over an area, in mW/cm2. It falls with distance as a beam widens.",
+  "section": "safety",
+  "source_url": "https://laserpointersafety.com/irradiance.html"
+ },
+ {
+  "term": "ISP-DB25 (ILDA cable)",
+  "definition": "The 25-pin analog connection carrying X, Y, color, shutter and interlock signals to a projector.",
+  "section": "programming",
+  "source_url": "https://k1.spdns.de/Develop/Projects/pico/Laseroids/ILDA%20files/ILDA_ISP99_rev002.pdf"
+ },
+ {
+  "term": "kpps",
+  "definition": "Thousands of points per second, the scanner speed rating.",
+  "section": "scanning",
+  "source_url": "https://ilda.com/projectorspecs.htm"
+ },
+ {
+  "term": "Krypton-ion laser",
+  "definition": "A gas laser that can give red, yellow, green and blue at once. Laserium split one krypton beam into four colors with prisms.",
+  "section": "history",
+  "source_url": "https://patrickmccray.com/leaping-robot/2015/01/16/lasers-pot-smoke-and-the-visual-art-of-the-future"
+ },
+ {
+  "term": "Lase-off",
+  "definition": "Laserists showing off their work to each other. First recorded on August 14, 1986.",
+  "section": "history",
+  "source_url": "https://ilda.com/history.htm"
+ },
+ {
+  "term": "Laser",
+  "definition": "Light amplification by stimulated emission of radiation: a source whose light is essentially one wavelength, with its waves in step, in a narrow beam.",
+  "section": "basics",
+  "source_url": "https://pangolin.com/blogs/news/the-ultimate-guide-to-understanding-laser-light"
+ },
+ {
+  "term": "Laser emission source",
+  "definition": "The unit Guinness counts for its largest laser show record: each point where a beam leaves a device, with a beam split by diffraction counted once.",
+  "section": "stage",
+  "source_url": "https://www.guinnessworldrecords.com/world-records/459824-largest-laser-show"
+ },
+ {
+  "term": "Laser Floyd",
+  "definition": "The usual name for a planetarium laser show set to Pink Floyd, most often Dark Side of the Moon or The Wall. Several companies have made their own.",
+  "section": "planetarium",
+  "source_url": "https://laserfantasy.com/founders-story/"
+ },
+ {
+  "term": "Laser Free Zone",
+  "definition": "FAA airspace closest to runways, where visible laser light is capped at 50 nW/cm2.",
+  "section": "rules",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "term": "Laser harp",
+  "definition": "An instrument made of upright laser beams. Breaking a beam with the hand triggers a note.",
+  "section": "history",
+  "source_url": "https://factmag.com/2014/10/04/the-visionary-legendary-electronic-auteur-bernard-szajner-on-carl-craig-and-laser-shows"
+ },
+ {
+  "term": "Laser mapping",
+  "definition": "Laser outlines fitted to the features of a building or 3D object.",
+  "section": "programming",
+  "source_url": "https://pangolin.com/pages/laser-mapping"
+ },
+ {
+  "term": "Laser Notice",
+  "definition": "A numbered FDA guidance letter to the laser industry, such as Notice 51 on projector sales or Notice 55 on variance renewal.",
+  "section": "rules",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/laser-products-and-instruments/notices-laser-industry"
+ },
+ {
+  "term": "Laser Safety Officer (LSO)",
+  "definition": "The named person responsible for laser safety at a facility or show. Required by name in several US states and in Germany.",
+  "section": "safety",
+  "source_url": "https://www.mass.gov/doc/105-cmr-121-to-control-the-radiation-hazards-of-lasers-laser-systems-and-optical-fiber-communication-systems-utilizing-laser-diode-or-light-emitting-diode-sources/download"
+ },
+ {
+  "term": "Laser-phosphor projector",
+  "definition": "A video projector in which blue laser diodes light a spinning phosphor wheel and an imaging chip forms the picture; no beam is scanned.",
+  "section": "basics",
+  "source_url": "https://celluloidjunkie.com/2026/03/25/cj-tech-rgb-laser-vs-phosphor-laser-understanding-the-difference/"
+ },
+ {
+  "term": "Laserist",
+  "definition": "The person who performs or operates a laser show; in the analog era, the player of the console.",
+  "section": "programming",
+  "source_url": "https://ilda.com/thomas.htm"
+ },
+ {
+  "term": "Laserium",
+  "definition": "The laser show Ivan Dryer opened at Griffith Observatory in Los Angeles on November 19, 1973, played live to recorded music; it ran there until January 2002.",
+  "section": "planetarium",
+  "source_url": "https://griffithobservatory.lacity.gov/about/observatory-history/historical-timeline/"
+ },
+ {
+  "term": "Laserium Light Synthesizer (LLS)",
+  "definition": "Laserium's analog performance console, with more than 150 controls for image size, motor speeds, brightness, shape and color, by one former laserist's count.",
+  "section": "planetarium",
+  "source_url": "https://ilda.com/thomas.htm"
+ },
+ {
+  "term": "Laserock",
+  "definition": "Laserium's first all-rock program, from 1977, and the start of the rock-album planetarium format.",
+  "section": "planetarium",
+  "source_url": "https://www.imersa.org/2013/item/light-years-a-preview-of-ivan-dryer-s-book-on-laserium-3-6"
+ },
+ {
+  "term": "Laserschutzbeauftragter",
+  "definition": "Germany's laser safety officer, appointed in writing before Class 3R, 3B or 4 lasers are operated by an employer who lacks the required expertise personally.",
+  "section": "rules",
+  "source_url": "https://www.gesetze-im-internet.de/ostrv/__5.html"
+ },
+ {
+  "term": "Letter of determination",
+  "definition": "The FAA's reply to a notice of an outdoor laser operation, stating an objection or no objection.",
+  "section": "rules",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "term": "Lidar",
+  "definition": "A scanning laser used to measure distance, as on some cars.",
+  "section": "basics",
+  "source_url": "https://www.androidauthority.com/laser-lidar-damage-phone-camera-3559006"
+ },
+ {
+  "term": "Liquid sky",
+  "definition": "Haze or fog visibly swirling inside a flat sheet of scanned laser light.",
+  "section": "scanning",
+  "source_url": "https://laserfx.com/Science/Science3.html"
+ },
+ {
+  "term": "Lumia",
+  "definition": "A soft, gauze-like moving pattern made by sending a beam through rippled glass or plastic.",
+  "section": "scanning",
+  "source_url": "https://laserfx.com/Science/Science3.html"
+ },
+ {
+  "term": "Masking plate",
+  "definition": "Metal plates at the aperture that cut off any output below or outside a set line, whatever the software sends.",
+  "section": "lasers",
+  "source_url": "https://pangolin.com/blogs/news/what-is-a-laser-show-projector"
+ },
+ {
+  "term": "Maximum Permissible Exposure (MPE)",
+  "definition": "The highest level of laser light a standard treats as acceptable for an eye or skin over a given time. For a visible beam and a quarter second it is about 2.5 mW/cm2.",
+  "section": "safety",
+  "source_url": "https://laserpointersafety.com/irradiance.html"
+ },
+ {
+  "term": "Nominal Ocular Hazard Distance (NOHD)",
+  "definition": "The distance at which a direct beam has spread enough for its irradiance to fall to the MPE.",
+  "section": "safety",
+  "source_url": "https://laserpointersafety.com/irradiance.html"
+ },
+ {
+  "term": "NOTAM",
+  "definition": "A notice to aircrews. The UK CAA normally issues one for a notified outdoor laser display.",
+  "section": "rules",
+  "source_url": "https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/"
+ },
+ {
+  "term": "OPSL",
+  "definition": "Optically pumped semiconductor laser: diodes pump a thin gain chip in a small cavity, giving a clean, narrow beam and chosen colors such as 577 nm yellow.",
+  "section": "lasers",
+  "source_url": "https://www.coherent.com/news/blog/150000-optically-pumped-semiconductor-lasers"
+ },
+ {
+  "term": "PCAOM",
+  "definition": "Polychromatic acousto-optic modulator: a tellurium dioxide crystal driven by radio-frequency signals that set color and brightness on gas lasers.",
+  "section": "scanning",
+  "source_url": "https://laserfx.com/Backstage.LaserFX.com/Archives/Archives6.html"
+ },
+ {
+  "term": "Pepper's ghost",
+  "definition": "A reflection illusion using a slanted transparent sheet; the method behind stage \"holograms\".",
+  "section": "basics",
+  "source_url": "https://theconversation.edu.au/tupacs-rise-from-the-dead-was-sadly-not-holography-6641"
+ },
+ {
+  "term": "Performing rights organization (PRO)",
+  "definition": "A body such as ASCAP, BMI, SESAC or Global Music Rights that licenses the public performance of songs to the business where the music is played.",
+  "section": "planetarium",
+  "source_url": "https://www.dorsey.com/newsresources/blogs/tmca/2020/01/music-public-performance-rights-ignore-that-licens"
+ },
+ {
+  "term": "Point",
+  "definition": "The smallest thing laser software controls: an X position, a Y position, on or off, and usually a color.",
+  "section": "basics",
+  "source_url": "https://laserfx.com/Science/Science3.html"
+ },
+ {
+  "term": "Point (sample)",
+  "definition": "One X-Y-color position sent to the projector. A frame is a list of them.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:vectors_and_points"
+ },
+ {
+  "term": "Population inversion",
+  "definition": "The condition lasing needs: more atoms in the excited state than in the ground state.",
+  "section": "lasers",
+  "source_url": "https://laserfx.com/Works/Works2.html"
+ },
+ {
+  "term": "Projection zone",
+  "definition": "A named output area with its own size, position, geometric correction and safety settings.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:projection_zones-new"
+ },
+ {
+  "term": "Raster",
+  "definition": "An image built from closely spaced horizontal lines, as on a TV; too fast for scanner mirrors beyond low resolutions.",
+  "section": "programming",
+  "source_url": "https://laserfx.com/Works/Works5.html"
+ },
+ {
+  "term": "Real-time performance console",
+  "definition": "A generally analog console that lets the laserist change size, position, color and effects live.",
+  "section": "programming",
+  "source_url": "https://laserfx.com/Works/Works4.html"
+ },
+ {
+  "term": "Remote interlock connector",
+  "definition": "The connector US law requires on Class IIIb and IV laser systems; an emergency stop plugs into it.",
+  "section": "lasers",
+  "source_url": "https://www.law.cornell.edu/cfr/text/21/1040.10"
+ },
+ {
+  "term": "Ruby laser",
+  "definition": "The first laser (1960): a pulsed red source at 694 nm. It flashes, so it was no use for drawing.",
+  "section": "history",
+  "source_url": "https://photonics.com/Articles/Decades-of-Discoveries-Broadened-the-Laser/p5/a70982"
+ },
+ {
+  "term": "Safety observer",
+  "definition": "A person watching the airspace or beam paths who can terminate the beam immediately; ILDA's draft standard calls the role a laser spotter.",
+  "section": "rules",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "term": "Scan-fail",
+  "definition": "A safeguard that blanks the beam if the scanners stop moving it.",
+  "section": "lasers",
+  "source_url": "https://ilda.com/audiencescanningtips.htm"
+ },
+ {
+  "term": "Scan-failure safety system",
+  "definition": "A system that cuts the beam if the scanning mirrors stop moving; listed by the UK HSE among standard controls for laser displays.",
+  "section": "now",
+  "source_url": "https://www.hse.gov.uk/pubns/indg224.htm"
+ },
+ {
+  "term": "Scanning safeguard",
+  "definition": "A feature that prevents exposure above the limits if the scanning mirrors slow or stop. Required on scanned laser products in the US by 21 CFR 1040.10(f)(9).",
+  "section": "safety",
+  "source_url": "https://www.law.cornell.edu/cfr/text/21/1040.10"
+ },
+ {
+  "term": "Show-day rate",
+  "definition": "What a laser company charges per day of show, worked out from equipment write-off, overhead and margin.",
+  "section": "stage",
+  "source_url": "https://laserfx.com/Backstage.LaserFX.com/Business/Business2.html"
+ },
+ {
+  "term": "Shutter",
+  "definition": "A mechanical flag inside the projector that blocks the beam ahead of the scanners; the beam attenuator of the US rule.",
+  "section": "lasers",
+  "source_url": "https://laserfx.com/Works/Works3.html"
+ },
+ {
+  "term": "Star operator",
+  "definition": "The second person at a Laserium show, who followed a written script to time the house lights and the planetarium's star projector.",
+  "section": "planetarium",
+  "source_url": "https://ilda.com/thomas.htm"
+ },
+ {
+  "term": "Stimulated emission",
+  "definition": "A passing photon makes an excited atom release a second photon matching it in wavelength, direction and phase.",
+  "section": "lasers",
+  "source_url": "https://laserfx.com/Works/Works2.html"
+ },
+ {
+  "term": "Teach track",
+  "definition": "A track on Laserium's four-track show tape that helped new laserists learn the timing.",
+  "section": "planetarium",
+  "source_url": "https://patrickmccray.com/leaping-robot/2015/01/16/lasers-pot-smoke-and-the-visual-art-of-the-future"
+ },
+ {
+  "term": "Timecode",
+  "definition": "A running clock signal, such as SMPTE or MIDI timecode, that keeps lasers, lights, video and audio on one timeline.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:timecode"
+ },
+ {
+  "term": "TTL",
+  "definition": "On/off-only laser control, giving seven colors and no fades.",
+  "section": "scanning",
+  "source_url": "https://pangolin.com/blogs/news/laser-show-projector-specifications"
+ },
+ {
+  "term": "Variable divergence",
+  "definition": "A projector feature that lets the operator widen or narrow the beam during a show.",
+  "section": "now",
+  "source_url": "https://pangolin.com/blogs/news/lighting-up-the-2024-super-bowl-halftime-show-with-beambrush"
+ },
+ {
+  "term": "Variance",
+  "definition": "FDA permission to vary from a requirement of a performance standard - for shows, the 5 mW cap in 21 CFR 1040.11(c) - on stated safety conditions.",
+  "section": "rules",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/submitting-reports-and-requirements-maintaining-records-radiation/electronic-product-radiation-control-eprc-variance-application-process-fda"
+ },
+ {
+  "term": "Variance condition",
+  "definition": "A requirement the FDA attaches to a variance approval, binding on the holder. The 3.0 m and 2.5 m audience separations are conditions.",
+  "section": "rules",
+  "source_url": "https://www.fda.gov/media/72256/download"
+ },
+ {
+  "term": "Vector (in show software)",
+  "definition": "A point with automatic sample placement: the software adds samples along long lines and at corners.",
+  "section": "programming",
+  "source_url": "https://wiki.pangolin.com/beyond:vectors_and_points"
+ },
+ {
+  "term": "Vector graphics",
+  "definition": "Images stored as points joined by lines and drawn as outlines.",
+  "section": "programming",
+  "source_url": "https://laserfx.com/Works/Works5.html"
+ },
+ {
+  "term": "White-light laser",
+  "definition": "A mixed argon/krypton ion laser that emits red, green and blue lines from one tube.",
+  "section": "lasers",
+  "source_url": "https://laserfx.com/Works/Works2.html"
+ },
+ {
+  "term": "X-Y scanning",
+  "definition": "Drawing with one beam by steering it horizontally and vertically with two mirrors, the way an oscilloscope draws.",
+  "section": "history",
+  "source_url": "https://www.fzmw.de/2001/2001T1.htm"
+ }
+]

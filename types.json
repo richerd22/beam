@@ -1,0 +1,102 @@
+[
+ {
+  "name": "Helium-neon (HeNe)",
+  "type": "gas",
+  "era": "First ran December 13, 1960 (infrared); red line 1962; used in a show by 1968; later displaced by red diodes",
+  "wavelengths": "632.8 nm red (first lased at 1,153 nm infrared)",
+  "typical_power": "",
+  "cooling": "",
+  "known_for": "The low-power red beam of hobby and small show systems",
+  "source_url": "https://optica-opn.org/home/articles/volume_21/issue_1/features/history_of_gas_lasers_part_1%E2%80%94continuous_wave_gas"
+ },
+ {
+  "name": "Argon-ion",
+  "type": "gas",
+  "era": "Discovered February 14, 1964; the most common professional show laser until solid state arrived around 2000",
+  "wavelengths": "488.0 nm blue, 514.5 nm green; also 457.9 and 476.5 nm",
+  "typical_power": "Up to 30 W (Coherent Sabre, 1990s); 6 W (Star II)",
+  "cooling": "Water, several gallons per minute; three-phase power; about 0.05% efficient",
+  "known_for": "Cyan beam split into blue and green with a dichroic or prism",
+  "source_url": "https://www.repairfaq.org/sam/laserarg.htm"
+ },
+ {
+  "name": "Krypton-ion",
+  "type": "gas",
+  "era": "In show use by 1969; gave way to solid state around 2000",
+  "wavelengths": "647.1 nm red, 568.2 nm yellow, 676.4 nm",
+  "typical_power": "Up to 6 W (Coherent, 1990s)",
+  "cooling": "Water; three-phase power",
+  "known_for": "Red and yellow for gas-era shows",
+  "source_url": "https://www.repairfaq.org/sam/laserarg.htm"
+ },
+ {
+  "name": "Mixed-gas argon/krypton (white light)",
+  "type": "gas",
+  "era": "Gas era, to around 2000",
+  "wavelengths": "Argon and krypton lines from one tube; optics chosen for about 55% red, 20% green, 25% blue-violet",
+  "typical_power": "1.2 W (Enterprise II), 3.5 W (Star II), 13 W (Sabre), 1990s",
+  "cooling": "Water; three-phase power",
+  "known_for": "Full color from a single tube",
+  "source_url": "https://www.livedesignonline.com/theming-lasers-advances-entertainment-lasers-enable-spectacular-theme-park-attractions"
+ },
+ {
+  "name": "Copper vapor",
+  "type": "gas",
+  "era": "",
+  "wavelengths": "510.6 nm green, 578.2 nm yellow",
+  "typical_power": "Ten to hundreds of watts, pulsed at 5-30 kHz (2001)",
+  "cooling": "Tube runs at about 1,500 C",
+  "known_for": "Emerald green and gold beams",
+  "source_url": "https://www.laserfocusworld.com/detectors-imaging/article/16556478/back-to-basics-metal-vapor-lasers"
+ },
+ {
+  "name": "Frequency-doubled Nd:YAG",
+  "type": "solid-state",
+  "era": "1990s theme-park shows",
+  "wavelengths": "532 nm green",
+  "typical_power": "Up to 60 W average at 20 kHz, pulsed",
+  "cooling": "",
+  "known_for": "High-power green for large outdoor shows; five were used at Everland",
+  "source_url": "https://www.livedesignonline.com/theming-lasers-advances-entertainment-lasers-enable-spectacular-theme-park-attractions"
+ },
+ {
+  "name": "DPSS (diode-pumped solid state)",
+  "type": "solid-state",
+  "era": "Reached shows in the late 1990s; drove the move away from gas around 2000",
+  "wavelengths": "532 nm green (808 nm pump, 1064 nm fundamental); also 473 and 457 nm blue, 671 nm red",
+  "typical_power": "5 W RGB by 2004",
+  "cooling": "Temperature-sensitive crystals; ran from a standard outlet by 2004",
+  "known_for": "Smaller, more efficient and cheaper than ion lasers",
+  "source_url": "https://www.laserfocusworld.com/software-accessories/software/article/16549676/laser-light-shows-take-on-new-dimensions"
+ },
+ {
+  "name": "Direct diode",
+  "type": "diode",
+  "era": "First InGaN diode 1995 or 1996; blue first, show-industry switch to green diodes dated to 2013",
+  "wavelengths": "Red 637-638 nm, green 520-525 nm, blue 445-455 nm",
+  "typical_power": "About 120 mW to 1.5 W per diode; combined into projectors of 3 W to 270 W (2023)",
+  "cooling": "No crystal temperature control; less heat than DPSS",
+  "known_for": "The current standard for professional show projectors; modulated directly",
+  "source_url": "https://www.laserworld.com/en/technical-explanations-overview/the-2013-revolution-green-laser-diodes.html"
+ },
+ {
+  "name": "OPSL (optically pumped semiconductor laser)",
+  "type": "semiconductor",
+  "era": "First shipped by Coherent in 2002; over 150,000 in the field by November 2023",
+  "wavelengths": "460, 480, 488, 532, 577, 590 nm (Taipan HD)",
+  "typical_power": "1-5 W per source (maker spec)",
+  "cooling": "Gain chip mounted on a heat sink",
+  "known_for": "Round, high-quality beam at about 0.2 mrad, and yellow and orange that diodes do not offer",
+  "source_url": "https://www.coherent.com/news/blog/150000-optically-pumped-semiconductor-lasers"
+ },
+ {
+  "name": "Fiber",
+  "type": "",
+  "era": "",
+  "wavelengths": "",
+  "typical_power": "",
+  "cooling": "",
+  "known_for": "Listed by ILDA with OPSL at about 0.2 mrad divergence",
+  "source_url": "https://ilda.com/projectorspecs.htm"
+ }
+]

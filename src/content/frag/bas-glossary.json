@@ -1,0 +1,134 @@
+[
+ {
+  "term": "Laser",
+  "definition": "Light amplification by stimulated emission of radiation: a source whose light is essentially one wavelength, with its waves in step, in a narrow beam.",
+  "section": "basics",
+  "source_url": "https://pangolin.com/blogs/news/the-ultimate-guide-to-understanding-laser-light"
+ },
+ {
+  "term": "Stimulated emission",
+  "definition": "A passing photon triggering an excited atom to release a second photon matching it in wavelength, direction and phase.",
+  "section": "basics",
+  "source_url": "https://laserfx.com/Works/Works2.html"
+ },
+ {
+  "term": "Coherence",
+  "definition": "Light waves lined up in time and space; the reason a laser beam spreads far less than ordinary light.",
+  "section": "basics",
+  "source_url": "https://laserfx.com/Works/Works2.html"
+ },
+ {
+  "term": "Divergence",
+  "definition": "How fast a beam widens with distance, in milliradians (mrad). At 1 mrad a beam grows 1 cm for every 10 m.",
+  "section": "basics",
+  "source_url": "https://steinigke.de/en/Showlaser"
+ },
+ {
+  "term": "Haze",
+  "definition": "A very fine, evenly spread mist that makes beams visible as smooth cones and sheets.",
+  "section": "basics",
+  "source_url": "https://ilda.com/hazefoglasers.htm"
+ },
+ {
+  "term": "Fog",
+  "definition": "A thicker, billowing mist that shows swirls inside the beams.",
+  "section": "basics",
+  "source_url": "https://ilda.com/hazefoglasers.htm"
+ },
+ {
+  "term": "Beam show",
+  "definition": "A show seen in mid-air: shapes scanned through haze as beams, fans, cones and tunnels.",
+  "section": "basics",
+  "source_url": "https://pangolin.com/blogs/news/types-of-laser-shows"
+ },
+ {
+  "term": "Graphics show",
+  "definition": "A show in which the laser draws logos, text and animation on a surface.",
+  "section": "basics",
+  "source_url": "https://pangolin.com/blogs/news/types-of-laser-shows"
+ },
+ {
+  "term": "Abstracts",
+  "definition": "Non-representational moving laser patterns.",
+  "section": "basics",
+  "source_url": "https://pangolin.com/blogs/news/types-of-laser-shows"
+ },
+ {
+  "term": "Lumia",
+  "definition": "A soft, gauze-like moving pattern made by sending the beam through rippled glass or plastic.",
+  "section": "basics",
+  "source_url": "https://laserfx.com/Science/Science3.html"
+ },
+ {
+  "term": "Liquid sky",
+  "definition": "Haze or fog visibly swirling inside a flat sheet of laser light.",
+  "section": "basics",
+  "source_url": "https://laserfx.com/Science/Science3.html"
+ },
+ {
+  "term": "Flicker",
+  "definition": "Visible pulsing when the scanners cannot finish a drawing before the eye lets the start of it fade.",
+  "section": "basics",
+  "source_url": "https://laserfx.com/Science/Science3.html"
+ },
+ {
+  "term": "Point",
+  "definition": "The smallest thing laser software controls: an X position, a Y position, on or off, and usually a color.",
+  "section": "basics",
+  "source_url": "https://laserfx.com/Science/Science3.html"
+ },
+ {
+  "term": "Galvo",
+  "definition": "A galvanometer scanner: a small motor with a mirror on its shaft. Two of them, X and Y, aim the beam.",
+  "section": "basics",
+  "source_url": "https://pangolin.com/blogs/news/what-is-a-laser-show-projector"
+ },
+ {
+  "term": "kpps",
+  "definition": "Thousands of points per second, the speed rating for scanners.",
+  "section": "basics",
+  "source_url": "https://ilda.com/projectorspecs.htm"
+ },
+ {
+  "term": "Dichroic",
+  "definition": "A mirror or filter that passes one color and reflects others; used to merge red, green and blue lasers into one beam.",
+  "section": "basics",
+  "source_url": "https://en.wikipedia.org/wiki/Laser_projector"
+ },
+ {
+  "term": "Demonstration laser product",
+  "definition": "The US regulatory term for a laser made or promoted for entertainment, display or art.",
+  "section": "basics",
+  "source_url": "https://www.law.cornell.edu/cfr/text/21/1040.10"
+ },
+ {
+  "term": "Variance",
+  "definition": "US FDA approval needed before show laser equipment above 5 mW of visible output is sold or used.",
+  "section": "basics",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows"
+ },
+ {
+  "term": "Laser-phosphor projector",
+  "definition": "A video projector in which blue laser diodes light a spinning phosphor wheel and an imaging chip forms the picture; no beam is scanned.",
+  "section": "basics",
+  "source_url": "https://celluloidjunkie.com/2026/03/25/cj-tech-rgb-laser-vs-phosphor-laser-understanding-the-difference/"
+ },
+ {
+  "term": "Pepper's ghost",
+  "definition": "A reflection illusion using a slanted transparent sheet; the method behind stage \"holograms\".",
+  "section": "basics",
+  "source_url": "https://theconversation.edu.au/tupacs-rise-from-the-dead-was-sadly-not-holography-6641"
+ },
+ {
+  "term": "Hologram",
+  "definition": "A recording of the full wavefield of light that replays a true 3D image when lit by a laser.",
+  "section": "basics",
+  "source_url": "https://theconversation.edu.au/tupacs-rise-from-the-dead-was-sadly-not-holography-6641"
+ },
+ {
+  "term": "Lidar",
+  "definition": "A scanning laser used to measure distance, as on some cars.",
+  "section": "basics",
+  "source_url": "https://www.androidauthority.com/laser-lidar-damage-phone-camera-3559006"
+ }
+]

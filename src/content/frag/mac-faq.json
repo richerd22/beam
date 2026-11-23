@@ -1,0 +1,42 @@
+[
+ {
+  "q": "What does 30kpps at 8 degrees mean on a laser projector?",
+  "a": "It means the scanners draw the ILDA test pattern correctly at 30,000 points per second when the pattern is 8 degrees wide. At that angle the pattern is about one seventh as wide as the distance to the screen. A 30K figure quoted at a smaller angle, such as 4 degrees, is not a true 30K rating.",
+  "section": "scanning"
+ },
+ {
+  "q": "What is the difference between analog and TTL laser modulation?",
+  "a": "With analog modulation each laser's brightness varies continuously, usually in 256 steps per color, for about 16.7 million combinations. With TTL each laser is only on or off, which gives seven colors and no fades.",
+  "section": "scanning"
+ },
+ {
+  "q": "What lasers did old laser shows use, and why did they need water cooling?",
+  "a": "Professional shows ran on argon-ion and krypton-ion gas lasers, or a mixed-gas white-light tube. They were about 0.05% efficient - one Coherent model took 27.5 kW to make 18 W of light - so nearly all the input became heat, carried away by several gallons of water a minute.",
+  "section": "lasers"
+ },
+ {
+  "q": "What is an OPSL laser?",
+  "a": "An optically pumped semiconductor laser uses diode lasers to pump a thin semiconductor gain chip inside a small cavity, with crystals converting the infrared to visible light. Chip design sets the wavelength, so it reaches colors such as 577 nm yellow and 590 nm orange, with divergence of about 0.2 mrad. Coherent shipped the first in 2002.",
+  "section": "lasers"
+ },
+ {
+  "q": "How many watts is a concert or festival laser, and what does one cost?",
+  "a": "Pangolin's 2026 guidance is 500 mW to 3 W for small and medium clubs, 3 to 12 W for large indoor rooms and 15 to 40 W and up for stadiums and festivals. In November 2026 a US dealer listed a 10 W Kvant Clubmax at $10,298 and a 40 W outdoor-rated model at $23,269.",
+  "section": "lasers"
+ },
+ {
+  "q": "Why do complex laser graphics flicker?",
+  "a": "The redraw rate is the point rate divided by the number of points in the frame. ILDA's 1,192-point test pattern redraws about 25.2 times a second at 30,000 points per second; a frame with more points drops below the roughly 20 redraws a second the eye needs to see a steady line.",
+  "section": "scanning"
+ },
+ {
+  "q": "How does a laser show projector draw a picture?",
+  "a": "Two small mirrors on galvanometer motors, one for X and one for Y, steer a single beam along the outline of the image. The beam retraces the path more than 20 times a second, so persistence of vision turns the moving dot into steady lines.",
+  "section": "scanning"
+ },
+ {
+  "q": "Is a higher-wattage laser always brighter?",
+  "a": "No. Power is properly measured at the output window, where 15 to 30% has typically been lost; a wider-diverging beam is dimmer at distance; and the eye is most sensitive at 555 nm green, so a 633 nm red looks about eight times brighter than a 670 nm red at equal power.",
+  "section": "lasers"
+ }
+]

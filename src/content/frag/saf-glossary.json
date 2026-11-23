@@ -1,0 +1,140 @@
+[
+ {
+  "term": "Maximum Permissible Exposure (MPE)",
+  "definition": "The highest level of laser light a standard treats as acceptable for an eye or skin over a given time. For a visible beam and a quarter second it is about 2.5 mW/cm2.",
+  "section": "safety",
+  "source_url": "https://laserpointersafety.com/irradiance.html"
+ },
+ {
+  "term": "Aversion response",
+  "definition": "The blink or turn-away reflex to bright light. Exposure limits for visible beams assume it takes 0.25 seconds.",
+  "section": "safety",
+  "source_url": "https://laserpointersafety.com/irradiance.html"
+ },
+ {
+  "term": "Irradiance",
+  "definition": "Power spread over an area, in mW/cm2. It falls with distance as a beam widens.",
+  "section": "safety",
+  "source_url": "https://laserpointersafety.com/irradiance.html"
+ },
+ {
+  "term": "Divergence",
+  "definition": "How fast a beam widens as it travels. Doubling it halves the hazard distance.",
+  "section": "safety",
+  "source_url": "https://laserpointersafety.com/irradiance.html"
+ },
+ {
+  "term": "Nominal Ocular Hazard Distance (NOHD)",
+  "definition": "The distance at which a direct beam has spread enough for its irradiance to fall to the MPE.",
+  "section": "safety",
+  "source_url": "https://laserpointersafety.com/irradiance.html"
+ },
+ {
+  "term": "Scanning safeguard",
+  "definition": "A feature that prevents exposure above the limits if the scanning mirrors slow or stop. Required on scanned laser products in the US by 21 CFR 1040.10(f)(9).",
+  "section": "safety",
+  "source_url": "https://www.law.cornell.edu/cfr/text/21/1040.10"
+ },
+ {
+  "term": "Class 3B / IIIb",
+  "definition": "Above 5 mW up to 500 mW. Hazardous even for brief accidental direct exposure.",
+  "section": "safety",
+  "source_url": "https://www.gov.uk/government/publications/laser-radiation-safety-advice/laser-radiation-safety-advice"
+ },
+ {
+  "term": "Class 4 / IV",
+  "definition": "Above 500 mW. An eye and skin hazard from the direct or reflected beam, and often a fire hazard.",
+  "section": "safety",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-products-and-instruments"
+ },
+ {
+  "term": "Class 3R / IIIa",
+  "definition": "Up to 5 mW of visible output; the most a US show projector may emit without an FDA variance.",
+  "section": "rules",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows"
+ },
+ {
+  "term": "Audience scanning",
+  "definition": "Beams deliberately swept through the crowd at levels meant to stay within the exposure limit. Excluded by the standard conditions of a US variance.",
+  "section": "safety",
+  "source_url": "https://www.fda.gov/media/72256/download"
+ },
+ {
+  "term": "Demonstration laser product",
+  "definition": "The US legal term for a laser made, designed, intended or promoted for demonstration, entertainment, advertising display or artistic composition.",
+  "section": "rules",
+  "source_url": "https://www.law.cornell.edu/cfr/text/21/1040.10"
+ },
+ {
+  "term": "Variance",
+  "definition": "FDA permission to vary from a requirement of a performance standard - for shows, the 5 mW cap in 21 CFR 1040.11(c) - on stated safety conditions.",
+  "section": "rules",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/submitting-reports-and-requirements-maintaining-records-radiation/electronic-product-radiation-control-eprc-variance-application-process-fda"
+ },
+ {
+  "term": "Variance condition",
+  "definition": "A requirement the FDA attaches to a variance approval, binding on the holder. The 3.0 m and 2.5 m audience separations are conditions.",
+  "section": "rules",
+  "source_url": "https://www.fda.gov/media/72256/download"
+ },
+ {
+  "term": "Laser Notice",
+  "definition": "A numbered FDA guidance letter to the laser industry, such as Notice 51 on projector sales or Notice 55 on variance renewal.",
+  "section": "rules",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/laser-products-and-instruments/notices-laser-industry"
+ },
+ {
+  "term": "CDRH",
+  "definition": "The FDA's Center for Devices and Radiological Health, which receives laser product reports and variance applications.",
+  "section": "rules",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows"
+ },
+ {
+  "term": "Letter of determination",
+  "definition": "The FAA's reply to a notice of an outdoor laser operation, stating an objection or no objection.",
+  "section": "rules",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "term": "Laser Free Zone",
+  "definition": "FAA airspace closest to runways, where visible laser light is capped at 50 nW/cm2.",
+  "section": "rules",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "term": "Critical Flight Zone",
+  "definition": "FAA airspace within 10 NM of an airport up to 10,000 ft above ground, capped in Advisory Circular 70-1B at 5 microwatts/cm2.",
+  "section": "rules",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "term": "Safety observer",
+  "definition": "A person watching the airspace or beam paths who can terminate the beam immediately; ILDA's draft standard calls the role a laser spotter.",
+  "section": "rules",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "term": "Laser Safety Officer (LSO)",
+  "definition": "The named person responsible for laser safety at a facility or show. Required by name in several US states and in Germany.",
+  "section": "safety",
+  "source_url": "https://www.mass.gov/doc/105-cmr-121-to-control-the-radiation-hazards-of-lasers-laser-systems-and-optical-fiber-communication-systems-utilizing-laser-diode-or-light-emitting-diode-sources/download"
+ },
+ {
+  "term": "Laserschutzbeauftragter",
+  "definition": "Germany's laser safety officer, appointed in writing before Class 3R, 3B or 4 lasers are operated by an employer who lacks the required expertise personally.",
+  "section": "rules",
+  "source_url": "https://www.gesetze-im-internet.de/ostrv/__5.html"
+ },
+ {
+  "term": "NOTAM",
+  "definition": "A notice to aircrews. The UK CAA normally issues one for a notified outdoor laser display.",
+  "section": "rules",
+  "source_url": "https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/"
+ },
+ {
+  "term": "ILDA",
+  "definition": "The International Laser Display Association, the laser show trade body.",
+  "section": "safety",
+  "source_url": "https://ilda.com/audiencescanningsafety.htm"
+ }
+]

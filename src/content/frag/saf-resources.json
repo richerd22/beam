@@ -1,0 +1,42 @@
+[
+ {
+  "title": "FDA: Laser Light Shows",
+  "url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows",
+  "why": "The US regulator's plain summary of the rules, forms and notices."
+ },
+ {
+  "title": "FDA Form 3147",
+  "url": "https://www.fda.gov/media/72256/download",
+  "why": "The variance conditions in the regulator's wording: 3.0 m and 2.5 m separation, no audience scanning by default, FAA notice."
+ },
+ {
+  "title": "FAA Advisory Circular 70-1B",
+  "url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf",
+  "why": "Outdoor shows, flight zones and the filing process."
+ },
+ {
+  "title": "ILDA: Audience scanning safety",
+  "url": "https://ilda.com/audiencescanningsafety.htm",
+  "why": "The trade body's explanation of MPE and its recommended limits, clear about what is and is not law."
+ },
+ {
+  "title": "DGUV Information 203-036 (German)",
+  "url": "https://publikationen.dguv.de/widgets/pdf/download/article/99",
+  "why": "The most detailed free regulator-side document on show lasers, with diagrams and checklists."
+ },
+ {
+  "title": "HSE: The safety of laser lighting displays",
+  "url": "https://www.hse.gov.uk/pubns/indg224.htm",
+  "why": "The UK position on one page, with the pointer to PLASA's guide."
+ },
+ {
+  "title": "ILDA: Camera sensor damage",
+  "url": "https://ilda.com/camera-sensor-damage.htm",
+  "why": "Thresholds, cases and practical notes on lasers and cameras."
+ },
+ {
+  "title": "O'Hagan PhD thesis (1998)",
+  "url": "https://core.ac.uk/download/288373811.pdf",
+  "why": "The deepest free study of show laser risk and UK regulatory history."
+ }
+]

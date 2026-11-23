@@ -1,0 +1,146 @@
+[
+ {
+  "place": "United States (federal)",
+  "body": "FDA / CDRH",
+  "rule": "21 CFR 1040.10 and 1040.11(c)",
+  "status": "law",
+  "what": "Demonstration laser products must meet Class I, IIa, II or IIIa limits; projectors are limited to 5 mW visible unless the FDA approves a variance under 21 CFR 1010.4.",
+  "audience_scanning": "Not addressed in the regulation text; handled through variance conditions",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows"
+ },
+ {
+  "place": "United States (federal)",
+  "body": "FDA / CDRH",
+  "rule": "Form FDA 3147 standard variance conditions (items 13c, 13d, 13l)",
+  "status": "condition",
+  "what": "Variance conditions, binding on the variance holder rather than a regulation of general application: laser light above Class I limits kept 3.0 m above and 2.5 m lateral to or below where the public may be; operator in direct control; FAA notice for open airspace.",
+  "audience_scanning": "Not permitted except diffuse reflections from the atmosphere, added scattering media and target screens; specific approval needed",
+  "source_url": "https://www.fda.gov/media/72256/download"
+ },
+ {
+  "place": "United States (federal)",
+  "body": "FDA / CDRH",
+  "rule": "Laser Notice 55 (2007)",
+  "status": "guidance",
+  "what": "Eligible Class IIIb/IV show variances roll over one year at a time if the annual report (due September 1) is filed.",
+  "audience_scanning": "Audience scanning variances excluded from the streamlined renewal",
+  "source_url": "https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/procedures-renewal-and-amendment-certain-laser-light-show-variances-laser-notice-55"
+ },
+ {
+  "place": "United States (airspace)",
+  "body": "FAA",
+  "rule": "Advisory Circular 70-1B; Form 7140-1",
+  "status": "guidance",
+  "what": "Notice of outdoor laser operations requested at least 30 days before the event; flight zone limits of 50 nW/cm2 (Laser Free), 5 microwatts/cm2 (Critical), 100 microwatts/cm2 (Sensitive) and the MPE elsewhere; FAA issues a letter of determination.",
+  "audience_scanning": "",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "place": "United States (federal)",
+  "body": "US Congress / Department of Justice",
+  "rule": "18 U.S.C. 39A",
+  "status": "law",
+  "what": "Knowingly aiming a laser pointer beam at an aircraft or its flight path is punishable by fine, up to 5 years, or both.",
+  "audience_scanning": "",
+  "source_url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI-chap2-sec39A.htm"
+ },
+ {
+  "place": "New York",
+  "body": "Department of Labor",
+  "rule": "12 NYCRR Part 50 (Industrial Code Rule 50)",
+  "status": "law",
+  "what": "Registration of laser installations and mobile lasers; certificate of competence to operate a mobile laser; owners name a laser safety officer. No light-show-specific section.",
+  "audience_scanning": "",
+  "source_url": "https://dol.ny.gov/system/files/documents/2021/03/cr50.pdf"
+ },
+ {
+  "place": "Texas",
+  "body": "Department of State Health Services",
+  "rule": "25 Texas Administrative Code 289.301",
+  "status": "law",
+  "what": "Class 3B and 4 lasers registered; a registration certificate and valid FDA variance before any light show; written notice 7 days before each show.",
+  "audience_scanning": "",
+  "source_url": "https://law.cornell.edu/regulations/texas/25-Tex-Admin-Code-SS-289-301"
+ },
+ {
+  "place": "Illinois",
+  "body": "Illinois Emergency Management Agency",
+  "rule": "32 Ill. Adm. Code 315.140",
+  "status": "law",
+  "what": "Written notice at least 10 working days before a show with FDA variance documentation; nothing above Class 2 less than 3 m above audience standing surfaces or within 2.5 m laterally.",
+  "audience_scanning": "Audience locations limited to Class 1; scanning must not exceed Class 1 on the audience even in a scan failure",
+  "source_url": "https://ilga.gov/ftp/JCAR/AdminCode/032/032003150001400R.html"
+ },
+ {
+  "place": "Massachusetts",
+  "body": "Department of Public Health Radiation Control Program",
+  "rule": "105 CMR 121",
+  "status": "law",
+  "what": "Class 3B and 4 facilities register and name a laser safety officer; 10 working days' notice for out-of-state lasers; entertainment lasers need an FDA variance and separations of 10 ft above and 8 ft to the side or below under continuous operator control.",
+  "audience_scanning": "Audience areas limited to Class 1",
+  "source_url": "https://www.mass.gov/doc/105-cmr-121-to-control-the-radiation-hazards-of-lasers-laser-systems-and-optical-fiber-communication-systems-utilizing-laser-diode-or-light-emitting-diode-sources/download"
+ },
+ {
+  "place": "United Kingdom",
+  "body": "Health and Safety Executive; local authorities",
+  "rule": "General health and safety duties; HS(G)95 withdrawn",
+  "status": "law",
+  "what": "No laser show license. Duty holders must assess and control the risks and use competent contractors; HSE has withdrawn HS(G)95 and points to PLASA's guide.",
+  "audience_scanning": "",
+  "source_url": "https://www.hse.gov.uk/pubns/indg224.htm"
+ },
+ {
+  "place": "United Kingdom",
+  "body": "PLASA",
+  "rule": "Guidance for the Safety of Display Lasers (2019)",
+  "status": "industry practice",
+  "what": "Not compulsory; PLASA says following it will normally be enough to comply with the law and inspectors may cite it as good practice.",
+  "audience_scanning": "",
+  "source_url": "http://www.plasa.org/technical/Laser_Guidance.asp"
+ },
+ {
+  "place": "United Kingdom (airspace)",
+  "body": "Civil Aviation Authority",
+  "rule": "CAP 736 (2011) and CAA web guidance",
+  "status": "guidance",
+  "what": "Notice of outdoor laser displays: CAP 736 says organizers should give 28 days' advance notification on form DAP 1918; the CAA's newer web page requests a minimum of 7 days. Legal backstop is Air Navigation Order 2016 articles 240, 241 and 265.",
+  "audience_scanning": "",
+  "source_url": "https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/"
+ },
+ {
+  "place": "Germany",
+  "body": "Employer, under federal occupational safety law",
+  "rule": "OStrV section 5(2)",
+  "status": "law",
+  "what": "An employer who lacks the required expertise personally must appoint a laser safety officer (Laserschutzbeauftragter) with current training in writing before Class 3R, 3B or 4 lasers are operated.",
+  "audience_scanning": "",
+  "source_url": "https://www.gesetze-im-internet.de/ostrv/__5.html"
+ },
+ {
+  "place": "Germany",
+  "body": "DGUV (statutory accident insurers)",
+  "rule": "DGUV Information 203-036 (January 2021)",
+  "status": "guidance",
+  "what": "Exposure limits must hold in the audience area up to 2.70 m; show area separated by a barrier at least 0.8 m high with 1 m lateral distance; a competent person verifies limits on site.",
+  "audience_scanning": "Not banned outright: a beam in the audience space is treated as safe only if attenuated, widened, split or moved fast enough that limits are not exceeded",
+  "source_url": "https://publikationen.dguv.de/widgets/pdf/download/article/99"
+ },
+ {
+  "place": "Canada",
+  "body": "Transport Canada",
+  "rule": "Canadian Aviation Regulations 601.19-601.21",
+  "status": "law",
+  "what": "Written permission needed to aim a laser into navigable airspace; possessing a hand-held laser over 1 mW outside a private dwelling is prohibited within 10 km of airports and certified heliports and in the greater Montreal, Toronto and Vancouver regions.",
+  "audience_scanning": "",
+  "source_url": "https://tc.canada.ca/en/aviation/aviation-security/use-hand-held-lasers-legally-safely"
+ },
+ {
+  "place": "International",
+  "body": "ILDA",
+  "rule": "Audience scanning safety recommendations",
+  "status": "industry practice",
+  "what": "Recommended ceilings at the closest audience point of 2.5 mW/cm2 for static beams and 10 mW/cm2 for continuously scanned beams; scan-fail shut-off target of 10 ms, preferably 1 ms.",
+  "audience_scanning": "Supported within the MPE; ILDA members affirm that pulsed lasers should never be used",
+  "source_url": "https://ilda.com/audiencescanningsafety.htm"
+ }
+]

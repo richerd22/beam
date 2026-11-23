@@ -1,0 +1,37 @@
+[
+ {
+  "q": "How do laser light shows work?",
+  "a": "A projector puts out one narrow beam and two small mirrors steer it. The beam retraces its path so fast - more than 20 times a second, by one maker's figure - that the eye sees steady lines, either as shapes in hazy air or as drawings on a surface.",
+  "section": "basics"
+ },
+ {
+  "q": "Why can't you see laser beams without fog?",
+  "a": "A beam is visible from the side only when particles in the air scatter some of its light toward your eye. In clean air you see only the spot where it lands, so shows add haze or fog; ILDA says an effective beam show is not possible in clear air.",
+  "section": "basics"
+ },
+ {
+  "q": "Why are most lasers green?",
+  "a": "The eye is most sensitive to green light. A 1 mW green pointer looks about 30 times as bright as a 1 mW red one (a 2011 estimate), and green also scatters more in air, so the beam shows up better.",
+  "section": "basics"
+ },
+ {
+  "q": "Is a laser video projector the same as a laser show projector?",
+  "a": "No. A laser video projector uses lasers as its lamp and forms a full frame of pixels with an imaging chip; no raw beam leaves the lens. A show projector has no pixels: it steers one narrow beam with two mirrors.",
+  "section": "basics"
+ },
+ {
+  "q": "Is a hologram concert a real hologram?",
+  "a": "The best-known case was not. The Tupac appearance at Coachella in 2012 was a 2D projection reflected off a slanted transparent film, the Pepper's ghost illusion. A true hologram records the full wavefield of light and replays a 3D image.",
+  "section": "basics"
+ },
+ {
+  "q": "Are laser shows safe for your eyes?",
+  "a": "The US FDA says compliant shows keep hazardous lasers away from the audience; the risks from badly handled lasers are eye injury, skin burns, fire and distraction of pilots and drivers. UK guidance lists scan-failure systems, emergency stops, barriers and competent operators as the usual controls.",
+  "section": "basics"
+ },
+ {
+  "q": "Do laser pointers and show lasers work the same way?",
+  "a": "The physics is the same, and both are usually diode lasers. The difference is power and control: in the US a demonstration laser is limited to 5 mW of visible light without an FDA variance, while professional show projectors are Class 3B or 4 and steer the beam with scanners.",
+  "section": "basics"
+ }
+]

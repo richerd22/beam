@@ -1,0 +1,72 @@
+{
+ "title": "The Beam: how laser shows work - the planetarium years, the machines, the rules",
+ "description": "An independent, cited guide to laser light shows: how a beam becomes a picture, Laserium and the planetarium era, gas tubes to diodes, how shows are programmed, why lasers can injure and who regulates them, and what a show costs.",
+ "paths": [
+  {
+   "who": "Just saw one",
+   "title": "How did that work?",
+   "blurb": "What a laser show is, why you need haze, and how two mirrors draw a picture.",
+   "slugs": [
+    "basics",
+    "scanning",
+    "planetarium"
+   ]
+  },
+  {
+   "who": "Here for the story",
+   "title": "From 1960 to the dome",
+   "blurb": "The first laser art, Laserium, rock tours and the album shows that never went away.",
+   "slugs": [
+    "history",
+    "planetarium",
+    "stage"
+   ]
+  },
+  {
+   "who": "Working with them",
+   "title": "Machines and method",
+   "blurb": "The sources, the scanners, the software and what happens on a show day.",
+   "slugs": [
+    "lasers",
+    "scanning",
+    "programming"
+   ]
+  },
+  {
+   "who": "Responsible for one",
+   "title": "Safety and the rules",
+   "blurb": "The hazard, the exposure limit, and what regulators in each country require.",
+   "slugs": [
+    "safety",
+    "rules",
+    "now"
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "q": "How does a laser show work?",
+   "a": "A laser beam is steered by two small mirrors on galvanometers, fast enough that the moving dot looks like solid lines and shapes. Software or a live operator decides where the dot goes, and haze in the air makes the beam visible."
+  },
+  {
+   "q": "Why can you only see laser beams in fog or haze?",
+   "a": "A laser beam travels in one direction, so none of its light reaches your eye from the side unless something scatters it. Haze or fog particles do that scattering."
+  },
+  {
+   "q": "Are laser shows safe to watch?",
+   "a": "Shows are designed so that any beam a person could meet stays under the exposure limit for a quarter-second accidental exposure, about 2.5 mW/cm2 for visible light. Documented audience injuries are rare; the guide's safety section covers the ones on record."
+  },
+  {
+   "q": "Do you need a license to run a laser show?",
+   "a": "In the United States, a show laser above 5 mW of visible output needs a variance from the FDA, and outdoor beams involve the FAA. Most other countries have no specific laser show license and apply general safety law and exposure limits."
+  },
+  {
+   "q": "When was the first planetarium laser show?",
+   "a": "Ivan Dryer's Laserium opened at Griffith Observatory in Los Angeles on November 19, 1973, performed live by an operator to recorded music."
+  },
+  {
+   "q": "What was the Phoebe Bridgers planetarium laser show?",
+   "a": "Phoebe Bridgers previewed her album Lost Weekend in 44 planetariums from August 10 to 14, 2026, with either a fulldome show or a laser show designed by Laser Fantasy."
+  }
+ ]
+}

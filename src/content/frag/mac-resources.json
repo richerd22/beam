@@ -1,0 +1,42 @@
+[
+ {
+  "title": "ILDA: Laser projector specifications",
+  "url": "https://ilda.com/projectorspecs.htm",
+  "why": "The most even-handed explanation of power, divergence, kpps and modulation claims, with warnings about how specs get inflated."
+ },
+ {
+  "title": "LaserFX: How Laser Shows Work - Projectors",
+  "url": "https://laserfx.com/Works/Works3.html",
+  "why": "The best record of gas-era hardware: beam tables, colour boxes, shutters and bounce mirrors."
+ },
+ {
+  "title": "Sam's Laser FAQ: Argon/Krypton Ion Lasers",
+  "url": "https://www.repairfaq.org/sam/laserarg.htm",
+  "why": "Engineer-level detail on ion tubes, power supplies, cooling and wavelengths."
+ },
+ {
+  "title": "ILDA Test Pattern, revision 002 (1995)",
+  "url": "https://ilda.com/resources/StandardsDocs/ILDA_TestPattern95_rev002.pdf",
+  "why": "The primary source for the 12K and 30K scanner standard."
+ },
+ {
+  "title": "21 CFR 1040.10 (Cornell LII)",
+  "url": "https://www.law.cornell.edu/cfr/text/21/1040.10",
+  "why": "The US regulation's own list of required laser product safety features."
+ },
+ {
+  "title": "Jeff Hecht: History of Gas Lasers, Part 1",
+  "url": "https://optica-opn.org/home/articles/volume_21/issue_1/features/history_of_gas_lasers_part_1%E2%80%94continuous_wave_gas",
+  "why": "Dated, sourced history of the helium-neon and ion lasers."
+ },
+ {
+  "title": "Justin Perry: Scanning advances brighten and enhance laser light shows",
+  "url": "https://www.laserfocusworld.com/software-accessories/positioning-support-accessories/article/16547109/optical-scanning-scanning-advances-brighten-and-enhance-laser-light-shows",
+  "why": "Trade-press account of how galvanometers developed and what limits them."
+ },
+ {
+  "title": "Coherent: 150,000 OPSLs and Counting",
+  "url": "https://www.coherent.com/news/blog/150000-optically-pumped-semiconductor-lasers",
+  "why": "The clearest primary description of how an OPSL works."
+ }
+]

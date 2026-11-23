@@ -1,0 +1,32 @@
+[
+ {
+  "title": "ILDA: Haze, fog and lasers",
+  "url": "https://ilda.com/hazefoglasers.htm",
+  "why": "Short, plain account of why beams need particles in the air and how haze and fog differ."
+ },
+ {
+  "title": "ILDA: Laser projector specifications",
+  "url": "https://ilda.com/projectorspecs.htm",
+  "why": "Even-handed explanation of power, divergence, color and scanner ratings, with warnings about inflated specs."
+ },
+ {
+  "title": "LaserFX: How Laser Shows Work",
+  "url": "https://laserfx.com/Works/Works2.html",
+  "why": "Beginner-level walk through the physics and the hardware from the gas-laser era."
+ },
+ {
+  "title": "FDA: Laser Light Shows",
+  "url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows",
+  "why": "The US regulator's one-page summary of the risks and the rules."
+ },
+ {
+  "title": "HSE: The safety of laser lighting displays",
+  "url": "https://www.hse.gov.uk/pubns/indg224.htm",
+  "why": "Brief UK guidance on what a display laser can do and the usual controls."
+ },
+ {
+  "title": "The Conversation: Tupac's rise from the dead was sadly not holography",
+  "url": "https://theconversation.edu.au/tupacs-rise-from-the-dead-was-sadly-not-holography-6641",
+  "why": "Clear explanation of what a hologram is and why the stage version is Pepper's ghost."
+ }
+]

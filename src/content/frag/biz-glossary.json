@@ -1,0 +1,134 @@
+[
+ {
+  "term": "Laser harp",
+  "definition": "A fan of laser beams wired as a MIDI controller: breaking a beam with a hand triggers a synthesizer note. Jean-Michel Jarre's 2017 shows used a 20 W one.",
+  "section": "stage",
+  "source_url": "https://plsn.com/articles/video-production/jean-michel-jarre-2017-spectacles-add-to-an-epic-career"
+ },
+ {
+  "term": "Audience scanning",
+  "definition": "Deliberately sweeping laser beams through the crowd at controlled exposure levels.",
+  "section": "stage",
+  "source_url": "https://pangolin.com/blogs/news/edc-las-vegas-2019-worlds-largest-outdoor-audience-scanning-event"
+ },
+ {
+  "term": "Laser emission source",
+  "definition": "The unit Guinness counts for its largest laser show record: each point where a beam leaves a device, with a beam split by diffraction counted once.",
+  "section": "stage",
+  "source_url": "https://www.guinnessworldrecords.com/world-records/459824-largest-laser-show"
+ },
+ {
+  "term": "Copper-vapor laser",
+  "definition": "A gas laser used on large 1990s tours; Pink Floyd's 1994 US tour carried two 50 W systems.",
+  "section": "stage",
+  "source_url": "https://pfco.neptunepinkfloyd.co.uk/band/interviews/art-rev/art-ld.html"
+ },
+ {
+  "term": "OPSL",
+  "definition": "Optically pumped semiconductor laser, a solid-state source used in touring projectors such as the 35 W units on Jean-Michel Jarre's 2017 shows.",
+  "section": "stage",
+  "source_url": "https://plsn.com/articles/video-production/jean-michel-jarre-2017-spectacles-add-to-an-epic-career"
+ },
+ {
+  "term": "Beam termination",
+  "definition": "A surface or unit placed to catch a laser beam at the end of its path.",
+  "section": "stage",
+  "source_url": "https://www.livedesignonline.com/news/illeniums-odyssey-sphere"
+ },
+ {
+  "term": "ILDA",
+  "definition": "The International Laser Display Association, the laser show trade body, founded at Lake Tahoe on August 16, 1986.",
+  "section": "stage",
+  "source_url": "https://en.wikipedia.org/wiki/International_Laser_Display_Association"
+ },
+ {
+  "term": "ILDA Awards",
+  "definition": "The laser display industry's annual prizes, with artistic categories such as Beams/Atmospherics, Graphics, Planetarium and Live Stage.",
+  "section": "stage",
+  "source_url": "https://ilda.com/awards2014.htm"
+ },
+ {
+  "term": "Fenning Award",
+  "definition": "ILDA's award for technical achievement.",
+  "section": "stage",
+  "source_url": "https://ilda.com/awards2014.htm"
+ },
+ {
+  "term": "IAPLC",
+  "definition": "ILDA Accredited Professional Lasershow Company: an industry credential requiring documented shows, client references, a staff member who has passed a Laser Safety Officer course and a signed safety affirmation.",
+  "section": "stage",
+  "source_url": "https://ilda.com/certification-laser-show-companies.htm"
+ },
+ {
+  "term": "Show-day rate",
+  "definition": "What a laser company charges per day of show, worked out from equipment write-off, overhead and margin.",
+  "section": "stage",
+  "source_url": "https://laserfx.com/Backstage.LaserFX.com/Business/Business2.html"
+ },
+ {
+  "term": "Variance",
+  "definition": "Permission from the US FDA to sell or run laser show equipment above Class IIIa (5 mW visible).",
+  "section": "now",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows"
+ },
+ {
+  "term": "Demonstration laser product",
+  "definition": "The US regulatory category that covers laser light show projectors.",
+  "section": "now",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows"
+ },
+ {
+  "term": "Laser Notice",
+  "definition": "A numbered FDA guidance letter to the laser industry, such as Laser Notice 51 (projector makers and dealers) and Laser Notice 56 (IEC conformance).",
+  "section": "now",
+  "source_url": "https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/responsibilities-laser-light-show-projector-manufacturers-dealers-and-distributors-laser-notice-51"
+ },
+ {
+  "term": "Import alert",
+  "definition": "An FDA instruction that lets border staff detain listed firms' products without examining them; Import Alert 95-04 covers laser pointers and light show projectors.",
+  "section": "now",
+  "source_url": "https://www.accessdata.fda.gov/CMS_IA/importalert_254.html"
+ },
+ {
+  "term": "DPSS",
+  "definition": "Diode-pumped solid-state laser, the default show laser source from about 2005 until direct diodes took over, by one maker's account.",
+  "section": "now",
+  "source_url": "https://www.starshinelights.com/blogs/news/stage-laser-projector-evolution"
+ },
+ {
+  "term": "Direct diode",
+  "definition": "A semiconductor laser that emits the wanted color itself, such as 445 nm blue and about 520 nm green.",
+  "section": "now",
+  "source_url": "https://www.starshinelights.com/blogs/news/stage-laser-projector-evolution"
+ },
+ {
+  "term": "Variable divergence",
+  "definition": "A projector feature that lets the operator widen or narrow the beam during a show.",
+  "section": "now",
+  "source_url": "https://pangolin.com/blogs/news/lighting-up-the-2024-super-bowl-halftime-show-with-beambrush"
+ },
+ {
+  "term": "Laserist",
+  "definition": "The person who performs or operates a laser show, often mixing pre-programmed cues with live control. Also called a laser artist.",
+  "section": "now",
+  "source_url": "https://www.seattlemet.com/arts-and-culture/2026/09/pacific-science-laser-show"
+ },
+ {
+  "term": "Laser Safety Officer (LSO)",
+  "definition": "The trained person responsible for a show's laser safety; required in some jurisdictions (Germany, Arizona) and not in others.",
+  "section": "now",
+  "source_url": "https://ilda.com/resources/Safety/2025-01-16-LSO-requirements-and-courses-06.pdf"
+ },
+ {
+  "term": "Scan-failure safety system",
+  "definition": "A system that cuts the beam if the scanning mirrors stop moving; listed by the UK HSE among standard controls for laser displays.",
+  "section": "now",
+  "source_url": "https://www.hse.gov.uk/pubns/indg224.htm"
+ },
+ {
+  "term": "NOTAM",
+  "definition": "A notice to pilots; UK guidance says one should be filed for outdoor laser beams.",
+  "section": "now",
+  "source_url": "https://www.hse.gov.uk/pubns/indg224.htm"
+ }
+]

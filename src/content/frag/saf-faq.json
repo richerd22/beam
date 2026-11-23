@@ -1,0 +1,42 @@
+[
+ {
+  "q": "Are laser shows safe for your eyes?",
+  "a": "The FDA says compliant shows keep hazardous lasers away from the audience, and that where a beam could fall on the crowd its power is kept below hazardous levels. Injuries are on record, including retinal damage at a 2008 festival in Russia and at a Seoul club in 2014, and no dedicated count of show injuries exists.",
+  "section": "safety"
+ },
+ {
+  "q": "Why can't lasers point at the crowd in the US when they do in Europe?",
+  "a": "The exposure limit is the same. The standard conditions of an FDA variance rule out audience scanning and keep beams 3.0 m above and 2.5 m to the side of the public, so the effect needs a specific approval. German guidance instead asks whether the exposure limit holds in the audience area for the whole show.",
+  "section": "safety"
+ },
+ {
+  "q": "Do I need a license or variance to run a laser show?",
+  "a": "In the US, show lasers above 5 mW of visible output (Class IIIb and IV) need an FDA variance before sale or use, and some states add registration, notice or operator certificates. The UK has no laser show license; general health and safety duties apply.",
+  "section": "rules"
+ },
+ {
+  "q": "What is an FDA laser variance and how do you get one?",
+  "a": "It is FDA permission to vary from the 5 mW demonstration laser limit in 21 CFR 1040.11(c). The application is Form FDA 3147 with a Laser Light Show Report (Form 3640) and, for manufacturers, a Product Report (Form 3632), emailed to CDRH; shows may begin only after the approval letter.",
+  "section": "rules"
+ },
+ {
+  "q": "Can a concert laser damage my phone or camera?",
+  "a": "Yes. No exposure limit exists for camera sensors, and ILDA says sensors are in general more susceptible to damage than the eye. The highest risk is a beam straight into the lens.",
+  "section": "safety"
+ },
+ {
+  "q": "How high do laser beams have to be above the audience?",
+  "a": "The standard conditions on the FDA's variance form keep laser light above Class I limits at least 3.0 m above any surface where the public may stand and 2.5 m to the side or below. Massachusetts sets 10 ft above and 8 ft to the side; German guidance asks that exposure limits hold up to 2.70 m.",
+  "section": "rules"
+ },
+ {
+  "q": "Is it illegal to point a laser at a plane, and what is the penalty?",
+  "a": "In the US, 18 U.S.C. 39A makes knowingly aiming a laser pointer at an aircraft a federal crime punishable by a fine, up to five years in prison, or both. The FAA cites criminal penalties up to $250,000 and civil fines up to $11,000 per violation.",
+  "section": "rules"
+ },
+ {
+  "q": "What is the difference between a Class 3B and a Class 4 laser?",
+  "a": "Class 3B runs from above 5 mW to 500 mW and is hazardous to the eye even for a brief direct exposure. Class 4 is above 500 mW and is a hazard to eyes and skin from direct or reflected beams, often with a fire risk.",
+  "section": "safety"
+ }
+]

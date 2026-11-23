@@ -1,0 +1,42 @@
+[
+ {
+  "q": "What is the biggest laser show ever?",
+  "a": "The current Guinness record for largest laser show is 1,100 laser emission sources, set by Verknipt ArenA at the Johan Cruijff ArenA in Amsterdam on July 19, 2025. Earlier records counted different things: 314 fixtures in Las Vegas in 2017 and 642 beams in Los Angeles in 2019. A separate Guinness record for area covered belongs to a 2022 show at Noor Riyadh.",
+  "section": "stage"
+ },
+ {
+  "q": "How much does a laser show cost to hire?",
+  "a": "Laser companies quote privately, and no current day rates are published. The only public worked example, from about 2008, takes a $50,000 system and arrives at roughly $1,000 to $2,750 per show-day. Hardware has some visible prices: in 2026 a 10 W projector carried a manufacturer metadata price of 8,582 EUR before VAT.",
+  "section": "stage"
+ },
+ {
+  "q": "Do you need a license for a laser light show?",
+  "a": "In the US, a show using Class IIIb or IV lasers needs an FDA variance approved before the first show, and the FDA charges no fee for it. UK guidance describes no equivalent license; responsibility sits with organizers, venues, suppliers and operators under general safety law. Requirements for a laser safety officer vary by country and state.",
+  "section": "now"
+ },
+ {
+  "q": "Is it legal to buy a laser show projector?",
+  "a": "In the US, show projectors above 5 mW of visible output need an FDA variance before sale or use, and FDA guidance says dealers may deliver them only to customers who hold one. In the UK, official advice says Class 3B and 4 lasers are not suitable for general consumer use. The FDA also keeps an import alert that lets border staff detain projectors from listed firms.",
+  "section": "now"
+ },
+ {
+  "q": "Are laser shows replacing fireworks?",
+  "a": "Some cities have made the switch: Mexico City used a laser show for New Year's Eve 2018 over air pollution, and Flagstaff, Arizona did the same for July 4, 2023 over fire risk. Most recent switches have gone to drones instead. Critics, including a Canadian fireworks trade group, say the replacements cost more or lack the feel of fireworks.",
+  "section": "now"
+ },
+ {
+  "q": "Are planetarium laser shows still a thing?",
+  "a": "Yes. The University of Arizona's Flandrau planetarium sold out every laser show for 18 months, Fiske Planetarium in Boulder launched a 50th anniversary laser show in 2025, and Seattle's Laser Dome has run for about 50 years. Griffith Observatory, where Laserium began in 1973, has not run laser shows since 2002.",
+  "section": "now"
+ },
+ {
+  "q": "Is the Sphere a laser show?",
+  "a": "Sphere's own display is an LED screen, but touring acts do bring lasers in. Illenium's 2026 \"Odyssey\" residency used 60 W projectors across the stage front and 20 projectors of 58 W placed around the room.",
+  "section": "stage"
+ },
+ {
+  "q": "How do you become a laser show operator?",
+  "a": "ILDA runs a Lasershow Operator course of 4 hours plus a test and a Laser Safety Officer course of about 9 hours, and classes are taught at the LDI trade show in Las Vegas. Whether a qualification is required depends on the place: Germany and Arizona require a designated laser safety officer, while the UK has no formal qualification.",
+  "section": "now"
+ }
+]

@@ -1,0 +1,107 @@
+[
+ {
+  "date": "1977-02-04",
+  "label": "\"Lovelight\" runs from stored images",
+  "detail": "Described by LaserFX as the first automated laser show: images drawn on a digitizing pad and stored in PROMs, control tracks on an 8-track recorder.",
+  "source_url": "https://laserfx.com/Backstage.LaserFX.com/Newsletter/BriefHistory.html",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1978",
+  "label": "\"Icarus\" on steam screens",
+  "detail": "Laser images projected onto steam screens over Washington DC in summer 1978.",
+  "source_url": "https://laserfx.com/Backstage.LaserFX.com/Newsletter/BriefHistory.html",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1983",
+  "label": "Stone Mountain Lasershow begins",
+  "detail": "A mountain face in Georgia becomes a laser screen about 400 ft square.",
+  "source_url": "https://11alive.com/article/news/the-science-behind-the-stone-mountain-lasershow/85-548763380",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1986",
+  "label": "Pangolin's first product, Laser PC",
+  "detail": "The company's About page gives 1986 for its founding; another company page says 1985.",
+  "source_url": "https://pangolin.com/pages/about",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1988",
+  "label": "ILDA Awards begin",
+  "detail": "The trade association starts its annual awards program.",
+  "source_url": "https://ilda.com/awards.htm",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1989",
+  "label": "First ILDA DB-25 specification",
+  "detail": "Later superseded by the ISP-DB25 section of the ILDA Standard Projector.",
+  "source_url": "https://k1.spdns.de/Develop/Projects/pico/Laseroids/ILDA%20files/ILDA_ISP99_rev002.pdf",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1995",
+  "label": "LD2000 and Phoenix",
+  "detail": "Pangolin dates Lasershow Designer 2000 with QM2000 hardware to 1995; development of Phoenix Showcontroller began the same year.",
+  "source_url": "https://pangolin.com/pages/about",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1995-10",
+  "label": "ILDA Test Pattern Rev. 002",
+  "detail": "The circle-in-a-square tuning frame, at 12,000 or 30,000 points per second.",
+  "source_url": "https://ilda.com/resources/StandardsDocs/ILDA_TestPattern95_rev002.pdf",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1999-07",
+  "label": "ILDA Standard Projector Rev. 002",
+  "detail": "Clarified signal levels and interlock on the DB-25 connector.",
+  "source_url": "https://ilda.com/technical.htm",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2008",
+  "label": "QuickShow and FB3QS",
+  "detail": "Pangolin's entry software with a USB DAC (maker's date).",
+  "source_url": "https://pangolin.com/pages/about",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2011",
+  "label": "BEYOND",
+  "detail": "Pangolin's flagship show software (maker's date).",
+  "source_url": "https://pangolin.com/pages/about",
+  "era": "2010-now"
+ },
+ {
+  "date": "2014",
+  "label": "FB4 and IDTF Rev. 011",
+  "detail": "Pangolin's network DAC (maker's date); ILDA's .ild file format reaches Revision 011 on November 16.",
+  "source_url": "https://ilda.com/technical.htm",
+  "era": "2010-now"
+ },
+ {
+  "date": "2015",
+  "label": "IDN adopted",
+  "detail": "ILDA members vote in Dubai to adopt the IDN Stream specification for laser data over networks.",
+  "source_url": "https://www.ilda.com/resources/StandardsDocs/ILDA_IDN-Stream_rev001.pdf",
+  "era": "2010-now"
+ },
+ {
+  "date": "2021-10-28",
+  "label": "MadLaser beta",
+  "detail": "garageCube adds laser output to the MadMapper world.",
+  "source_url": "https://cdm.link/2021/10/madmapper-will-now-let-you-control-lasers-with-madlaser-beta/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023-04",
+  "label": "Stone Mountain's classic show ends",
+  "detail": "The 40-year laser show is replaced by one with lasers, fireworks and drones.",
+  "source_url": "https://www.axios.com/local/atlanta/2023/04/28/stone-mountain-laser-show-ending",
+  "era": "2010-now"
+ }
+]
