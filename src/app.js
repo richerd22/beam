@@ -40,7 +40,7 @@
     if (q) q.addEventListener("input", function () { after(go()); });
     return function (c) { cnt = c; after(go()); };
   }
-  [["ty", "#types"], ["ru", "#rules"], ["lm", "#landmarks"]].forEach(function (t) {
+  [["ty", "#types"], ["ru", "#rules"], ["lm", "#landmarks"], ["dk", "#docket"], ["us", "#uses"]].forEach(function (t) {
     var rows = all("#" + t[0] + "-list tr");
     if (rows.length) filter(t[0] + "-q", t[1] + " .chips button", rows, "s", "k")($(t[0] + "-cnt"));
   });

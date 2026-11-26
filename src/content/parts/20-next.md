@@ -8,6 +8,8 @@
 
 [[MODULE:landmarks]]
 
+[[MODULE:uses]]
+
 [[MODULE:glossary]]
 
 [[MODULE:resources]]

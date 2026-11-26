@@ -1,0 +1,104 @@
+[
+ {
+  "term": "Kinetic Field",
+  "definition": "EDC Las Vegas's main stage.",
+  "section": "festivals",
+  "source_url": "https://lsionline.co.uk/news/lasertainment-illuminates-edc-las-vegas-2014-axjvbz"
+ },
+ {
+  "term": "PASS",
+  "definition": "Professional Audience Safety System, the hardware used on projectors approved to scan audiences, used on selected units at Coachella 2025.",
+  "section": "festivals",
+  "source_url": "https://pangolin.com/blogs/news/coachella-2025-quasar-sahara-and-yuma-stages"
+ },
+ {
+  "term": "BEYOND",
+  "definition": "Pangolin's laser show control software, named in most festival case studies.",
+  "section": "festivals",
+  "source_url": "https://pangolin.com/blogs/news/coachella-2025-quasar-sahara-and-yuma-stages"
+ },
+ {
+  "term": "FB4",
+  "definition": "Pangolin's networked laser control hardware.",
+  "section": "festivals",
+  "source_url": "https://pangolin.com/blogs/news/coachella-2025-quasar-sahara-and-yuma-stages"
+ },
+ {
+  "term": "Zoning",
+  "definition": "Software limits that keep beams out of set areas such as the audience, crew positions, balconies and glass.",
+  "section": "festivals",
+  "source_url": "https://eventsafetyalliance.org/member-newsletter/2024/05/31/laser-safety-in-practice"
+ },
+ {
+  "term": "Beam termination",
+  "definition": "Ending a beam on a surface so it goes no farther into the sky or the crowd.",
+  "section": "festivals",
+  "source_url": "https://www.livedesignonline.com/news/illeniums-odyssey-sphere"
+ },
+ {
+  "term": "Laser Safety Officer (LSO)",
+  "definition": "The person responsible for laser safety at a show, usually the on-site operator.",
+  "section": "festivals",
+  "source_url": "https://eventsafetyalliance.org/member-newsletter/2024/05/31/laser-safety-in-practice"
+ },
+ {
+  "term": "Safety observer",
+  "definition": "A person watching the sky or beam path outdoors who can stop the beam at once.",
+  "section": "festivals",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "term": "Form 7140-1",
+  "definition": "The FAA's Notice of Proposed Outdoor Laser Operation(s), filed at least 30 days before an outdoor show.",
+  "section": "festivals",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "term": "Letter of determination",
+  "definition": "The FAA's reply to an outdoor laser filing: no objection, or objection.",
+  "section": "festivals",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "term": "Laser-Free Zone",
+  "definition": "The FAA flight zone near runways where outdoor laser light must stay at or below 50 nW/cm2.",
+  "section": "festivals",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "term": "SAE AS6029",
+  "definition": "The standard an automated system must meet to replace human safety observers at an outdoor US show.",
+  "section": "festivals",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "term": "Audience scanning",
+  "definition": "Sweeping beams deliberately through a crowd; in the US it needs FDA approval in the show's variance, and the Nordic regulators recommend against it.",
+  "section": "festivals",
+  "source_url": "https://www.stralsakerhetsmyndigheten.se/contentassets/9f44b528c39a4337aa6fb9ccc891b9df/avoid-direct-laser-scanning-of-audiences---nordic-statement.pdf"
+ },
+ {
+  "term": "INDG224",
+  "definition": "The UK HSE leaflet on display lasers, which puts the duty on the organizer and points to PLASA's guidance.",
+  "section": "festivals",
+  "source_url": "https://www.hse.gov.uk/pubns/indg224.htm"
+ },
+ {
+  "term": "NOTAM",
+  "definition": "A notice to airmen, part of the UK route for outdoor laser displays.",
+  "section": "festivals",
+  "source_url": "https://www.hse.gov.uk/pubns/indg224.htm"
+ },
+ {
+  "term": "Laser Jockey",
+  "definition": "ILDA's live laser performance competition.",
+  "section": "festivals",
+  "source_url": "https://ilda.com/awards2023.htm"
+ },
+ {
+  "term": "Aerial marker",
+  "definition": "Lasers set up to throw beams into the sky as a landmark, as at Coachella's Quasar stage in 2025.",
+  "section": "festivals",
+  "source_url": "https://pangolin.com/blogs/news/coachella-2025-quasar-sahara-and-yuma-stages"
+ }
+]

@@ -1,0 +1,140 @@
+[
+ {
+  "term": "Assist gas",
+  "definition": "Gas blown down a cutting nozzle: oxygen adds heat by burning the metal, nitrogen only blows out the melt.",
+  "section": "industry",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052"
+ },
+ {
+  "term": "Kerf",
+  "definition": "The slot a laser cut leaves.",
+  "section": "industry",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052"
+ },
+ {
+  "term": "Fusion cutting",
+  "definition": "Cutting by melting the metal and blowing the melt out with inert gas such as nitrogen.",
+  "section": "industry",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052"
+ },
+ {
+  "term": "Flame cutting",
+  "definition": "Laser cutting with oxygen assist, which adds heat through an exothermic reaction.",
+  "section": "industry",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052"
+ },
+ {
+  "term": "Remote cutting",
+  "definition": "Vaporizing thin sheet with a high-intensity beam and no assist gas.",
+  "section": "industry",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052"
+ },
+ {
+  "term": "Fiber laser",
+  "definition": "A solid-state laser whose gain medium is a doped optical fiber; it outsold CO2 for cutting from 2015.",
+  "section": "industry",
+  "source_url": "https://laserfocusworld.com/industrial-laser-solutions/article/14216470/fiber-laser-cutting-drives-a-power-revolution"
+ },
+ {
+  "term": "Excimer laser",
+  "definition": "An ultraviolet gas laser, such as KrF at 248 nm or ArF at 193 nm, used in chip lithography and display annealing.",
+  "section": "industry",
+  "source_url": "https://www.asml.com/en/technology/lithography-principles/light-and-lasers"
+ },
+ {
+  "term": "EUV",
+  "definition": "Extreme ultraviolet lithography light at 13.5 nm, made by hitting tin droplets with a laser.",
+  "section": "industry",
+  "source_url": "https://www.asml.com/en/technology/lithography-principles/light-and-lasers"
+ },
+ {
+  "term": "Pre-pulse",
+  "definition": "The weaker first laser shot that flattens a tin droplet before the main pulse turns it into plasma.",
+  "section": "industry",
+  "source_url": "https://www.asml.com/en/technology/lithography-principles/light-and-lasers"
+ },
+ {
+  "term": "Excimer laser annealing (ELA)",
+  "definition": "Melting and recrystallizing amorphous silicon with an excimer line beam to make low-temperature polysilicon.",
+  "section": "industry",
+  "source_url": "https://www.coherent.com/news/blog/laser-annealing-flat-panel-displays"
+ },
+ {
+  "term": "LTPS",
+  "definition": "Low-temperature polysilicon, the faster transistor material in AMOLED phone displays.",
+  "section": "industry",
+  "source_url": "https://www.coherent.com/news/blog/laser-annealing-flat-panel-displays"
+ },
+ {
+  "term": "Laser powder bed fusion",
+  "definition": "Building a metal part by melting thin layers of powder with a laser; also called DMLM, DMLS or SLM.",
+  "section": "industry",
+  "source_url": "https://www.ge.com/additive/de/node/1051"
+ },
+ {
+  "term": "HIP",
+  "definition": "Hot isostatic pressing, used after metal printing to close internal pores.",
+  "section": "industry",
+  "source_url": "https://laserfocusworld.com/industrial-laser-solutions/article/14216415/additive-manufacturing-at-ge-aviation"
+ },
+ {
+  "term": "Laser cleaning",
+  "definition": "Ablating a coating or surface layer with very brief high-power pulses, without chemicals or contact.",
+  "section": "industry",
+  "source_url": "https://www.twi-global.com/technical-knowledge/faqs/faq-what-is-laser-surface-cleaning"
+ },
+ {
+  "term": "Busbar",
+  "definition": "A metal link joining battery cells into modules and packs, often laser welded.",
+  "section": "industry",
+  "source_url": "https://www.trumpf.com/en_GB/industries/automotive/e-mobility/"
+ },
+ {
+  "term": "Hairpin",
+  "definition": "A bent copper bar in an e-motor stator, laser welded at its ends.",
+  "section": "industry",
+  "source_url": "https://www.trumpf.com/en_GB/industries/automotive/e-mobility/"
+ },
+ {
+  "term": "UDI",
+  "definition": "Unique Device Identifier; reusable, reprocessed US medical devices must carry it on the device itself.",
+  "section": "industry",
+  "source_url": "https://www.law.cornell.edu/cfr/text/21/801.45"
+ },
+ {
+  "term": "AIDC",
+  "definition": "Automatic identification and data capture, such as a 2D code.",
+  "section": "industry",
+  "source_url": "https://www.law.cornell.edu/cfr/text/21/801.45"
+ },
+ {
+  "term": "Embedded laser",
+  "definition": "The higher-class laser inside a Class 1 enclosed product; its class applies during service.",
+  "section": "industry",
+  "source_url": "https://www.osha.gov/otm/section-3-health-hazards/chapter-6"
+ },
+ {
+  "term": "Laser Safety Officer (LSO)",
+  "definition": "The person ANSI Z136.1 assigns to run laser hazard analysis and controls.",
+  "section": "industry",
+  "source_url": "https://www.osha.gov/otm/section-3-health-hazards/chapter-6"
+ },
+ {
+  "term": "ANSI Z136.1",
+  "definition": "The US voluntary consensus standard for safe laser use, which OSHA cites as guidance.",
+  "section": "industry",
+  "source_url": "https://www.osha.gov/laser-hazards/standards"
+ },
+ {
+  "term": "Laser Notice No. 56",
+  "definition": "FDA policy letting makers certify to parts of IEC 60825-1 Ed. 3; it replaced Notice 50 at the end of 2024.",
+  "section": "industry",
+  "source_url": "https://content.govdelivery.com/accounts/USFDA/bulletins/3cb2a72"
+ },
+ {
+  "term": "Assignment for the Benefit of Creditors (ABC)",
+  "definition": "A state-law alternative to bankruptcy, used by Glowforge in 2025.",
+  "section": "industry",
+  "source_url": "https://www.geekwire.com/2025/glowforge-hits-restart-after-restructuring-co-founders-acquire-key-assets-of-laser-engraver-startup/"
+ }
+]

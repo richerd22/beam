@@ -1,0 +1,116 @@
+[
+ {
+  "term": "CDRH",
+  "definition": "The FDA's Center for Devices and Radiological Health, which runs the US laser performance standard.",
+  "section": "regulation",
+  "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/minimizing-risk-childrens-toy-laser-products"
+ },
+ {
+  "term": "Laser performance standard",
+  "definition": "The US federal rule for laser products at 21 CFR 1040.10 and 1040.11, first published as a final rule in 1975.",
+  "section": "regulation",
+  "source_url": "https://www.govinfo.gov/content/pkg/FR-2013-06-24/pdf/2013-14846.pdf"
+ },
+ {
+  "term": "Demonstration laser product",
+  "definition": "The US category for lasers made for demonstration, entertainment or display, including pointers and light shows, capped at Class IIIa without a variance.",
+  "section": "regulation",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/laser-products-and-instruments/important-information-laser-pointer-manufacturers"
+ },
+ {
+  "term": "Class IIIa (3R)",
+  "definition": "Visible output up to 5 mW; the US ceiling for laser pointers and for show projectors without a variance.",
+  "section": "regulation",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/laser-products-and-instruments/important-information-laser-pointer-manufacturers"
+ },
+ {
+  "term": "Class IIIb (3B)",
+  "definition": "Output from 5 to 500 mW; in the US it cannot legally be promoted as a laser pointer or demonstration laser.",
+  "section": "regulation",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/laser-products-and-instruments/important-information-laser-pointer-manufacturers"
+ },
+ {
+  "term": "Class IV (4)",
+  "definition": "The class above IIIb; US show projectors in this class need an FDA variance.",
+  "section": "regulation",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows"
+ },
+ {
+  "term": "Variance",
+  "definition": "FDA approval to depart from the laser performance standard, which the agency describes as an alternate means of providing radiation safety. Firms producing laser light shows above the limits need one.",
+  "section": "regulation",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows"
+ },
+ {
+  "term": "Product Report",
+  "definition": "Form FDA 3632, the manufacturer's report on a laser product to FDA.",
+  "section": "regulation",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows"
+ },
+ {
+  "term": "Laser Notice 56",
+  "definition": "FDA guidance (February 2023 version) saying the agency does not intend to enforce matching US requirements for products conforming to identified IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1 clauses.",
+  "section": "regulation",
+  "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56"
+ },
+ {
+  "term": "Import Alert 95-04",
+  "definition": "FDA import alert that lets US ports detain listed firms' laser pointers, projectors, toys and similar products without physical examination.",
+  "section": "regulation",
+  "source_url": "https://www.accessdata.fda.gov/CMS_IA/importalert_254.html"
+ },
+ {
+  "term": "DWPE",
+  "definition": "Detention without physical examination: holding an import at the port because its firm is on an FDA import alert's list.",
+  "section": "regulation",
+  "source_url": "https://www.accessdata.fda.gov/CMS_IA/importalert_254.html"
+ },
+ {
+  "term": "Red List",
+  "definition": "The firms named in an FDA import alert whose products can be detained without examination.",
+  "section": "regulation",
+  "source_url": "https://www.accessdata.fda.gov/CMS_IA/importalert_254.html"
+ },
+ {
+  "term": "Security master control",
+  "definition": "The 2013 FDA proposal's term for the control that would replace the key switch requirement.",
+  "section": "regulation",
+  "source_url": "https://www.govinfo.gov/content/pkg/FR-2013-06-24/pdf/2013-14846.pdf"
+ },
+ {
+  "term": "Laser Misuse (Vehicles) Act 2018",
+  "definition": "UK law making it an offense to shine a laser at a vehicle that is moving or ready to move where it dazzles or distracts the person in control.",
+  "section": "regulation",
+  "source_url": "https://www.legislation.gov.uk/ukpga/2018/9/section/1"
+ },
+ {
+  "term": "18 U.S.C. 39A",
+  "definition": "The US federal crime of knowingly aiming a laser pointer at an aircraft or its flight path, punishable by up to five years in prison and a fine.",
+  "section": "cases",
+  "source_url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI-chap2-sec39A.htm"
+ },
+ {
+  "term": "14 CFR 91.11",
+  "definition": "The FAA rule against interfering with a crewmember, which the agency uses for civil penalties in laser cases.",
+  "section": "cases",
+  "source_url": "https://www.faa.gov/about/initiatives/lasers/laws"
+ },
+ {
+  "term": "Laser retinopathy",
+  "definition": "Damage to the retina from laser exposure.",
+  "section": "cases",
+  "source_url": "https://retinalphysician.com/issues/2020/june/upfront-a-cautionary-tale-of-laser-exposure/"
+ },
+ {
+  "term": "Protocol IV",
+  "definition": "The 1995 protocol to the Convention on Certain Conventional Weapons on blinding laser weapons, in force since 1998.",
+  "section": "cases",
+  "source_url": "https://treaties.un.org/doc/Publication/MTDSG/Volume%20II/Chapter%20XXVI/XXVI-2-a.en.xml"
+ },
+ {
+  "term": "Lidar speed detector",
+  "definition": "A hand-held laser speed gun used in traffic enforcement, such as the LTI Marksman 20-20 a New Jersey court examined in 1998.",
+  "section": "cases",
+  "source_url": "https://caselaw.findlaw.com/nj-superior-court/1382131.html"
+ }
+]

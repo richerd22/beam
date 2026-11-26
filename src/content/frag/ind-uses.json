@@ -1,0 +1,172 @@
+[
+ {
+  "use": "Sheet metal cutting (CO2)",
+  "field": "Manufacturing",
+  "laser": "CO2 laser",
+  "wavelength": "about 10.6 µm",
+  "power": "4-6 kW typical (reported, 2016)",
+  "since": "1960s",
+  "what": "Melts or burns a kerf through steel, stainless and aluminum with nitrogen or oxygen assist gas; faster than fiber on material over 5 mm at equal power",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052"
+ },
+ {
+  "use": "Sheet metal cutting (fiber)",
+  "field": "Manufacturing",
+  "laser": "Fiber laser",
+  "wavelength": "",
+  "power": "2-12 kW at Fabtech 2014; 30 kW called mainstream in China, 2024 (estimate)",
+  "since": "",
+  "what": "Outsold CO2 for cutting from 2015; about 200 in/min on 1/4 in mild steel at 6 kW with nitrogen (reported, 2016)",
+  "source_url": "https://laserfocusworld.com/industrial-laser-solutions/article/14216470/fiber-laser-cutting-drives-a-power-revolution"
+ },
+ {
+  "use": "Remote cutting",
+  "field": "Manufacturing",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "A high-intensity beam vaporizes thin sheet with no assist gas",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052"
+ },
+ {
+  "use": "Battery busbar and cell welding",
+  "field": "Automotive / e-mobility",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Welds busbars joining cells into modules and packs (Al/Al, Cu/Cu, Al/Cu), seals cells gas-tight, welds trays and housings",
+  "source_url": "https://www.trumpf.com/en_GB/industries/automotive/e-mobility/"
+ },
+ {
+  "use": "Hairpin stator and drivetrain welding",
+  "field": "Automotive / e-mobility",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Welds hairpin stators for e-motors, rotor shafts, gears and fuel-cell bipolar plates",
+  "source_url": "https://www.trumpf.com/en_GB/industries/automotive/e-mobility/"
+ },
+ {
+  "use": "Copper contact welding (green laser)",
+  "field": "Automotive / e-mobility",
+  "laser": "Green-wavelength disk laser",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Maker says it welds copper contacts with practically no spatter",
+  "source_url": "https://www.trumpf.com/en_GB/industries/automotive/e-mobility/"
+ },
+ {
+  "use": "Drilling, soldering, heat treating, scribing, sealing, balancing",
+  "field": "Manufacturing",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Listed by OSHA among industrial laser applications",
+  "source_url": "https://www.osha.gov/otm/section-3-health-hazards/chapter-6"
+ },
+ {
+  "use": "Direct UDI marking of reusable medical devices",
+  "field": "Medical devices",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "21 CFR 801.45 requires a permanent UDI on devices used more than once and reprocessed; the rule names no marking method",
+  "source_url": "https://www.law.cornell.edu/cfr/text/21/801.45"
+ },
+ {
+  "use": "Desktop engraving and cutting (enclosed)",
+  "field": "Consumer / hobby",
+  "laser": "Diode laser module (Bambu Lab H2D)",
+  "wavelength": "455 nm and 850 nm",
+  "power": "10 W ± 1 W (maker spec)",
+  "since": "2021 (xTool D1 launch)",
+  "what": "Class 4 module inside a machine rated Class 1 when its protection is complete and working",
+  "source_url": "https://wiki.bambulab.com/h2/laser-safety-document"
+ },
+ {
+  "use": "Desktop engraving (open frame)",
+  "field": "Consumer / hobby",
+  "laser": "Creality Falcon2",
+  "wavelength": "",
+  "power": "22 W, Class 4",
+  "since": "",
+  "what": "UK regulator found it excessively strong for consumer use and rejected the import at the border (2024)",
+  "source_url": "https://gov.uk/product-safety-alerts-reports-recalls/product-safety-report-falcon2-magical-colorful-engraving-machine-2310-0021"
+ },
+ {
+  "use": "Laser cleaning and coating removal",
+  "field": "Manufacturing / maintenance",
+  "laser": "Pulsed laser",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Ablates paint, rubber, insulation or rust; cleans electronics contacts and tire molds; strips paint from bridges, aircraft and ships",
+  "source_url": "https://www.twi-global.com/technical-knowledge/faqs/faq-what-is-laser-surface-cleaning"
+ },
+ {
+  "use": "Surface decontamination (scabbling)",
+  "field": "Nuclear / maintenance",
+  "laser": "Pulsed laser",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Removes the whole top layer, for example radioactive concrete",
+  "source_url": "https://www.twi-global.com/technical-knowledge/faqs/faq-what-is-laser-surface-cleaning"
+ },
+ {
+  "use": "Metal 3D printing (laser powder bed fusion)",
+  "field": "Aerospace / manufacturing",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "2004 (GE LEAP nozzle development)",
+  "what": "Melts metal powder layer by layer; GE LEAP fuel nozzle consolidated about 20 parts into one, 25% lighter",
+  "source_url": "https://laserfocusworld.com/industrial-laser-solutions/article/14216415/additive-manufacturing-at-ge-aviation"
+ },
+ {
+  "use": "DUV lithography (KrF)",
+  "field": "Semiconductors",
+  "laser": "KrF excimer laser",
+  "wavelength": "248 nm",
+  "power": "",
+  "since": "",
+  "what": "First deep-ultraviolet lithography light source",
+  "source_url": "https://www.asml.com/en/technology/lithography-principles/light-and-lasers"
+ },
+ {
+  "use": "DUV lithography (ArF)",
+  "field": "Semiconductors",
+  "laser": "ArF excimer laser",
+  "wavelength": "193 nm",
+  "power": "",
+  "since": "",
+  "what": "Enabled chip features as small as 38 nm",
+  "source_url": "https://www.asml.com/en/technology/lithography-principles/light-and-lasers"
+ },
+ {
+  "use": "EUV light generation (tin droplet plasma)",
+  "field": "Semiconductors",
+  "laser": "Pulsed CO2 drive laser",
+  "wavelength": "13.5 nm EUV output",
+  "power": "40 kW (product page); above 30 kW mean (2018)",
+  "since": "",
+  "what": "Pre-pulse flattens 25 µm tin droplets and a main pulse turns them into EUV-emitting plasma 50,000 times a second",
+  "source_url": "https://trumpf.com/en_GB/products/lasers/euv-drive-laser"
+ },
+ {
+  "use": "Excimer laser annealing of display backplanes",
+  "field": "Displays",
+  "laser": "Excimer laser (line beam)",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Recrystallizes amorphous silicon into LTPS with up to 200x mobility for AMOLED phone displays (company claim)",
+  "source_url": "https://www.coherent.com/news/blog/laser-annealing-flat-panel-displays"
+ }
+]

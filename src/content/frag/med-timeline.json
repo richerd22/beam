@@ -1,0 +1,100 @@
+[
+ {
+  "date": "1961-11-22",
+  "label": "First laser treatment of a patient",
+  "detail": "Charles J. Campbell destroys a retinal tumor with one ruby laser pulse at Columbia-Presbyterian, New York.",
+  "source_url": "https://healthmatters.nyp.org/ruby-laser/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1966",
+  "label": "Leon Goldman's first laser surgery",
+  "detail": "The dermatologist later called the father of laser surgery performs his first laser operation.",
+  "source_url": "https://dermatologyhalloffame.org/inductees/leon-goldman-md",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1970",
+  "label": "Argon photocoagulator goes on sale",
+  "detail": "Coherent begins marketing a slit-lamp argon laser for the retina.",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1981-11",
+  "label": "The turkey experiment",
+  "detail": "IBM's Srinivasan, Wynne and Blum ablate turkey cartilage with an excimer laser.",
+  "source_url": "https://research.ibm.com/blog/40-years-excimer-laser-surgery",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1983",
+  "label": "Selective photothermolysis",
+  "detail": "Parrish and Anderson publish the idea in Science that makes targeted skin lasers possible.",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1988-03",
+  "label": "First laser vision correction",
+  "detail": "The first corrective laser eye surgery on a sighted person.",
+  "source_url": "https://research.ibm.com/blog/40-years-excimer-laser-surgery",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1995-03-10",
+  "label": "First refractive excimer approval",
+  "detail": "FDA approves the Summit Technology excimer laser system (PMA P910067).",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/fda-approved-lasers-prk-and-other-refractive-surgeries",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1998-07-30",
+  "label": "First LASIK laser approval",
+  "detail": "FDA approves the Kremer Excimer Laser System (PMA P970005). IBM's history says 1997.",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/list-fda-approved-lasers-lasik",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2007",
+  "label": "First cleared laser hair-growth device",
+  "detail": "FDA clears the first low-level light device for male pattern hair loss.",
+  "source_url": "https://jcadonline.com/laser-therapy-hair-loss",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2016-09-13",
+  "label": "SMILE approved",
+  "detail": "FDA approves the Zeiss VisuMax femtosecond laser (PMA P150040).",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/fda-approved-lasers-prk-and-other-refractive-surgeries",
+  "era": "2010-now"
+ },
+ {
+  "date": "2017-01",
+  "label": "PROWL results",
+  "detail": "FDA-led studies report 43-46% new visual symptoms at three months and 1-2% dissatisfied with the surgery.",
+  "source_url": "https://aao.org/eyenet/article/postoperative-symptoms-satisfaction-with-lasik-sur",
+  "era": "2010-now"
+ },
+ {
+  "date": "2019-06-04",
+  "label": "LiGHT trial",
+  "detail": "74.2% of patients treated first with SLT need no glaucoma drops at three years.",
+  "source_url": "https://evidence.nihr.ac.uk/alert/a-laser-eye-procedure-can-be-effective-and-safe-if-used-early-as-treatment-for-glaucoma",
+  "era": "2010-now"
+ },
+ {
+  "date": "2022-07-27",
+  "label": "LASIK labeling draft",
+  "detail": "FDA issues draft guidance recommending a patient decision checklist and images of possible visual symptoms.",
+  "source_url": "https://www.aao.org/headline/fda-releases-draft-guidance-on-lasik-patient-label/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023-12-15",
+  "label": "FDA on laser toys",
+  "detail": "FDA says laser pointers are not toys and toys should stay within IEC Class 1.",
+  "source_url": "https://www.fda.gov/ForConsumers/ConsumerUpdates/ucm363908.htm",
+  "era": "2010-now"
+ }
+]

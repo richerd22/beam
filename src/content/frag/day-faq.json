@@ -1,0 +1,42 @@
+[
+ {
+  "q": "What was the first item ever scanned with a barcode?",
+  "a": "A 10-pack of Wrigley's Juicy Fruit gum, priced at 67 cents, at a Marsh Supermarket in Troy, Ohio, on June 26, 1974. The scanner was a Spectra-Physics model using a helium-neon laser.",
+  "section": "everyday"
+ },
+ {
+  "q": "Why does Blu-ray hold more than DVD?",
+  "a": "Its laser is 405 nm against DVD's 650 nm, and a shorter wavelength focuses to a smaller spot. Smaller pits and tighter tracks fit more data: 25 GB on a single-layer Blu-ray against 4.7 GB on a DVD.",
+  "section": "everyday"
+ },
+ {
+  "q": "Do undersea cables really carry 99% of internet traffic?",
+  "a": "TeleGeography said in 2023 that the over-99-percent figure for intercontinental data is true, while noting an exact sum is impossible without satellite data. The FCC's figure behind it: satellites carried 0.37 percent of US international capacity in 2013.",
+  "section": "everyday"
+ },
+ {
+  "q": "How does iPhone lidar work?",
+  "a": "Tiny chip lasers called VCSELs send out light and time how long it takes to bounce back, measuring depth out to about 5 meters. Apple pitched it for augmented reality, faster low-light autofocus and Night mode portraits.",
+  "section": "everyday"
+ },
+ {
+  "q": "How does LIGO detect gravitational waves with lasers?",
+  "a": "Each detector splits a laser down two 4 km arms and recombines the beams so they cancel. A passing gravitational wave stretches one arm relative to the other and light leaks through to the detector.",
+  "section": "science"
+ },
+ {
+  "q": "Did the National Ignition Facility produce net energy?",
+  "a": "On December 5, 2022, NIF got 3.15 MJ of fusion energy from 2.05 MJ of laser energy on the target. Each shot draws about 300 MJ from the grid, so the facility as a whole did not come out ahead.",
+  "section": "science"
+ },
+ {
+  "q": "Can you bounce a laser off the Moon?",
+  "a": "Yes. Apollo 11 left a panel of 100 corner-cube reflectors in 1969, and observatories time laser pulses off it to within about 2 to 3 cm.",
+  "section": "science"
+ },
+ {
+  "q": "Why do observatories shine yellow lasers into the sky?",
+  "a": "The laser excites sodium atoms about 90 km up to make an artificial star. Adaptive optics measures how the atmosphere blurs it 1000 times a second and a deformable mirror cancels the blur.",
+  "section": "science"
+ }
+]

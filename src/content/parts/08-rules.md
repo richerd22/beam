@@ -4,7 +4,7 @@
 
 ### Who regulates laser shows in the United States?
 
-The Food and Drug Administration, through its Center for Devices and Radiological Health (CDRH). The authority is the Federal Food, Drug and Cosmetic Act, Chapter V, Subchapter C (Electronic Product Radiation Control), with records and reporting rules in 21 CFR Parts 1000 to 1005 and the performance standards in Parts 1010, 1040.10 and 1040.11.[^saf-fda-shows]
+The Food and Drug Administration, through its Center for Devices and Radiological Health (CDRH). The authority is the Federal Food, Drug and Cosmetic Act, Chapter V (electronic product radiation control), with records and reporting rules in 21 CFR Parts 1000 to 1005 and the performance standards in Parts 1010, 1040.10 and 1040.11.[^saf-fda-shows]
 
 Three pieces of that are **law** and do most of the work:
 

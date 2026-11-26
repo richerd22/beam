@@ -1,0 +1,37 @@
+[
+ {
+  "title": "OSHA Technical Manual, Section III Chapter 6: Laser Hazards",
+  "url": "https://www.osha.gov/otm/section-3-health-hazards/chapter-6",
+  "why": "Plain-language government overview of beam and non-beam hazards, Class 1 enclosures and Laser Safety Officer duties."
+ },
+ {
+  "title": "ASML: Light and lasers",
+  "url": "https://www.asml.com/en/technology/lithography-principles/light-and-lasers",
+  "why": "The clearest official explainer of DUV versus EUV and the tin-droplet source."
+ },
+ {
+  "title": "TWI: Laser cutting (Job Knowledge 52)",
+  "url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052",
+  "why": "Neutral engineering explainer on cutting modes and assist gases from a research body."
+ },
+ {
+  "title": "Laser Focus World: Fiber laser cutting drives a power revolution (2016)",
+  "url": "https://laserfocusworld.com/industrial-laser-solutions/article/14216470/fiber-laser-cutting-drives-a-power-revolution",
+  "why": "The CO2-to-fiber switch with real speed numbers."
+ },
+ {
+  "title": "OPSS product safety report: Falcon2 engraving machine",
+  "url": "https://gov.uk/product-safety-alerts-reports-recalls/product-safety-report-falcon2-magical-colorful-engraving-machine-2310-0021",
+  "why": "A regulator finding on a consumer Class 4 engraver, from the searchable GOV.UK database."
+ },
+ {
+  "title": "Coherent: Excimer laser annealing",
+  "url": "https://www.coherent.com/news/blog/laser-annealing-flat-panel-displays",
+  "why": "How phone display backplanes pass under an excimer line beam."
+ },
+ {
+  "title": "GeekWire: Glowforge hits restart (2025)",
+  "url": "https://www.geekwire.com/2025/glowforge-hits-restart-after-restructuring-co-founders-acquire-key-assets-of-laser-engraver-startup/",
+  "why": "The arc of a consumer laser startup from crowdfunding record to restructuring."
+ }
+]

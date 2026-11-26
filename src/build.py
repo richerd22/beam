@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build beam.cold.fyi - The Beam, a cited field guide to laser light shows.
+"""Build beam.cold.fyi - The Beam, a cited field guide to lasers.
 
     python3 build.py            # writes the site to OUT
     STRICT=1 python3 build.py   # also fails on [[GAP:]] markers or unknown footnote keys
@@ -67,6 +67,9 @@ resources = jl("*-resources.json")
 types = jl("*-types.json")
 rules = jl("*-rules.json")
 landmarks = sorted(jl("*-landmarks.json"), key=lambda r: str(r.get("year") or "9999"))
+docket = sorted(jl("*-docket.json"), key=lambda r: str(r.get("year") or "9999"))
+uses = sorted(jl("*-uses.json"), key=lambda r: (str(r.get("field", "")).lower(), str(r.get("use", "")).lower()))
+PART_TWO = "invention"  # first slug of part two: the cue list puts a divider before it
 quiz = J("quiz.json", [])
 seo = J("seo.json", {})
 gaps = J("gaps.json", [])
@@ -201,6 +204,32 @@ def m_landmarks():
     return mod("Landmarks", f"{len(landmarks)} shows that moved it along", "", _tbl("lm", ["Show", "Who", "What happened"], rows, True, "Laserium, Jarre, Stone Mountain, planetarium..."), "landmarks")
 
 
+def m_docket():
+    if not docket:
+        return ""
+    kinds = []
+    for r in docket:
+        if r.get("kind") and r["kind"] not in kinds:
+            kinds.append(r["kind"])
+    rows = "".join(
+        f'<tr data-k="{E(r.get("kind", ""))}" data-s="{E(" ".join(str(r.get(k, "")) for k in ("case", "place", "court", "about", "outcome", "kind")).lower())}"><td class="nm">{E(r.get("case", ""))}<br><span class="ex">{E(r.get("year", ""))}{" · " + E(r["place"]) if r.get("place") else ""}{" · " + E(r["court"]) if r.get("court") else ""}</span></td>'
+        f'<td>{E(r.get("about", ""))}</td><td>{E(r.get("outcome", ""))}{srcu(r.get("source_url"))}</td></tr>' for r in docket)
+    return mod("The docket", f"{len(docket)} laser cases and actions", "General information, not legal advice. Outcomes as the court, agency or prosecutor states them.", _tbl("dk", ["Case or action", "What it was about", "Outcome"], rows, True, "pointer, aircraft, patent, FDA, LASIK...", "k", kinds), "docket")
+
+
+def m_uses():
+    if not uses:
+        return ""
+    fields = []
+    for r in uses:
+        if r.get("field") and r["field"] not in fields:
+            fields.append(r["field"])
+    rows = "".join(
+        f'<tr data-k="{E(r.get("field", ""))}" data-s="{E(" ".join(str(r.get(k, "")) for k in ("use", "field", "laser", "what")).lower())}"><td class="nm">{E(r.get("use", ""))}<br><span class="ex">{E(r.get("field", ""))}{" · since " + E(r["since"]) if r.get("since") else ""}</span></td>'
+        f'<td class="k">{E(r.get("laser", ""))}{(" · " + E(r["wavelength"])) if r.get("wavelength") else ""}{(" · " + E(r["power"])) if r.get("power") else ""}</td><td>{E(r.get("what", ""))}{srcu(r.get("source_url"))}</td></tr>' for r in uses)
+    return mod("Everything a laser does", f"{len(uses)} uses, by field", "", _tbl("us", ["Use", "Laser", "What it does"], rows, True, "barcode, LASIK, welding, LIGO, lidar...", "k", fields), "uses")
+
+
 def m_timeline():
     eras = []
     for t in timeline:
@@ -233,7 +262,7 @@ def m_gaps():
     return mod("Still unconfirmed", f"{len(gaps)} open questions", "Know the answer? hello@thirdpolararch.com", f"<ul>{items}</ul>", "gaps")
 
 
-MODULES = {"types": m_types, "rules": m_rules, "landmarks": m_landmarks, "timeline": m_timeline, "glossary": m_glossary, "resources": m_resources, "quiz": m_quiz, "gaps": m_gaps}
+MODULES = {"docket": m_docket, "uses": m_uses, "types": m_types, "rules": m_rules, "landmarks": m_landmarks, "timeline": m_timeline, "glossary": m_glossary, "resources": m_resources, "quiz": m_quiz, "gaps": m_gaps}
 
 
 def modules(h):
@@ -289,7 +318,7 @@ STAMP = datetime.date.fromisoformat(os.environ.get("BEAM_UPDATED", PUBLISHED))
 UPDATED = STAMP.strftime("%B %Y")
 
 
-DB_PADS = [("types", "Types", "Every kind of show laser"), ("rulebook", "Rules", "The rulebook, by place"), ("landmarks", "Shows", "Landmark shows"), ("glossary", "Terms", "Glossary"), ("all", "All", "Everything on one page")]
+DB_PADS = [("uses", "Uses", "Everything a laser does"), ("docket", "Docket", "Every kind of laser case"), ("types", "Types", "Every kind of show laser"), ("rulebook", "Rules", "The rulebook, by place"), ("landmarks", "Shows", "Landmark shows"), ("glossary", "Terms", "Glossary"), ("all", "All", "Everything on one page")]
 
 
 def console():
@@ -348,7 +377,7 @@ def article_ld(title, desc, path):
             "datePublished": PUBLISHED, "dateModified": STAMP.isoformat(), "image": SITE + "/og.png",
             "author": {"@type": "Organization", "name": "Third Polar Arch", "url": "https://thirdpolararch.com"},
             "publisher": {"@type": "Organization", "name": "Third Polar Arch", "url": "https://thirdpolararch.com"},
-            "isPartOf": {"@type": "CreativeWork", "name": f"{NAME}: how laser shows work", "url": SITE + "/"}}
+            "isPartOf": {"@type": "CreativeWork", "name": f"{NAME}: how lasers work", "url": SITE + "/"}}
 
 
 def write(rel, text):
@@ -367,9 +396,9 @@ def refs_list(nums, title="Sources for this cue"):
 
 
 def tracklist(active=None):
-    items = "".join(f'<li><a href="/{s["slug"]}/"{" aria-current=page class=on" if s["slug"] == active else ""}><span class="tn">Q{i:02d}</span><span class="tt">{E(s["title"])}</span><span class="td">{s["mins"]} min</span></a></li>' for i, s in enumerate(sections, 1))
+    items = "".join((f'<li class="part"><span>Part two: lasers everywhere</span></li>' if s["slug"] == PART_TWO else "") + f'<li><a href="/{s["slug"]}/"{" aria-current=page class=on" if s["slug"] == active else ""}><span class="tn">Q{i:02d}</span><span class="tt">{E(s["title"])}</span><span class="td">{s["mins"]} min</span></a></li>' for i, s in enumerate(sections, 1))
     db = "".join(f'<li><a href="/{slug}/"><span class="tn">DB</span><span class="tt">{E(title)}</span><span class="td"></span></a></li>' for slug, lab, title in DB_PADS)
-    return f'<nav class="tracks" aria-label="Sections"><p class="sl">Cue list</p><ol>{items}{db}</ol></nav>'
+    return f'<nav class="tracks" aria-label="Sections"><p class="sl">Cue list · part one: the show</p><ol>{items}{db}</ol></nav>'
 
 
 # ------------------------------------------------------------ pages
@@ -381,7 +410,7 @@ def section_page(i, s):
     toc = ("<nav class=\"intoc\" aria-label=\"On this page\"><p class=\"k\">In this cue</p><ol>" + "".join(f'<li><a href="#{a}">{re.sub(r"<[^>]+>", "", t)}</a></li>' for a, t in s["h3"]) + "</ol></nav>") if len(s["h3"]) > 3 else ""
     pn = ('<nav class="pn">' + (f'<a href="/{prev_s["slug"]}/"><span>Previous cue</span>{E(prev_s["title"])}</a>' if prev_s else '<span></span>')
           + (f'<a class="nx" href="/{next_s["slug"]}/"><span>Next cue</span>{E(next_s["title"])}</a>' if next_s else '<a class="nx" href="/"><span>Back to</span>The front page</a>') + "</nav>")
-    desc = s["short"][:300] or f"{s['title']} - from {NAME}, a cited field guide to laser light shows."
+    desc = s["short"][:300] or f"{s['title']} - from {NAME}, a cited field guide to lasers."
     ld = [article_ld(s["title"], desc, f"/{s['slug']}/"), crumbs([(NAME, "/"), (s["title"], f"/{s['slug']}/")])] + ([faq_ld(qas)] if qas else [])
     body = f"""<div class="layout">{tracklist(s['slug'])}<main class="col" id="main">
 <p class="readmeta"><span class="tn">CUE {i + 1:02d}</span> · about {s['mins']} min · updated {UPDATED}</p>
@@ -397,7 +426,7 @@ def section_page(i, s):
 
 
 def hub():
-    t = seo.get("title", f"{NAME}: how laser shows work")
+    t = seo.get("title", f"{NAME}: how lasers work")
     d = seo.get("description", "")
     stats = (f'<p class="stats"><b>{WORDS:,}</b> words · <b>{len(sections)}</b> sections · <b>{len(nsrc)}</b> sources' + (f' · <b>{len(types)}</b> laser types' if types else "")
              + (f' · <b>{len(rules)}</b> rules' if rules else "") + (f' · <b>{len(landmarks)}</b> landmark shows' if landmarks else "") + f' · updated {UPDATED}</p>')
@@ -411,8 +440,8 @@ def hub():
             f'<div class="path"><p class="k">{E(p["who"])}</p><b>{E(p["title"])}</b><p>{E(p["blurb"])}</p>' + " ".join(f'<a href="/{x}/">{E(next((s["title"] for s in sections if s["slug"] == x), x))}</a>' for x in p["slugs"]) + "</div>" for p in paths) + "</div></section>"
     body = f"""<main id="main" class="hub">
 <section class="hero"><div class="hero-in"><div class="hero-t"><p class="kicker">cold.fyi deep dive No. {NO} · an independent guide</p><h1 class="title">The <span>Beam</span></h1>
-<p class="dek">How laser shows work: the planetarium years, the machines, the people who play them, and the rules that keep a beam out of your eye.</p>{stats}
-<div class="cta"><a class="primary" href="/{sections[0]['slug']}/">Start at cue 01</a><a href="/planetarium/">The planetarium years</a><a href="/rulebook/">The rulebook</a></div></div>
+<p class="dek">How lasers work: the planetarium shows and festival rigs, the machines and the people who play them, and everything else a laser does, from eye surgery to fusion, plus the rules that keep a beam out of your eye.</p>{stats}
+<div class="cta"><a class="primary" href="/{sections[0]['slug']}/">Start at cue 01</a><a href="/planetarium/">The planetarium years</a><a href="/invention/">Part two: lasers everywhere</a></div></div>
 <div class="hero-v">{console()}</div></div></section>
 <section class="lede col">{lede_html}</section>
 <section class="back">{tracklist()}</section>
@@ -424,7 +453,7 @@ def hub():
 def all_page():
     allh = "".join(f'<section id="{s["slug"]}" class="allsec"><p class="readmeta">Cue {i + 1:02d}</p><h1>{E(s["title"])}</h1>{s["html"]}</section>' for i, s in enumerate(sections))
     refs = refs_list(sorted(nsrc), "Every source")
-    write("all/index.html", head(f"Everything on one page | {NAME}", "The whole field guide to laser shows on one page, with every source.", "/all/") +
+    write("all/index.html", head(f"Everything on one page | {NAME}", "The whole field guide to lasers on one page, with every source.", "/all/") +
           f'<div class="layout">{tracklist()}<main class="col" id="main"><h1>Everything on one page</h1><div class="lede">{lede_html}</div>{allh}{refs}</main></div>' + foot())
 
 
@@ -444,13 +473,17 @@ def main():
         return [{"@context": "https://schema.org", "@type": "Dataset", "name": name, "description": desc, "url": SITE + path, "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": True,
                  "creator": {"@type": "Organization", "name": "Third Polar Arch"}, "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": SITE + file}]},
                 crumbs([(NAME, "/"), (name, path)])]
+    simple("/uses/", "Everything a laser does: every use, by field", f"{len(uses)} uses of the laser, from barcode scanners and eye surgery to welding, fiber-optic internet, LIGO and fusion: which laser, what it does and since when.",
+           m_uses() + '<p>The stories behind them start with <a href="/invention/">how the laser was invented</a>.</p>', ds("Uses of the laser", "Uses of lasers by field, with laser type and year, each with a source.", "/uses/", "/uses.json"), True)
+    simple("/docket/", "Laser cases: every kind of court case and enforcement action", f"{len(docket)} laser cases from courts, prosecutors and regulators: aircraft strikes, laser pointers, patents, FDA actions, injuries and more, with outcomes as the source states them.",
+           m_docket() + '<p>Why lasers are regulated at all is in <a href="/regulation/">the regulation section</a>; what the cases add up to is in <a href="/cases/">the cases section</a>.</p>', ds("Laser court cases and enforcement actions", "Court cases, prosecutions and regulatory actions involving lasers, each with a source. General information, not legal advice.", "/docket/", "/docket.json"), True)
     simple("/types/", "Every kind of show laser, from argon to diode", f"{len(types)} kinds of laser used in light shows: wavelengths, typical power, cooling and what each is known for.",
            m_types() + '<p>How they work and why each gave way to the next is in <a href="/lasers/">the lasers section</a>.</p>', ds("Kinds of show laser", "Laser types used in light shows, with wavelengths, power and cooling, each with a source.", "/types/", "/types.json"), True)
     simple("/rulebook/", "Laser show rules by country: who regulates what", f"{len(rules)} laser show rules from the US, UK, Europe and beyond: what each one says, whether it is law, guidance or a standard, and where audience scanning stands.",
            m_rules() + '<p>What they mean in practice is in <a href="/rules/">the rules section</a>; the reasons behind them are in <a href="/safety/">the safety section</a>.</p>', ds("Laser show rules by place", "Laws, guidance and standards for laser light shows by jurisdiction, each with a source. General information, not safety or legal advice.", "/rulebook/", "/rules.json"), True)
     simple("/landmarks/", "Landmark laser shows, 1969 to now", f"{len(landmarks)} laser shows that moved the form along, from the first planetarium runs to 2026: who made them and what happened.",
            m_landmarks() + '<p>The story that connects them starts in <a href="/history/">the history section</a>.</p>', ds("Landmark laser shows", "Notable laser light shows by year, each with a source.", "/landmarks/", "/landmarks.json"), True)
-    simple("/glossary/", "Glossary of laser show terms", f"{len(glossary)} laser show terms in plain words: galvo, kpps, blanking, MPE, variance, audience scanning and more.", m_glossary(), [crumbs([(NAME, "/"), ("Glossary", "/glossary/")])], True)
+    simple("/glossary/", "Glossary of laser terms", f"{len(glossary)} laser terms in plain words: galvo, kpps, blanking, MPE, variance, population inversion, fiber laser, LASIK and more.", m_glossary(), [crumbs([(NAME, "/"), ("Glossary", "/glossary/")])], True)
     simple("/sources/", "Every source", "Every source behind the guide, numbered.", refs_list(sorted(nsrc), f"{len(nsrc)} sources"))
     cl = "".join(f"<li><b>{E(c['date'])}</b> · <a href=\"/{E(c['section'])}/\">{E(c['section'])}</a>: {E(c['what'])}</li>" for c in corrections) or "<li>None yet.</li>"
     simple("/corrections/", "Corrections and updates", "Every correction to a fact, dated.", f'<p>Every fix to a fact, dated. To report one: <a href="mailto:hello@thirdpolararch.com?subject=beam.cold.fyi%20correction">hello@thirdpolararch.com</a>.</p><ul>{cl}</ul>')
@@ -458,17 +491,17 @@ def main():
     # data
     write("sections.json", json.dumps([{"n": i + 1, "slug": s["slug"], "title": s["title"], "short": s["short"], "url": f"{SITE}/{s['slug']}/", "words": s["words"], "sources": s["refs"]} for i, s in enumerate(sections)], indent=1, ensure_ascii=False))
     write("sources.json", json.dumps([{"n": n, "key": k, "title": t, "url": u} for n, (k, (t, u)) in sorted(nsrc.items())], indent=1, ensure_ascii=False))
-    for nm, data in (("types.json", types), ("rules.json", rules), ("landmarks.json", landmarks)):
+    for nm, data in (("types.json", types), ("rules.json", rules), ("landmarks.json", landmarks), ("docket.json", docket), ("uses.json", uses)):
         write(nm, json.dumps(data, indent=1, ensure_ascii=False))
     write("glossary.json", json.dumps(glossary, indent=1, ensure_ascii=False))
     write("timeline.json", json.dumps(timeline, indent=1, ensure_ascii=False))
-    urls = ["/", "/all/"] + ["/types/", "/rulebook/", "/landmarks/"] + ["/glossary/", "/sources/", "/corrections/"] + [f"/{s['slug']}/" for s in sections]
+    urls = ["/", "/all/"] + ["/uses/", "/docket/", "/types/", "/rulebook/", "/landmarks/"] + ["/glossary/", "/sources/", "/corrections/"] + [f"/{s['slug']}/" for s in sections]
     write("sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(f"<url><loc>{SITE}{u}</loc><lastmod>{STAMP.isoformat()}</lastmod></url>\n" for u in urls) + "</urlset>\n")
     write("robots.txt", f"User-agent: *\nAllow: /\n\nSitemap: {SITE}/sitemap.xml\n")
     llms = [f"# {seo.get('title', NAME)}", "", f"> {seo.get('description', '')}", "",
             f"Independent cited field guide, {WORDS:,} words, {len(nsrc)} sources, updated {UPDATED}. Not affiliated with any manufacturer, software maker, show company, venue, artist or agency. General information, not safety or legal advice.", "", "## Sections"]
     llms += [f"- [{s['title']}]({SITE}/{s['slug']}/): {s['short']}" for s in sections]
-    llms += ["", "## Tools and data", f"- Laser types: {SITE}/types/ (data {SITE}/types.json) · Rules by place: {SITE}/rulebook/ (data {SITE}/rules.json) · Landmark shows: {SITE}/landmarks/ (data {SITE}/landmarks.json)", f"- Glossary: {SITE}/glossary/ (data {SITE}/glossary.json)",
+    llms += ["", "## Tools and data", f"- Every use of a laser: {SITE}/uses/ (data {SITE}/uses.json) · Laser cases: {SITE}/docket/ (data {SITE}/docket.json)", f"- Show laser types: {SITE}/types/ (data {SITE}/types.json) · Rules by place: {SITE}/rulebook/ (data {SITE}/rules.json) · Landmark shows: {SITE}/landmarks/ (data {SITE}/landmarks.json)", f"- Glossary: {SITE}/glossary/ (data {SITE}/glossary.json)",
              f"- {SITE}/sections.json, {SITE}/sources.json, {SITE}/timeline.json", f"- Everything on one page: {SITE}/all/", "",
              "## Sister guides"] + [f"- https://{h}.cold.fyi/ - {n}: {d}" for h, n, d in SISTERS]
     write("llms.txt", "\n".join(llms) + "\n")
@@ -479,7 +512,7 @@ def main():
     os.makedirs(f"{OUT}/fonts", exist_ok=True)
     for f in glob.glob(f"{HERE}/fonts/*.woff2"):
         open(f"{OUT}/fonts/{os.path.basename(f)}", "wb").write(open(f, "rb").read())
-    print(f"built: {WORDS:,} words, {len(sections)} sections, {len(nsrc)} refs, {len(glossary)} terms, {len(types)} types, {len(rules)} rules, {len(landmarks)} landmarks, {len(timeline)} dates"
+    print(f"built: {WORDS:,} words, {len(sections)} sections, {len(nsrc)} refs, {len(glossary)} terms, {len(types)} types, {len(rules)} rules, {len(landmarks)} landmarks, {len(docket)} cases, {len(uses)} uses, {len(timeline)} dates"
           + (f", {len(gap_left)} GAP left" if gap_left else "") + (f", clashes {clash}" if clash else ""))
 
 

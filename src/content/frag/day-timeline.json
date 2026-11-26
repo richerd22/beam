@@ -1,0 +1,107 @@
+[
+ {
+  "date": "1966",
+  "label": "Kao's fiber calculation",
+  "detail": "Charles Kao works out that very pure glass fiber could carry light more than 100 km.",
+  "source_url": "https://nobelprize.org/prizes/physics/2009/press-release",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1969",
+  "label": "First lunar retroreflector",
+  "detail": "Apollo 11 leaves a panel of 100 corner cubes on the Moon for laser ranging.",
+  "source_url": "https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1971",
+  "label": "Laser printing at PARC",
+  "detail": "Starkweather builds SLOT on a Xerox 7000 copier; laser printing is shown at one page per second.",
+  "source_url": "https://ethw.org/Milestones:Development_of_the_Commercial_Laser_Printer%2C_1971-1977",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1974-06-26",
+  "label": "First UPC scan",
+  "detail": "A pack of Juicy Fruit gum is scanned by a Spectra-Physics helium-neon scanner in Troy, Ohio.",
+  "source_url": "https://www.gs1.org/articles/marsh-holds-place-honor-history-gs1-barcode",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1977",
+  "label": "Xerox 9700",
+  "detail": "Xerox launches the 9700 laser printer.",
+  "source_url": "https://ethw.org/Milestones:Development_of_the_Commercial_Laser_Printer%2C_1971-1977",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1985",
+  "label": "Chirped pulse amplification",
+  "detail": "Mourou and Strickland publish the method behind petawatt lasers.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1987",
+  "label": "Optical tweezers hold bacteria",
+  "detail": "Ashkin captures living bacteria with focused laser light without harming them.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/",
+  "era": "1973-1989"
+ },
+ {
+  "date": "2004-09-01",
+  "label": "First laser mouse",
+  "detail": "Logitech's MX 1000 ships with Agilent's laser sensor.",
+  "source_url": "https://www.investor.agilent.com/news-and-events/news/news-details/2004/Agilent-Technologies-Revolutionary-Sensor-Technology-Powers-Logitechs-New-Laser-Mouse/default.aspx",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2010-02-10",
+  "label": "Chicago admits lidar evidence",
+  "detail": "Judge Eileen Burke rules lidar speed evidence admissible in Chicago Traffic Court.",
+  "source_url": "https://www.laserfocusworld.com/test-measurement/test-measurement/article/16568629/chicago-court-says-lidar-is-scientifically-admissible-for-speeding-tickets",
+  "era": "2010-now"
+ },
+ {
+  "date": "2015-09-14",
+  "label": "LIGO detects gravitational waves",
+  "detail": "Two black holes of 36 and 29 solar masses merge about 1.3 billion light-years away.",
+  "source_url": "https://www.ligo.caltech.edu/detection",
+  "era": "2010-now"
+ },
+ {
+  "date": "2019-03",
+  "label": "10 petawatts",
+  "detail": "ELI-NP in Romania fires its first 10 PW pulses.",
+  "source_url": "https://optics.org/news/eli-np-laser-hits-10-petawatts-peak-power",
+  "era": "2010-now"
+ },
+ {
+  "date": "2020-10",
+  "label": "Lidar in a phone",
+  "detail": "Apple announces the iPhone 12 Pro and Pro Max with a LiDAR Scanner.",
+  "source_url": "https://optics.org/news/11/10/5",
+  "era": "2010-now"
+ },
+ {
+  "date": "2022-12-05",
+  "label": "Fusion ignition",
+  "detail": "NIF gets 3.15 MJ of fusion energy from 2.05 MJ of laser energy.",
+  "source_url": "https://lmf.llnl.gov/science/achieving-fusion-ignition",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023-12-11",
+  "label": "Laser video from deep space",
+  "detail": "DSOC on Psyche peaks at 267 Mbit/s with an ultra-high-definition video downlink.",
+  "source_url": "https://nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-deep-space-communications-demo-exceeds-project-expectations",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-04-07",
+  "label": "NIF record yield",
+  "detail": "8.6 MJ from 2.08 MJ of laser energy, a gain of 4.13.",
+  "source_url": "https://lmf.llnl.gov/science/achieving-fusion-ignition",
+  "era": "2010-now"
+ }
+]

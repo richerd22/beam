@@ -1,0 +1,42 @@
+[
+ {
+  "q": "Is it illegal to point a laser at a plane?",
+  "a": "In the US, yes: 18 U.S.C. 39A, in force since February 14, 2012, makes knowingly aiming a laser pointer at an aircraft or its flight path a federal crime with up to five years in prison. The FAA can also impose civil penalties of up to $11,000 per violation.",
+  "section": "cases"
+ },
+ {
+  "q": "How long can you go to jail for shining a laser at a helicopter?",
+  "a": "The US statutory maximum under 39A is five years. In 2014 a Fresno man was sentenced to 14 years; after an appeal vacated his conviction on a second charge, he was resentenced to 60 months under 39A, which the Ninth Circuit affirmed in 2016. Recent federal sentences have ranged from nine days to 37 months.",
+  "section": "cases"
+ },
+ {
+  "q": "What is the legal power limit for a laser pointer in the US?",
+  "a": "FDA regulations cap laser pointers at Class IIIa, 5 mW of visible output (400-710 nm). FDA says Class IIIb lasers cannot legally be promoted as laser pointers.",
+  "section": "regulation"
+ },
+ {
+  "q": "Why are laser pointers banned in Australia?",
+  "a": "From July 1, 2008, hand-held laser pointers above 1 mW were added to Australia's prohibited imports and treated as weapons, after a rise in incidents from late 2007. A 2012 government review found no significant drop in reported incidents afterward.",
+  "section": "regulation"
+ },
+ {
+  "q": "Do laser show companies need FDA approval?",
+  "a": "In the US, selling or operating Class IIIb or IV light show equipment needs an FDA-approved variance, applied for on Form FDA 3147. FDA's list covers show producers, projector makers, dealers and distributors, and users of permanent and temporary installations.",
+  "section": "regulation"
+ },
+ {
+  "q": "What is an FDA laser variance?",
+  "a": "It is FDA approval to depart from the laser standard, which FDA describes as an alternate means of providing radiation safety. It is best known for Class IIIb and IV show projectors, and a firm may begin producing shows only after the approval letter arrives.",
+  "section": "regulation"
+ },
+ {
+  "q": "Has anyone sued over a concert laser injury?",
+  "a": "No US lawsuit over a concert laser injury appears in court records. ILDA's incident list reports an €80,000 settlement after a 2014 nightclub injury in Spain, known second-hand.",
+  "section": "cases"
+ },
+ {
+  "q": "Can a laser at a concert break my phone camera, and who pays?",
+  "a": "ILDA says camera sensors are generally more susceptible to laser damage than the eye and that show producers cannot be responsible for audience camera damage. No court has ruled on the question.",
+  "section": "cases"
+ }
+]

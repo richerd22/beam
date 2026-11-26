@@ -1,0 +1,232 @@
+[
+ {
+  "use": "Retinal tumor treatment (first patient)",
+  "field": "ophthalmology",
+  "laser": "Ruby",
+  "wavelength": "",
+  "power": "",
+  "since": "1961",
+  "what": "One ruby pulse of about a thousandth of a second destroyed a retinal angioma.",
+  "source_url": "https://healthmatters.nyp.org/ruby-laser/"
+ },
+ {
+  "use": "Retinal photocoagulation",
+  "field": "ophthalmology",
+  "laser": "Argon",
+  "wavelength": "",
+  "power": "",
+  "since": "1969",
+  "what": "Laser heat seals or destroys retinal tissue, as in diabetic retinopathy; commercial slit-lamp units from 1970.",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
+  "use": "Pattern scanning retinal laser (PASCAL)",
+  "field": "ophthalmology",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "2006",
+  "what": "Computer-guided pattern scanning photocoagulation.",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
+  "use": "Laser iridectomy",
+  "field": "ophthalmology",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1973",
+  "what": "A laser opening in the iris for glaucoma.",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
+  "use": "Selective laser trabeculoplasty (SLT)",
+  "field": "ophthalmology",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1995",
+  "what": "Treats the eye's drainage tissue to lower pressure in glaucoma.",
+  "source_url": "https://evidence.nihr.ac.uk/alert/a-laser-eye-procedure-can-be-effective-and-safe-if-used-early-as-treatment-for-glaucoma"
+ },
+ {
+  "use": "Posterior capsulotomy",
+  "field": "ophthalmology",
+  "laser": "Nd:YAG",
+  "wavelength": "",
+  "power": "",
+  "since": "1979 or 1980",
+  "what": "Opens the clouded lens capsule after cataract surgery.",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
+  "use": "PRK",
+  "field": "ophthalmology",
+  "laser": "Excimer",
+  "wavelength": "",
+  "power": "",
+  "since": "1995",
+  "what": "Reshapes the corneal surface without a flap; first FDA approval March 10, 1995.",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/fda-approved-lasers-prk-and-other-refractive-surgeries"
+ },
+ {
+  "use": "LASIK",
+  "field": "ophthalmology",
+  "laser": "Excimer",
+  "wavelength": "",
+  "power": "",
+  "since": "1998",
+  "what": "Reshapes the cornea under a flap; first FDA-approved laser July 30, 1998 (IBM says 1997).",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/list-fda-approved-lasers-lasik"
+ },
+ {
+  "use": "LASIK corneal flap cutting",
+  "field": "ophthalmology",
+  "laser": "Femtosecond",
+  "wavelength": "",
+  "power": "",
+  "since": "1998",
+  "what": "Cuts the corneal flap; first reported by Kurtz and colleagues in 1998.",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
+  "use": "SMILE",
+  "field": "ophthalmology",
+  "laser": "Femtosecond (Zeiss VisuMax)",
+  "wavelength": "",
+  "power": "",
+  "since": "2016",
+  "what": "Cuts a disc inside the cornea removed through a small incision; FDA approval September 13, 2016.",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/fda-approved-lasers-prk-and-other-refractive-surgeries"
+ },
+ {
+  "use": "Port-wine stain treatment",
+  "field": "dermatology",
+  "laser": "Pulsed dye",
+  "wavelength": "",
+  "power": "",
+  "since": "1989",
+  "what": "Targets blood vessels to treat port-wine stains without scarring.",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "use": "Hair removal",
+  "field": "dermatology",
+  "laser": "Ruby",
+  "wavelength": "",
+  "power": "",
+  "since": "1990s",
+  "what": "Developed by Anderson and Grossman; an expert calls it the most common laser treatment in medicine.",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "use": "Tattoo removal",
+  "field": "dermatology",
+  "laser": "Q-switched",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Short pulses break up tattoo ink.",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "use": "Tattoo and pigmented lesion removal",
+  "field": "dermatology",
+  "laser": "Picosecond (PicoSure)",
+  "wavelength": "",
+  "power": "",
+  "since": "2013",
+  "what": "First picosecond laser for tattoos, FDA-cleared by January 2, 2013.",
+  "source_url": "https://www.laserfocusworld.com/biooptics/biomedicine/article/14191898/cynosure-receives-fda-approval-for-first-picosecond-laser-to-remove-tattoos-benign-pigmented-lesions"
+ },
+ {
+  "use": "Skin resurfacing",
+  "field": "dermatology",
+  "laser": "CO2, erbium YAG",
+  "wavelength": "",
+  "power": "",
+  "since": "1990s",
+  "what": "Scanning systems made computer-controlled resurfacing possible in the early 1990s.",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "use": "Fractional resurfacing",
+  "field": "dermatology",
+  "laser": "Fractional (Fraxel)",
+  "wavelength": "",
+  "power": "",
+  "since": "2000s",
+  "what": "Treats skin in columns with untreated skin between; FDA-cleared in the early 2000s.",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "use": "Soft tissue dental surgery",
+  "field": "dentistry",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "FDA has cleared lasers for gum and other soft tissue work.",
+  "source_url": "https://www.aae.org/wp-content/uploads/2019/10/UseOfLasersInDentistry_PositionStatement_v1.pdf"
+ },
+ {
+  "use": "Caries removal and restorations",
+  "field": "dentistry",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "FDA has cleared lasers for removing decay and tooth-colored restorations.",
+  "source_url": "https://www.aae.org/wp-content/uploads/2019/10/UseOfLasersInDentistry_PositionStatement_v1.pdf"
+ },
+ {
+  "use": "Root canal adjunct",
+  "field": "dentistry",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Cleared as an adjunct; clinical benefit of laser disinfection not known (AAE, 2019).",
+  "source_url": "https://www.aae.org/wp-content/uploads/2019/10/UseOfLasersInDentistry_PositionStatement_v1.pdf"
+ },
+ {
+  "use": "Photodynamic therapy (porfimer sodium)",
+  "field": "oncology",
+  "laser": "",
+  "wavelength": "630 nm",
+  "power": "",
+  "since": "1995",
+  "what": "Laser light activates Photofrin 40-50 hours after injection to kill cancer cells.",
+  "source_url": "https://Drugs.com/pro/photofrin.html"
+ },
+ {
+  "use": "Laser interstitial thermal therapy (Visualase)",
+  "field": "neurosurgery",
+  "laser": "",
+  "wavelength": "800-1064 nm",
+  "power": "",
+  "since": "2007",
+  "what": "A laser fiber in the brain ablates epileptic foci and tumors under MRI temperature tracking; used since 2007 (maker).",
+  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/specialties/neurology/therapies-procedures/laser-ablation-brain-tumors.html"
+ },
+ {
+  "use": "Home hair-growth devices (LLLT)",
+  "field": "dermatology",
+  "laser": "Low-level red light",
+  "wavelength": "about 650 nm (620-678 nm)",
+  "power": "",
+  "since": "2007",
+  "what": "First FDA-cleared device for male pattern hair loss in 2007; 32 cleared home-use devices on the US market as of January 5, 2020.",
+  "source_url": "https://jcadonline.com/laser-therapy-hair-loss"
+ },
+ {
+  "use": "General and plastic surgery",
+  "field": "surgery",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Class II laser surgical instruments cut, destroy, remove or coagulate mostly soft tissue across many specialties (21 CFR 878.4810).",
+  "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm?ID=GEX"
+ }
+]

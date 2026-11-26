@@ -1,0 +1,100 @@
+[
+ {
+  "date": "1960",
+  "label": "Lasers enter manufacturing",
+  "detail": "TWI dates industrial laser use to the 1960s.",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052",
+  "era": "Before 1973"
+ },
+ {
+  "date": "2004",
+  "label": "GE starts the printed LEAP fuel nozzle",
+  "detail": "Development of the laser powder bed fuel nozzle begins.",
+  "source_url": "https://laserfocusworld.com/industrial-laser-solutions/article/14216415/additive-manufacturing-at-ge-aviation",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2012-10-17",
+  "label": "ASML agrees to buy Cymer",
+  "detail": "About EUR 1.95 billion for the excimer and EUV source maker (reported).",
+  "source_url": "https://www.laserfocusworld.com/articles/2012/10/asml-to-buy-extreme-uv-light-source-maker-cymer.html",
+  "era": "2010-now"
+ },
+ {
+  "date": "2015",
+  "label": "Fiber outsells CO2 for cutting",
+  "detail": "First year fiber cutting lasers outsold CO2 (reported).",
+  "source_url": "https://laserfocusworld.com/industrial-laser-solutions/article/14216470/fiber-laser-cutting-drives-a-power-revolution",
+  "era": "2010-now"
+ },
+ {
+  "date": "2015-10",
+  "label": "Glowforge crowdfunding",
+  "detail": "$27.9 million in sales in 30 days (reported).",
+  "source_url": "https://www.geekwire.com/2025/glowforge-hits-restart-after-restructuring-co-founders-acquire-key-assets-of-laser-engraver-startup/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2018-12-06",
+  "label": "TRUMPF describes its EUV drive laser",
+  "detail": "Five amplifier stages, mean pulse power above 30 kW.",
+  "source_url": "https://www.trumpf.com/en_GB/magazine/flashes-of-light-in-a-vacuum",
+  "era": "2010-now"
+ },
+ {
+  "date": "2021",
+  "label": "xTool D1 launches",
+  "detail": "The desktop engraver that started xTool (reported).",
+  "source_url": "https://kr-asia.com/xtool-avoids-collapse-but-faces-a-difficult-path-to-growth",
+  "era": "2010-now"
+ },
+ {
+  "date": "2022-10-07",
+  "label": "UK recall of Vevor laser engravers",
+  "detail": "Plug pins below the 6.22 mm minimum; shock risk rated serious.",
+  "source_url": "https://gov.uk/product-safety-alerts-reports-recalls/product-safety-report-vevor-laser-engraving-machine-2209-0275",
+  "era": "2010-now"
+ },
+ {
+  "date": "2024-08-09",
+  "label": "UK rejects Creality Falcon2 at the border",
+  "detail": "22 W Class 4 engraver found excessively strong for consumer use; goggles inadequate.",
+  "source_url": "https://gov.uk/product-safety-alerts-reports-recalls/product-safety-report-falcon2-magical-colorful-engraving-machine-2310-0021",
+  "era": "2010-now"
+ },
+ {
+  "date": "2024-12-31",
+  "label": "FDA withdraws Laser Notice No. 50",
+  "detail": "Makers move to Laser Notice No. 56.",
+  "source_url": "https://content.govdelivery.com/accounts/USFDA/bulletins/3cb2a72",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-02-11",
+  "label": "IPG reports 2024 revenue of $977.1 million",
+  "detail": "Down 24% from 2023 (official).",
+  "source_url": "https://investor.ipgphotonics.com/news/news-details/2025/IPG-Photonics-Announces-Fourth-Quarter-2024-Financial-Results/default.aspx",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-07-23",
+  "label": "TRUMPF reports FY2024/25 sales of €4.3 billion",
+  "detail": "Down about 17% (preliminary).",
+  "source_url": "https://optics.org/news/16/7/39",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-11-06",
+  "label": "Glowforge restarts under its co-founders",
+  "detail": "After an Assignment for the Benefit of Creditors.",
+  "source_url": "https://www.geekwire.com/2025/glowforge-hits-restart-after-restructuring-co-founders-acquire-key-assets-of-laser-engraver-startup/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2026-01-01",
+  "label": "xTool HKEX listing application made public",
+  "detail": "Prospectus reports 2024 revenue of RMB 2,475.9 million.",
+  "source_url": "https://makers101.com/xtool-hong-kong-ipo-filing-analysis/",
+  "era": "2010-now"
+ }
+]

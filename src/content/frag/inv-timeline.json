@@ -1,0 +1,100 @@
+[
+ {
+  "date": "1917",
+  "label": "Einstein describes stimulated emission",
+  "detail": "A paper on the quantum theory of radiation in Physikalische Zeitschrift sets out absorption, spontaneous and stimulated emission.",
+  "source_url": "https://physicsworld.com/a/a-century-ago-einstein-sparked-the-notion-of-the-laser/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1954-04",
+  "label": "The maser gets its name",
+  "detail": "Townes names the ammonia maser built at Columbia with Gordon and Zeiger.",
+  "source_url": "https://www.optica-opn.org/home/articles/volume_21/issue_5/features/reﬂections_on_the_first_maser",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1957-11",
+  "label": "Gould's notebook coins LASER",
+  "detail": "Gordon Gould's notarized notebook holds the first recorded use of the acronym.",
+  "source_url": "https://en.wikipedia.org/wiki/Gordon_Gould",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1958-12-15",
+  "label": "Schawlow and Townes publish the optical maser",
+  "detail": "Their Physical Review paper proposes a laser with mirrors at each end.",
+  "source_url": "https://www.britannica.com/technology/laser/History",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1960-05-16",
+  "label": "First working laser",
+  "detail": "Theodore Maiman and Irnee d'Haenens see laser action in ruby at Hughes Research Laboratories.",
+  "source_url": "https://physicsworld.com/a/and-then-there-was-light/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1960-12-12",
+  "label": "First helium-neon laser",
+  "detail": "Javan, Bennett and Herriott at Bell Labs run the first gas laser and first continuous beam, at 1.15 micrometers.",
+  "source_url": "https://lemelson.mit.edu/resources/ali-javan",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1962-09-16",
+  "label": "First diode laser lases at GE",
+  "detail": "Robert Hall's team pulses a gallium arsenide diode above 12 A; IBM and MIT Lincoln Lab follow within weeks.",
+  "source_url": "https://lux.spie.org/news/photonics-focus/janfeb-2020/robert-hall-and-the-diode-laser",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1964",
+  "label": "Nobel Prize for the maser-laser principle",
+  "detail": "Townes, Basov and Prokhorov share the Physics prize.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/1964/summary",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1964",
+  "label": "Nd:YAG laser at Bell Labs",
+  "detail": "Neodymium-doped YAG lases at 1.06 micrometers.",
+  "source_url": "https://amp.spie.org/news/spie-professional-magazine-archive/2009-october/laser-innovations",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1964",
+  "label": "Patel's nitrogen-CO2 laser",
+  "detail": "The first gas laser to produce high power continuously, per Lemelson-MIT.",
+  "source_url": "https://lemelson.mit.edu/resources/kumar-patel",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1970",
+  "label": "First excimer laser",
+  "detail": "A xenon dimer laser runs at the Lebedev Institute in Moscow.",
+  "source_url": "https://ufn.ru/en/articles/2023/10/f/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1977-10-11",
+  "label": "Gould wins his first basic laser patent",
+  "detail": "US 4,053,845 on optically pumped laser amplifiers issues after a long fight.",
+  "source_url": "https://photonics.com/LinearChart.aspx?ChartID=2",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1988",
+  "label": "Gould's royalties begin",
+  "detail": "His fourth basic laser patent is approved in April.",
+  "source_url": "https://photonics.com/LinearChart.aspx?ChartID=2",
+  "era": "1973-1989"
+ },
+ {
+  "date": "2018-10-02",
+  "label": "Nobel for optical tweezers and chirped pulse amplification",
+  "detail": "Ashkin, Mourou and Strickland share the Physics prize.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/",
+  "era": "2010-now"
+ }
+]

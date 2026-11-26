@@ -1,0 +1,134 @@
+[
+ {
+  "term": "Directed energy weapon",
+  "definition": "A weapon that uses focused energy, such as a laser or microwaves, instead of a projectile.",
+  "section": "defense",
+  "source_url": "https://www.newsonair.gov.in/india-demonstrates-laser-weapon-capability-joins-elite-global-club"
+ },
+ {
+  "term": "High-energy laser",
+  "definition": "Military term for a laser weapon meant to damage a target.",
+  "section": "defense",
+  "source_url": "https://www.militarytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test"
+ },
+ {
+  "term": "Airborne Laser (YAL-1)",
+  "definition": "US Boeing 747-based missile-defense laser test aircraft, tested at Edwards Air Force Base from 2002 and retired to storage in 2012.",
+  "section": "defense",
+  "source_url": "https://www.edwards.af.mil/News/Article/394579/airborne-laser-test-bed-bids-adieu-to-edwards"
+ },
+ {
+  "term": "COIL",
+  "definition": "Chemical oxygen iodine laser, the megawatt-class laser carried by the Airborne Laser.",
+  "section": "defense",
+  "source_url": "https://www.edwards.af.mil/News/Article/394579/airborne-laser-test-bed-bids-adieu-to-edwards"
+ },
+ {
+  "term": "Boost phase",
+  "definition": "The early powered flight of a missile, when the Airborne Laser was designed to engage it.",
+  "section": "defense",
+  "source_url": "https://www.edwards.af.mil/News/Article/394579/airborne-laser-test-bed-bids-adieu-to-edwards"
+ },
+ {
+  "term": "LaWS",
+  "definition": "Laser Weapon System, the US Navy prototype that operated on USS Ponce in the Persian Gulf in 2014.",
+  "section": "defense",
+  "source_url": "https://www.onr.navy.mil/media-center/news-releases/historic-leap-navy-shipboard-laser-operates-persian-gulf"
+ },
+ {
+  "term": "HELIOS",
+  "definition": "High-Energy Laser with Integrated Optical Dazzler and Surveillance, a Lockheed Martin system delivered to USS Preble in 2022.",
+  "section": "defense",
+  "source_url": "https://www.militarytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test"
+ },
+ {
+  "term": "Iron Beam",
+  "definition": "Israel's high-power laser air defense, developed by Rafael with a laser from Elbit Systems; declared operational in 2025.",
+  "section": "defense",
+  "source_url": "https://www.timesofisrael.com/defense-ministry-hands-idf-first-combat-ready-iron-beam-laser-interception-system"
+ },
+ {
+  "term": "DragonFire",
+  "definition": "UK laser weapon led by MBDA UK, due on a Royal Navy Type 45 destroyer by 2027.",
+  "section": "defense",
+  "source_url": "https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones"
+ },
+ {
+  "term": "Peresvet",
+  "definition": "Russian laser system announced by President Putin in 2018; its purpose has not been officially stated.",
+  "section": "defense",
+  "source_url": "https://www.themoscowtimes.com/2018/12/05/russias-new-laster-weapons-systems-enter-into-service-military-says-a63709"
+ },
+ {
+  "term": "Cost per shot",
+  "definition": "The operating cost of one laser engagement, the main argument governments make for laser weapons.",
+  "section": "defense",
+  "source_url": "https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones"
+ },
+ {
+  "term": "Laser-guided bomb",
+  "definition": "A bomb that steers toward a spot of laser light placed on a target; first combat-evaluated by the US Air Force in 1968.",
+  "section": "defense",
+  "source_url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195858/"
+ },
+ {
+  "term": "Target designator",
+  "definition": "The laser that marks a target for a guided munition.",
+  "section": "defense",
+  "source_url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195858/"
+ },
+ {
+  "term": "Paveway",
+  "definition": "The US family of laser-guided bomb kits adopted after the BOLT-117 evaluation in the Vietnam War.",
+  "section": "defense",
+  "source_url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195858/"
+ },
+ {
+  "term": "Dazzler (optical distracter, ocular interrupter)",
+  "definition": "A visible laser meant to cause temporary, reversible glare, used as a warning at checkpoints and at sea.",
+  "section": "defense",
+  "source_url": "https://jifco.defense.gov/Press-Room/Fact-Sheets/Article-View-Fact-sheets/Article/577997/non-lethal-optical-distracters/"
+ },
+ {
+  "term": "Maximum permissible exposure (MPE)",
+  "definition": "The exposure level considered free of hazardous effects; US dazzlers are described as designed to operate below it.",
+  "section": "defense",
+  "source_url": "https://jifco.defense.gov/Press-Room/Fact-Sheets/Article-View-Fact-sheets/Article/577997/non-lethal-optical-distracters/"
+ },
+ {
+  "term": "Protocol IV",
+  "definition": "The 1995 protocol to the Convention on Certain Conventional Weapons banning laser weapons designed to cause permanent blindness.",
+  "section": "defense",
+  "source_url": "https://nuke.fas.org/control/ccw/text/protocol4.htm"
+ },
+ {
+  "term": "Permanent blindness (Protocol IV)",
+  "definition": "Irreversible, uncorrectable, seriously disabling loss of vision: acuity below 20/200 Snellen in both eyes.",
+  "section": "defense",
+  "source_url": "https://nuke.fas.org/control/ccw/text/protocol4.htm"
+ },
+ {
+  "term": "Unenhanced vision",
+  "definition": "The naked eye or eyes with ordinary corrective lenses, as Protocol IV uses the term.",
+  "section": "defense",
+  "source_url": "https://nuke.fas.org/control/ccw/text/protocol4.htm"
+ },
+ {
+  "term": "Lasing",
+  "definition": "Service slang for shining a laser at an aircraft or ship.",
+  "section": "defense",
+  "source_url": "https://www.defence.gov.au/news-events/releases/2022-02-19/chinese-vessel-lasing-adf-aircraft"
+ },
+ {
+  "term": "Demarche",
+  "definition": "A formal diplomatic protest.",
+  "section": "defense",
+  "source_url": "https://www.jcs.mil/Media/News/News-Display/Article/1512451/us-protests-chinese-interference-with-us-planes-in-djibouti/"
+ },
+ {
+  "term": "Inter-satellite laser link",
+  "definition": "A laser beam carrying data between satellites.",
+  "section": "defense",
+  "source_url": "https://www.lightnowblog.com/2024/02/ir-lasers-link-9000-starlink-satellites-and-move-42-million-gb-per-day/"
+ }
+]

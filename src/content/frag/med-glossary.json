@@ -1,0 +1,134 @@
+[
+ {
+  "term": "Photocoagulation",
+  "definition": "Heating tissue with light until it seals or dies; first used on the retina, with sunlight and arc lamps before lasers.",
+  "section": "medicine",
+  "source_url": "https://retinahistory.asrs.org/milestones-developments/laser-therapy"
+ },
+ {
+  "term": "Excimer laser",
+  "definition": "An ultraviolet gas laser that removes tissue in very thin layers with little heat; the laser behind PRK and LASIK.",
+  "section": "medicine",
+  "source_url": "https://research.ibm.com/blog/40-years-excimer-laser-surgery"
+ },
+ {
+  "term": "PRK (photorefractive keratectomy)",
+  "definition": "Reshaping the surface of the cornea with an excimer laser, without cutting a flap.",
+  "section": "medicine",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/fda-approved-lasers-prk-and-other-refractive-surgeries"
+ },
+ {
+  "term": "LASIK",
+  "definition": "An excimer laser reshapes the cornea under a thin flap that is then laid back down. The word was coined in 1991.",
+  "section": "medicine",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
+  "term": "SMILE (small incision lenticule extraction)",
+  "definition": "A femtosecond laser cuts a small disc inside the cornea, which the surgeon removes through a small incision.",
+  "section": "medicine",
+  "source_url": "https://www.fda.gov/news-events/press-announcements/fda-approves-visumax-femtosecond-laser-surgically-treat-nearsightedness"
+ },
+ {
+  "term": "Femtosecond laser",
+  "definition": "A laser whose pulses last quadrillionths of a second, used to cut corneal flaps or lenticules.",
+  "section": "medicine",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
+  "term": "SLT (selective laser trabeculoplasty)",
+  "definition": "A laser treatment of the eye's drainage tissue that lowers eye pressure in glaucoma.",
+  "section": "medicine",
+  "source_url": "https://evidence.nihr.ac.uk/alert/a-laser-eye-procedure-can-be-effective-and-safe-if-used-early-as-treatment-for-glaucoma"
+ },
+ {
+  "term": "Nd:YAG capsulotomy",
+  "definition": "Using a laser to open the clouded lens capsule after cataract surgery.",
+  "section": "medicine",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
+  "term": "Selective photothermolysis",
+  "definition": "Choosing a wavelength and pulse length so heat stays in one target - pigment, blood or ink - and spares the tissue around it.",
+  "section": "medicine",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "term": "Pulsed dye laser",
+  "definition": "A yellow-light laser that targets blood vessels, used for port-wine stains.",
+  "section": "medicine",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "term": "Q-switched laser",
+  "definition": "A laser making very short, high-peak-power pulses in nanoseconds, used to break up tattoo ink and pigment.",
+  "section": "medicine",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "term": "Picosecond laser",
+  "definition": "A laser with pulses in trillionths of a second, used for tattoos and pigmented lesions.",
+  "section": "medicine",
+  "source_url": "https://www.laserfocusworld.com/biooptics/biomedicine/article/14191898/cynosure-receives-fda-approval-for-first-picosecond-laser-to-remove-tattoos-benign-pigmented-lesions"
+ },
+ {
+  "term": "Fractional resurfacing",
+  "definition": "Treating skin in a grid of tiny columns, leaving untreated skin between them to speed healing.",
+  "section": "medicine",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "term": "Photodynamic therapy (PDT)",
+  "definition": "A light-activated drug plus light of a matching wavelength kills the cells that absorbed the drug.",
+  "section": "medicine",
+  "source_url": "https://cancer.gov/about-cancer/treatment/types/surgery/photodynamic-fact-sheet"
+ },
+ {
+  "term": "Photosensitizer",
+  "definition": "The light-activated drug in photodynamic therapy, such as porfimer sodium.",
+  "section": "medicine",
+  "source_url": "https://cancer.gov/about-cancer/treatment/types/surgery/photodynamic-fact-sheet"
+ },
+ {
+  "term": "LITT (laser interstitial thermal therapy)",
+  "definition": "A laser fiber inside the body heats and destroys tissue while MRI tracks the temperature.",
+  "section": "medicine",
+  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/specialties/neurology/therapies-procedures/laser-ablation-brain-tumors.html"
+ },
+ {
+  "term": "Low-level light therapy (LLLT)",
+  "definition": "Low-power red or near-infrared light meant to stimulate tissue rather than cut it, as in hair-growth caps and combs; also called photobiomodulation.",
+  "section": "medicine",
+  "source_url": "https://jcadonline.com/laser-therapy-hair-loss"
+ },
+ {
+  "term": "510(k) clearance",
+  "definition": "FDA permission to market a device because it is substantially equivalent to one already on the market.",
+  "section": "medicine",
+  "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm?ID=GEX"
+ },
+ {
+  "term": "PMA (premarket approval)",
+  "definition": "FDA's stricter review requiring clinical evidence of safety and effectiveness, used for LASIK and SMILE lasers.",
+  "section": "medicine",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/list-fda-approved-lasers-lasik"
+ },
+ {
+  "term": "MedWatch",
+  "definition": "FDA's voluntary system for reporting problems with medical products.",
+  "section": "medicine",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/lasik-faqs-frequently-asked-questions"
+ },
+ {
+  "term": "Laser pointer maculopathy",
+  "definition": "Damage to the center of the retina from looking into a handheld laser.",
+  "section": "medicine",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/27587615/"
+ },
+ {
+  "term": "Consulting physician (Texas)",
+  "definition": "The doctor a Texas laser hair removal facility must have a written contract with.",
+  "section": "medicine",
+  "source_url": "https://www.tdlr.texas.gov/las/lasfaq.htm"
+ }
+]

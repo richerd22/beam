@@ -1651,62 +1651,1202 @@
  },
  {
   "n": 276,
+  "key": "fes-pangolin-shm-coachella-2022",
+  "title": "Pangolin: Swedish House Mafia at Coachella 2022 (company case study)",
+  "url": "https://pangolin.com/blogs/news/swedish-house-mafia-at-coachella-2022"
+ },
+ {
+  "n": 277,
+  "key": "fes-pangolin-ultra-2015",
+  "title": "Pangolin: Ultra Music Festival 2015 Miami (company case study)",
+  "url": "https://pangolin.com/blogs/news/ultra-music-festival-2015-miami"
+ },
+ {
+  "n": 278,
+  "key": "fes-er-glastonbury-2019",
+  "title": "ER Productions: Glastonbury 2019 (company page)",
+  "url": "https://er-productions.com/items/glastonbury-2019"
+ },
+ {
+  "n": 279,
+  "key": "fes-sofi-illenium",
+  "title": "SoFi Stadium: Internationally acclaimed DJ Illenium to perform electrifying set at SoFi Stadium on February 2 and 3, 2024",
+  "url": "https://www.sofistadium.com/news/detail/internationally-acclaimed-dj-illenium-to-perform-electrifying-set-at-sofi-stadium-on-february-2-and-3-2024"
+ },
+ {
+  "n": 280,
+  "key": "fes-pangolin-illenium-sofi",
+  "title": "Pangolin: Illenium Trilogy show breaks records with laser technology (company case study)",
+  "url": "https://pangolin.com/blogs/news/illenium-trilogy-show-breaks-records-with-laser-technology"
+ },
+ {
+  "n": 281,
+  "key": "fes-pangolin-shm-cdmx-2025",
+  "title": "Pangolin: Swedish House Mafia CDMX 2025 (company case study)",
+  "url": "https://pangolin.com/blogs/news/swedish-house-mafia-cdmx-2025"
+ },
+ {
+  "n": 282,
+  "key": "fes-pangolin-forbidden-kingdom",
+  "title": "Pangolin: An inside look at Forbidden Kingdom 2026 (company case study)",
+  "url": "https://pangolin.com/blogs/news/an-inside-look-at-forbidden-kingdom-2026"
+ },
+ {
+  "n": 283,
+  "key": "fes-dmn-anyma",
+  "title": "Digital Music News: Anyma: The End of Genesys stage production, Sphere Las Vegas",
+  "url": "https://www.digitalmusicnews.com/2025/03/19/anyma-the-end-of-genesys-stage-production-sphere-las-vegas/"
+ },
+ {
+  "n": 284,
+  "key": "fes-livedesign-sb44",
+  "title": "Live Design: Lasers light up skies in Miami for Super Bowl XLIV halftime show",
+  "url": "https://www.livedesignonline.com/lasers-light-up-skies-miami-for-super-bowl-xliv-halftime-show"
+ },
+ {
+  "n": 285,
+  "key": "fes-svg-49ers",
+  "title": "Sports Video Group: San Francisco 49ers strike gold with halftime laser spectacular",
+  "url": "https://www.sportsvideo.org/2025/12/29/san-francisco-49ers-strike-gold-with-halftime-laser-spectacular"
+ },
+ {
+  "n": 286,
+  "key": "fes-ap-disney",
+  "title": "AP (Thomas Adamson), via Yahoo News: Disneyland Paris unveils spectacular nighttime show",
+  "url": "https://www.yahoo.com/news/disneyland-paris-unveils-spectacular-nighttime-105353083.html"
+ },
+ {
+  "n": 287,
+  "key": "fes-national-dubai-2018",
+  "title": "The National: Tens of thousands turn out for New Year's Eve laser show in Dubai",
+  "url": "https://www.thenationalnews.com/uae/tens-of-thousands-turn-out-for-new-year-s-eve-laser-show-in-dubai-1.691911"
+ },
+ {
+  "n": 288,
+  "key": "fes-gulfnews-dubai-2023",
+  "title": "Gulf News (Sajila Saseendran): Dubai's Burj Khalifa to hold record-breaking laser show, fireworks display to welcome 2023",
+  "url": "https://gulfnews.com/uae/dubais-burj-khalifa-to-hold-record-breaking-laser-show-fireworks-display-to-welcome-2023-1.92242755"
+ },
+ {
+  "n": 289,
+  "key": "fes-ilda-2026",
+  "title": "ILDA: ILDA Awards 2026",
+  "url": "https://www.ilda.com/awards2026.htm"
+ },
+ {
+  "n": 290,
+  "key": "fes-vivid-lightfall",
+  "title": "Vivid Sydney: Laser Lightfall (official event page)",
+  "url": "https://www.vividsydney.com/event/light/laser-lightfall"
+ },
+ {
+  "n": 291,
+  "key": "fes-nordic",
+  "title": "Nordic radiation safety authorities, hosted by Strålsäkerhetsmyndigheten: Avoid direct laser scanning of audiences (Nordic statement)",
+  "url": "https://www.stralsakerhetsmyndigheten.se/contentassets/9f44b528c39a4337aa6fb9ccc891b9df/avoid-direct-laser-scanning-of-audiences---nordic-statement.pdf"
+ },
+ {
+  "n": 292,
+  "key": "fes-ilda-all-awards",
+  "title": "ILDA: All ILDA Award winners",
+  "url": "https://ilda.com/all-awards.htm"
+ },
+ {
+  "n": 293,
+  "key": "fes-ilda-2023",
+  "title": "ILDA: ILDA Awards 2023",
+  "url": "https://ilda.com/awards2023.htm"
+ },
+ {
+  "n": 294,
+  "key": "fes-ilda-2024",
+  "title": "ILDA: ILDA Awards 2024",
+  "url": "https://ilda.com/awards2024.htm"
+ },
+ {
+  "n": 295,
   "key": "biz-lps-casio-2010",
   "title": "LaserPointerSafety.com: News item on 445 nm diodes from Casio projectors, November 30, 2010",
   "url": "https://laserpointersafety.com/news/news/other-news_files/08ff728fbeff3a7a48d56726bed4db04-114.php"
  },
  {
-  "n": 277,
+  "n": 296,
   "key": "biz-starshine-2026",
   "title": "Starshine Lights: Stage Laser Projector Evolution: From Water-Cooled to Diode RGB, January 9, 2026",
   "url": "https://www.starshinelights.com/blogs/news/stage-laser-projector-evolution"
  },
  {
-  "n": 278,
+  "n": 297,
   "key": "biz-euronews-2019",
   "title": "Euronews: Lasers replace fireworks for Mexico City New Year's Eve celebrations, January 1, 2019",
   "url": "https://www.euronews.com/video/2019/01/01/lasers-replace-fireworks-for-mexico-city-new-year-s-eve-celebrations"
  },
  {
-  "n": 279,
+  "n": 298,
   "key": "biz-abc-2023",
   "title": "ABC News / GMA (Kelly Livingston): High-tech 4th of July displays ditch fireworks over fire and pollution concerns, July 2, 2023",
   "url": "https://goodmorningamerica.com/US/story/high-tech-4th-july-displays-ditch-fireworks-fire-100560162"
  },
  {
-  "n": 280,
+  "n": 299,
   "key": "biz-npr-2024",
   "title": "NPR Morning Edition: Why drone light shows are replacing traditional July 4th fireworks, July 4, 2024",
   "url": "https://www.npr.org/2024/07/04/nx-s1-5020172/why-drone-light-shows-are-replacing-traditional-july-4th-fireworks"
  },
  {
-  "n": 281,
+  "n": 300,
   "key": "biz-ap-2025",
   "title": "Associated Press via PBS NewsHour: Greece and Cyprus are welcoming 2026 without the bang, December 31, 2025",
   "url": "https://www.pbs.org/newshour/amp/world/greece-and-cyprus-are-welcoming-2026-without-the-bang-embracing-quiet-new-years-celebrations"
  },
  {
-  "n": 282,
+  "n": 301,
   "key": "biz-ctv-vancouver",
   "title": "CTV News Vancouver: As Vancouver rings in another New Year without fireworks, some suggest alternative light shows",
   "url": "https://bc.ctvnews.ca/as-vancouver-rings-in-another-new-year-without-fireworks-some-suggest-alternative-light-shows-1.6708598"
  },
  {
-  "n": 283,
+  "n": 302,
   "key": "biz-rainbow-chronology",
   "title": "Yvette Mattern: Global Rainbow chronology",
   "url": "https://static1.squarespace.com/static/54ec549be4b03ce768b8e805/t/5791e8909de4bbae635ccefc/1469180055597/GR_chronology_final_1.pdf"
  },
  {
-  "n": 284,
+  "n": 303,
   "key": "biz-lightwave-nantes",
   "title": "Lightwave International: Global Rainbow in Nantes, France",
   "url": "https://lasershows.com/portfolio/global-rainbow-in-nantes-france/"
  },
  {
-  "n": 285,
+  "n": 304,
   "key": "biz-livedesign-ldi-2024",
   "title": "Live Design: Laser training at LDI 2024",
   "url": "https://www.livedesignonline.com/news/laser-training-ldi-2024"
+ },
+ {
+  "n": 305,
+  "key": "inv-brit-principles",
+  "title": "Encyclopaedia Britannica: Laser - Fundamental principles",
+  "url": "https://www.Britannica.Com/technology/laser/Fundamental-principles"
+ },
+ {
+  "n": 306,
+  "key": "inv-aps-2005",
+  "title": "APS News: This Month in Physics History: Einstein Predicts Stimulated Emission",
+  "url": "https://www.aps.org/apsnews/2005/08/einstein-predicts-stimulated-emission"
+ },
+ {
+  "n": 307,
+  "key": "inv-coherent-glossary",
+  "title": "Coherent: What is a Laser?",
+  "url": "https://www.coherent.com/company/newsroom/glossary/laser"
+ },
+ {
+  "n": 308,
+  "key": "inv-rp-pulsed",
+  "title": "RP Photonics Encyclopedia: Pulsed lasers",
+  "url": "https://rp-photonics.com/pulsed_lasers.html"
+ },
+ {
+  "n": 309,
+  "key": "inv-photonics-timeline",
+  "title": "Photonics Spectra: Laser Pioneers timeline",
+  "url": "https://photonics.com/LinearChart.aspx?ChartID=2"
+ },
+ {
+  "n": 310,
+  "key": "inv-wiki-gould",
+  "title": "Wikipedia: Gordon Gould",
+  "url": "https://en.wikipedia.org/wiki/Gordon_Gould"
+ },
+ {
+  "n": 311,
+  "key": "inv-brit-history",
+  "title": "Encyclopaedia Britannica: Laser - History",
+  "url": "https://www.britannica.com/technology/laser/History"
+ },
+ {
+  "n": 312,
+  "key": "inv-gordon-opn",
+  "title": "Optics and Photonics News: Reflections on the First Maser",
+  "url": "https://www.optica-opn.org/home/articles/volume_21/issue_5/features/reﬂections_on_the_first_maser"
+ },
+ {
+  "n": 313,
+  "key": "inv-ball-2017",
+  "title": "Physics World: A century ago Einstein sparked the notion of the laser",
+  "url": "https://physicsworld.com/a/a-century-ago-einstein-sparked-the-notion-of-the-laser/"
+ },
+ {
+  "n": 314,
+  "key": "inv-wiki-zeiger",
+  "title": "Wikipedia: Herbert Zeiger",
+  "url": "https://en.wikipedia.org/wiki/Herbert_Zeiger"
+ },
+ {
+  "n": 315,
+  "key": "inv-aps-townes-schawlow",
+  "title": "APS News: Charles Townes Arthur Schawlow",
+  "url": "https://aps.org/publications/apsnews/200312/history.cfm"
+ },
+ {
+  "n": 316,
+  "key": "inv-aip-masers",
+  "title": "AIP Center for History of Physics: Masers and Lasers",
+  "url": "https://history.aip.org/phn/masers-lasers.html"
+ },
+ {
+  "n": 317,
+  "key": "inv-innovateli-2021",
+  "title": "Innovate Long Island: When the laser wars raged across Long Island",
+  "url": "https://www.innovateli.com/?p=37662"
+ },
+ {
+  "n": 318,
+  "key": "inv-hintze-2006",
+  "title": "Electronic Design: Gordon Gould: The Long Battle For The Laser Patent",
+  "url": "https://www.electronicdesign.com/technologies/components/article/21795623/gordon-gould-the-long-battle-for-the-laser-patent"
+ },
+ {
+  "n": 319,
+  "key": "inv-brit-gould",
+  "title": "Encyclopaedia Britannica: Gordon Gould",
+  "url": "https://www.britannica.com/biography/Gordon-Gould"
+ },
+ {
+  "n": 320,
+  "key": "inv-leagle-patlex",
+  "title": "Leagle: Patlex Corp. v. Mossinghoff",
+  "url": "https://www.leagle.com/decision/19851251771f2d48011167"
+ },
+ {
+  "n": 321,
+  "key": "inv-deseret-1989",
+  "title": "Deseret News: 1 man who saw the light gets rich",
+  "url": "https://www.deseret.com/1989/2/5/18794225/1-man-who-saw-the-light-gets-rich-br-laser-inventor-will-make-2-million-a-year-for-his-50s-research/"
+ },
+ {
+  "n": 322,
+  "key": "inv-townes-2003",
+  "title": "University of Chicago Press: The First Laser (Charles H. Townes)",
+  "url": "https://press.uchicago.edu/Misc/Chicago/284158_townes.html"
+ },
+ {
+  "n": 323,
+  "key": "inv-rp-lines",
+  "title": "RP Photonics Encyclopedia: Laser lines",
+  "url": "https://www.rp-photonics.com/laser_lines.html"
+ },
+ {
+  "n": 324,
+  "key": "inv-maglab-maiman",
+  "title": "National MagLab Magnet Academy: Theodore Maiman",
+  "url": "https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/pioneers/theodore-maiman/"
+ },
+ {
+  "n": 325,
+  "key": "inv-lemelson-javan",
+  "title": "Lemelson-MIT: Ali Javan",
+  "url": "https://lemelson.mit.edu/resources/ali-javan"
+ },
+ {
+  "n": 326,
+  "key": "inv-ethw-white",
+  "title": "Engineering and Technology History Wiki: First-Hand: The First Continuous Visible Laser",
+  "url": "https://ethw.org/First-Hand:The_First_Continuous_Visible_Laser"
+ },
+ {
+  "n": 327,
+  "key": "inv-hecht-2020",
+  "title": "SPIE Photonics Focus: Robert Hall and the Diode Laser",
+  "url": "https://lux.spie.org/news/photonics-focus/janfeb-2020/robert-hall-and-the-diode-laser"
+ },
+ {
+  "n": 328,
+  "key": "inv-spectrum-2024",
+  "title": "IEEE Spectrum: Inside the Three-Way Race to Create the Most Widely Used Laser",
+  "url": "https://spectrum.ieee.org/invention-semiconductor-laser"
+ },
+ {
+  "n": 329,
+  "key": "inv-spie-2009",
+  "title": "SPIE Professional: Laser Innovations",
+  "url": "https://amp.spie.org/news/spie-professional-magazine-archive/2009-october/laser-innovations"
+ },
+ {
+  "n": 330,
+  "key": "inv-lemelson-patel",
+  "title": "Lemelson-MIT: Kumar Patel",
+  "url": "https://lemelson.mit.edu/resources/kumar-patel"
+ },
+ {
+  "n": 331,
+  "key": "inv-zvorykin-2023",
+  "title": "Physics-Uspekhi: N G Basov's role in the development of excimer lasers",
+  "url": "https://ufn.ru/en/articles/2023/10/f/"
+ },
+ {
+  "n": 332,
+  "key": "inv-nobel-1964",
+  "title": "NobelPrize.org: The Nobel Prize in Physics 1964",
+  "url": "https://www.nobelprize.org/prizes/physics/1964/summary"
+ },
+ {
+  "n": 333,
+  "key": "inv-optica-nobel",
+  "title": "Optica: Optica Nobel Laureates",
+  "url": "https://www.optica.org/history/optica_nobel_laureates/"
+ },
+ {
+  "n": 334,
+  "key": "inv-nobel-1981",
+  "title": "NobelPrize.org: The Nobel Prize in Physics 1981",
+  "url": "https://nobelprize.org/prizes/physics/1981/summary"
+ },
+ {
+  "n": 335,
+  "key": "inv-nobel-1997",
+  "title": "NobelPrize.org: The Nobel Prize in Physics 1997",
+  "url": "https://www.nobelprize.org/prizes/physics/1997/summary/"
+ },
+ {
+  "n": 336,
+  "key": "inv-nobel-2018",
+  "title": "NobelPrize.org: Press release: The Nobel Prize in Physics 2018",
+  "url": "https://www.nobelprize.org/prizes/physics/2018/press-release/"
+ },
+ {
+  "n": 337,
+  "key": "inv-nobel-2023",
+  "title": "NobelPrize.org: Press release: The Nobel Prize in Physics 2023",
+  "url": "https://nobelprize.org/prizes/physics/2023/press-release/"
+ },
+ {
+  "n": 338,
+  "key": "ind-twi-cutting",
+  "title": "TWI: Laser cutting (Job Knowledge 52)",
+  "url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052"
+ },
+ {
+  "n": 339,
+  "key": "ind-lfw-fiber",
+  "title": "Laser Focus World (Jason Hillenbrand, Amada America): Fiber laser cutting drives a power revolution",
+  "url": "https://laserfocusworld.com/industrial-laser-solutions/article/14216470/fiber-laser-cutting-drives-a-power-revolution"
+ },
+ {
+  "n": 340,
+  "key": "ind-txgc-china",
+  "title": "Tianxia Gongchang Research: China Laser Industry 2026",
+  "url": "https://faxiangongchang.com/en/reports/china-laser-industry-2026"
+ },
+ {
+  "n": 341,
+  "key": "ind-trumpf-emob",
+  "title": "TRUMPF: E-mobility\" industry page",
+  "url": "https://www.trumpf.com/en_GB/industries/automotive/e-mobility/"
+ },
+ {
+  "n": 342,
+  "key": "ind-osha-otm",
+  "title": "OSHA: OSHA Technical Manual, Section III Chapter 6: Laser Hazards",
+  "url": "https://www.osha.gov/otm/section-3-health-hazards/chapter-6"
+ },
+ {
+  "n": 343,
+  "key": "ind-cfr-801-45",
+  "title": "Cornell LII (eCFR text): 21 CFR § 801.45",
+  "url": "https://www.law.cornell.edu/cfr/text/21/801.45"
+ },
+ {
+  "n": 344,
+  "key": "ind-krasia-xtool",
+  "title": "KrASIA (Cheng Zi, from 36Kr reporting by Leslie Zhang): xTool avoids collapse but faces a difficult path to growth",
+  "url": "https://kr-asia.com/xtool-avoids-collapse-but-faces-a-difficult-path-to-growth"
+ },
+ {
+  "n": 345,
+  "key": "ind-makers101-xtool",
+  "title": "Makers101: xTool Filed for a Hong Kong IPO",
+  "url": "https://makers101.com/xtool-hong-kong-ipo-filing-analysis/"
+ },
+ {
+  "n": 346,
+  "key": "ind-geekwire-glowforge",
+  "title": "GeekWire (Kurt Schlosser): Glowforge hits restart: After restructuring, co-founders acquire key assets of laser engraver startup",
+  "url": "https://www.geekwire.com/2025/glowforge-hits-restart-after-restructuring-co-founders-acquire-key-assets-of-laser-engraver-startup/"
+ },
+ {
+  "n": 347,
+  "key": "ind-bambu-h2d",
+  "title": "Bambu Lab Wiki: H2D Laser Safety Document",
+  "url": "https://wiki.bambulab.com/h2/laser-safety-document"
+ },
+ {
+  "n": 348,
+  "key": "ind-opss-falcon2",
+  "title": "Office for Product Safety and Standards, GOV.UK: Product Safety Report: Falcon2 Magical Colorful Engraving Machine (2310-0021)",
+  "url": "https://gov.uk/product-safety-alerts-reports-recalls/product-safety-report-falcon2-magical-colorful-engraving-machine-2310-0021"
+ },
+ {
+  "n": 349,
+  "key": "ind-opss-vevor",
+  "title": "Office for Product Safety and Standards, GOV.UK: Product Recall: Vevor Laser Engraving Machine (2209-0275)",
+  "url": "https://gov.uk/product-safety-alerts-reports-recalls/product-safety-report-vevor-laser-engraving-machine-2209-0275"
+ },
+ {
+  "n": 350,
+  "key": "ind-fda-ln56",
+  "title": "FDA CDRH (GovDelivery bulletin): Withdrawal of Laser Notice No. 50",
+  "url": "https://content.govdelivery.com/accounts/USFDA/bulletins/3cb2a72"
+ },
+ {
+  "n": 351,
+  "key": "ind-twi-cleaning",
+  "title": "TWI: What is laser surface cleaning?",
+  "url": "https://www.twi-global.com/technical-knowledge/faqs/faq-what-is-laser-surface-cleaning"
+ },
+ {
+  "n": 352,
+  "key": "ind-ge-am",
+  "title": "GE Additive: Metal additive processes",
+  "url": "https://www.ge.com/additive/de/node/1051"
+ },
+ {
+  "n": 353,
+  "key": "ind-lfw-ge-aviation",
+  "title": "Laser Focus World (Rockstroh, Abbott, Hix, Mook, GE Aviation): Additive manufacturing at GE Aviation",
+  "url": "https://laserfocusworld.com/industrial-laser-solutions/article/14216415/additive-manufacturing-at-ge-aviation"
+ },
+ {
+  "n": 354,
+  "key": "ind-asml-light",
+  "title": "ASML: Light and lasers",
+  "url": "https://www.asml.com/en/technology/lithography-principles/light-and-lasers"
+ },
+ {
+  "n": 355,
+  "key": "ind-trumpf-euv",
+  "title": "TRUMPF: EUV drive laser",
+  "url": "https://trumpf.com/en_GB/products/lasers/euv-drive-laser"
+ },
+ {
+  "n": 356,
+  "key": "ind-trumpf-flashes",
+  "title": "TRUMPF magazine: Flashes of light in a vacuum",
+  "url": "https://www.trumpf.com/en_GB/magazine/flashes-of-light-in-a-vacuum"
+ },
+ {
+  "n": 357,
+  "key": "ind-lfw-cymer",
+  "title": "Laser Focus World: ASML to buy extreme-UV light-source maker Cymer",
+  "url": "https://www.laserfocusworld.com/articles/2012/10/asml-to-buy-extreme-uv-light-source-maker-cymer.html"
+ },
+ {
+  "n": 358,
+  "key": "ind-coherent-ela",
+  "title": "Coherent: Lasers in Display Fabrication: Excimer Laser Annealing",
+  "url": "https://www.coherent.com/news/blog/laser-annealing-flat-panel-displays"
+ },
+ {
+  "n": 359,
+  "key": "ind-ipg-q4-2024",
+  "title": "IPG Photonics: IPG Photonics Announces Fourth Quarter 2024 Financial Results",
+  "url": "https://investor.ipgphotonics.com/news/news-details/2025/IPG-Photonics-Announces-Fourth-Quarter-2024-Financial-Results/default.aspx"
+ },
+ {
+  "n": 360,
+  "key": "ind-optics-ipg",
+  "title": "optics.org: IPG 2024 results report",
+  "url": "https://optics.org/news/16/2/11"
+ },
+ {
+  "n": 361,
+  "key": "ind-optics-trumpf",
+  "title": "optics.org: Trumpf's annual sales drop",
+  "url": "https://optics.org/news/16/7/39"
+ },
+ {
+  "n": 362,
+  "key": "ind-trumpf-fy",
+  "title": "TRUMPF: Fiscal year figures",
+  "url": "https://www.trumpf.com/en_GB/newsroom/fiscal-year-figures-2024-25/"
+ },
+ {
+  "n": 363,
+  "key": "ind-chinadaily-raycus",
+  "title": "China Daily: Raycus Laser unveils four new laser devices at CIIF",
+  "url": "https://govt.chinadaily.com.cn/s/202509/26/WS68e76eb9498e23165e068de2/raycus-laser-unveils-four-new-laser-devices-at-ciif.html"
+ },
+ {
+  "n": 364,
+  "key": "ind-gvr-market",
+  "title": "Grand View Research: Global laser processing market press release",
+  "url": "https://www.grandviewresearch.com/press-release/global-laser-processing-market"
+ },
+ {
+  "n": 365,
+  "key": "ind-osha-standards",
+  "title": "OSHA: Laser Hazards",
+  "url": "https://www.osha.gov/laser-hazards/standards"
+ },
+ {
+  "n": 366,
+  "key": "med-nyp-ruby",
+  "title": "NewYork-Presbyterian Health Matters: \"It Happened Here: The Ruby Laser\"",
+  "url": "https://healthmatters.nyp.org/ruby-laser/"
+ },
+ {
+  "n": 367,
+  "key": "med-stanford-palanker",
+  "title": "Palanker, Blumenkranz, Marmor: \"Fifty Years of Ophthalmic Laser Therapy\", Archives of Ophthalmology 129(12)",
+  "url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
+  "n": 368,
+  "key": "med-asrs-retina",
+  "title": "American Society of Retina Specialists: \"Retina History: Laser therapy\"",
+  "url": "https://retinahistory.asrs.org/milestones-developments/laser-therapy"
+ },
+ {
+  "n": 369,
+  "key": "med-derm-goldman",
+  "title": "Dermatology Hall of Fame: \"Leon Goldman, MD\"",
+  "url": "https://dermatologyhalloffame.org/inductees/leon-goldman-md"
+ },
+ {
+  "n": 370,
+  "key": "med-ibm-excimer",
+  "title": "IBM Research (Mike Murphy): \"You have Thanksgiving turkey to thank for LASIK\"",
+  "url": "https://research.ibm.com/blog/40-years-excimer-laser-surgery"
+ },
+ {
+  "n": 371,
+  "key": "med-fda-prk-list",
+  "title": "FDA: \"FDA-Approved Lasers for PRK and Other Refractive Surgeries\"",
+  "url": "https://www.fda.gov/medical-devices/lasik/fda-approved-lasers-prk-and-other-refractive-surgeries"
+ },
+ {
+  "n": 372,
+  "key": "med-fda-lasik-list",
+  "title": "FDA: \"List of FDA-Approved Lasers for LASIK\"",
+  "url": "https://www.fda.gov/medical-devices/lasik/list-fda-approved-lasers-lasik"
+ },
+ {
+  "n": 373,
+  "key": "med-fda-lasik-risks",
+  "title": "FDA: \"What are the risks and how can I find the right doctor for me?\"",
+  "url": "https://www.fda.gov/medical-devices/LASIK/what-are-risks-and-how-can-i-find-right-doctor-me"
+ },
+ {
+  "n": 374,
+  "key": "med-fda-visumax",
+  "title": "FDA: \"FDA approves VisuMax femtosecond laser to surgically treat nearsightedness\"",
+  "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-visumax-femtosecond-laser-surgically-treat-nearsightedness"
+ },
+ {
+  "n": 375,
+  "key": "med-crst-harmon",
+  "title": "Cataract and Refractive Surgery Today (David R. Harmon): \"The LASIK Market: Yesterday's Technology or Poised for Recovery?\"",
+  "url": "https://crstoday.com/topics/general/the-lasik-market-yesterdays-technology-or-poised-for-recovery/41995/"
+ },
+ {
+  "n": 376,
+  "key": "med-fda-lasik-faq",
+  "title": "FDA: \"LASIK",
+  "url": "https://www.fda.gov/medical-devices/lasik/lasik-faqs-frequently-asked-questions"
+ },
+ {
+  "n": 377,
+  "key": "med-aao-draft-labeling",
+  "title": "American Academy of Ophthalmology: \"FDA releases draft guidance on LASIK patient labeling\"",
+  "url": "https://www.aao.org/headline/fda-releases-draft-guidance-on-lasik-patient-label/"
+ },
+ {
+  "n": 378,
+  "key": "med-aao-prowl",
+  "title": "American Academy of Ophthalmology, EyeNet: \"Postoperative symptoms, satisfaction with LASIK surgery\" (PROWL, Eydelman et al.)",
+  "url": "https://aao.org/eyenet/article/postoperative-symptoms-satisfaction-with-lasik-sur"
+ },
+ {
+  "n": 379,
+  "key": "med-nihr-light",
+  "title": "NIHR Evidence: \"A laser eye procedure can be effective and safe if used early as treatment for glaucoma\"",
+  "url": "https://evidence.nihr.ac.uk/alert/a-laser-eye-procedure-can-be-effective-and-safe-if-used-early-as-treatment-for-glaucoma"
+ },
+ {
+  "n": 380,
+  "key": "med-mdedge-derm",
+  "title": "MDedge Dermatology (Doug Brunk): \"Experts reflect on the past 50 years of lasers in dermatology\"",
+  "url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "n": 381,
+  "key": "med-lfw-picosure",
+  "title": "Laser Focus World: \"Cynosure receives FDA approval for first picosecond laser to remove tattoos, benign pigmented lesions\"",
+  "url": "https://www.laserfocusworld.com/biooptics/biomedicine/article/14191898/cynosure-receives-fda-approval-for-first-picosecond-laser-to-remove-tattoos-benign-pigmented-lesions"
+ },
+ {
+  "n": 382,
+  "key": "med-amspa-laws",
+  "title": "American Med Spa Association (Brad Adatto, JD): \"The Basics of Understanding Medical Aesthetic Laser Laws\"",
+  "url": "https://www.americanmedspa.org/news/the-basics-of-understanding-medical-aesthetic-laser-laws/"
+ },
+ {
+  "n": 383,
+  "key": "med-tdlr-faq",
+  "title": "Texas Department of Licensing and Regulation: \"Laser Hair Removal",
+  "url": "https://www.tdlr.texas.gov/las/lasfaq.htm"
+ },
+ {
+  "n": 384,
+  "key": "med-sciencedaily-jalian",
+  "title": "ScienceDaily (UCLA Health): \"Lawsuits over cosmetic laser surgery\" (Jalian, JAMA Dermatology)",
+  "url": "https://www.sciencedaily.com/releases/2013/10/131017093507.htm"
+ },
+ {
+  "n": 385,
+  "key": "med-asds-khalifian",
+  "title": "Khalifian, Vazirnia, Mohan, Thompson, Jalian, Avram: \"Causes of Injury and Litigation in Cutaneous Laser Surgery: An Update From 2012 to 2020\", Dermatologic Surgery 48(3)",
+  "url": "https://asds.net/Portals/0/PDF/asdsa/Causes%20of%20Injury%20and%20Litigation%20in%20Cutaneous%20Laser%20Surgery%20-%20An%20Update%20From%202012%20to%202020.pdf"
+ },
+ {
+  "n": 386,
+  "key": "med-fda-gex",
+  "title": "FDA: \"Product Classification: laser surgical instrument (GEX), 21 CFR 878.4810\"",
+  "url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm?ID=GEX"
+ },
+ {
+  "n": 387,
+  "key": "med-aae-dental",
+  "title": "American Association of Endodontists: \"Use of Lasers in Dentistry\" position statement",
+  "url": "https://www.aae.org/wp-content/uploads/2019/10/UseOfLasersInDentistry_PositionStatement_v1.pdf"
+ },
+ {
+  "n": 388,
+  "key": "med-nci-pdt",
+  "title": "National Cancer Institute: \"Photodynamic Therapy to Treat Cancer\"",
+  "url": "https://cancer.gov/about-cancer/treatment/types/surgery/photodynamic-fact-sheet"
+ },
+ {
+  "n": 389,
+  "key": "med-drugs-photofrin",
+  "title": "Drugs.com: \"Photofrin prescribing information\"",
+  "url": "https://Drugs.com/pro/photofrin.html"
+ },
+ {
+  "n": 390,
+  "key": "med-medtronic-litt",
+  "title": "Medtronic (manufacturer page): \"Laser ablation for brain tumors\"",
+  "url": "https://www.medtronic.com/en-us/healthcare-professionals/specialties/neurology/therapies-procedures/laser-ablation-brain-tumors.html"
+ },
+ {
+  "n": 391,
+  "key": "med-jcad-lllt",
+  "title": "Lueangarun et al.: \"A Systematic Review and Meta-analysis of Randomized Controlled Trials of United States FDA-Approved, Home-use, Low-Level Light/Laser Therapy Devices for Pattern Hair Loss\", J Clin Aesthet Dermatol 14(11)",
+  "url": "https://jcadonline.com/laser-therapy-hair-loss"
+ },
+ {
+  "n": 392,
+  "key": "med-pubmed-zarei",
+  "title": "Zarei et al.: \"Low level laser therapy and hair regrowth: an evidence-based review\", Lasers in Medical Science 31(2)",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26690359/"
+ },
+ {
+  "n": 393,
+  "key": "med-pediatrics-pointer",
+  "title": "Pediatrics 138(4): \"Retinal Injury Secondary to Laser Pointers in Pediatric Patients\"",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27587615/"
+ },
+ {
+  "n": 394,
+  "key": "med-eye-reid",
+  "title": "Reid et al.: \"Macular injuries secondary to handheld lasers in a paediatric population\", Eye 37",
+  "url": "https://www.nature.com/articles/s41433-021-01916-0.pdf"
+ },
+ {
+  "n": 395,
+  "key": "med-fda-laser-toys",
+  "title": "FDA: \"Laser Toys: How to Keep Kids Safe\"",
+  "url": "https://www.fda.gov/ForConsumers/ConsumerUpdates/ucm363908.htm"
+ },
+ {
+  "n": 396,
+  "key": "day-gs1",
+  "title": "GS1: Marsh holds place of honor in history of GS1 barcode",
+  "url": "https://www.gs1.org/articles/marsh-holds-place-honor-history-gs1-barcode"
+ },
+ {
+  "n": 397,
+  "key": "day-si-scanner",
+  "title": "Smithsonian National Museum of American History: Supermarket Scanner",
+  "url": "https://si.edu/object/supermarket-scanner:nmah_892778"
+ },
+ {
+  "n": 398,
+  "key": "day-ebsco",
+  "title": "EBSCO Research Starters: Optical storage (Robin L. Wulffson, 2013)",
+  "url": "https://ebsco.com/research-starters/applied-sciences/optical-storage"
+ },
+ {
+  "n": 399,
+  "key": "day-lfw-storage",
+  "title": "Laser Focus World: Optical data storage: Can new techniques continue to densify optical data storage capacity? (Gail Overton, 2012)",
+  "url": "https://laserfocusworld.com/lasers-sources/article/16549547/photonics-applied-optical-data-storage-can-new-techniques-continue-to-densify-optical-data-storage-capacity"
+ },
+ {
+  "n": 400,
+  "key": "day-ieee-printer",
+  "title": "IEEE / Engineering and Technology History Wiki: Milestones: Development of the Commercial Laser Printer, 1971-1977",
+  "url": "https://ethw.org/Milestones:Development_of_the_Commercial_Laser_Printer%2C_1971-1977"
+ },
+ {
+  "n": 401,
+  "key": "day-nihf",
+  "title": "National Inventors Hall of Fame: Gary K. Starkweather",
+  "url": "https://invent.org/inductees/gary-k-starkweather"
+ },
+ {
+  "n": 402,
+  "key": "day-agilent",
+  "title": "Agilent Technologies: Agilent Technologies' Revolutionary Sensor Technology Powers Logitech's New Laser Mouse (2004)",
+  "url": "https://www.investor.agilent.com/news-and-events/news/news-details/2004/Agilent-Technologies-Revolutionary-Sensor-Technology-Powers-Logitechs-New-Laser-Mouse/default.aspx"
+ },
+ {
+  "n": 403,
+  "key": "day-nobel-2009",
+  "title": "NobelPrize.org: The Nobel Prize in Physics 2009 - Press release",
+  "url": "https://nobelprize.org/prizes/physics/2009/press-release"
+ },
+ {
+  "n": 404,
+  "key": "day-lfw-edfa",
+  "title": "Laser Focus World: Optical amplifiers speed data flow undersea (Ying Wa Wong, 1997)",
+  "url": "https://www.laserfocusworld.com/fiber-optics/article/16551090/optical-amplifiers-speed-data-flow-undersea"
+ },
+ {
+  "n": 405,
+  "key": "day-telegeo",
+  "title": "TeleGeography: Do Submarine Cables Account For Over 99% of Intercontinental Data Traffic? (Alan Mauldin, 2023)",
+  "url": "https://resources.telegeography.com/2023-mythbusting-part-3"
+ },
+ {
+  "n": 406,
+  "key": "day-digikey",
+  "title": "DigiKey: VCSELs Put LiDAR into Apple iPhones: What Can You Do? (Jeff Shepard, 2022)",
+  "url": "https://www.digikey.at/en/blog/vcsels-put-lidar-into-apple-iphones-what-can-you-do"
+ },
+ {
+  "n": 407,
+  "key": "day-waymo",
+  "title": "Waymo: Introducing the 5th-generation Waymo Driver (2020)",
+  "url": "https://waymo.com/blog/2020/03/introducing-5th-generation-waymo-driver/"
+ },
+ {
+  "n": 408,
+  "key": "day-optics-iphone",
+  "title": "optics.org: Apple adds lidar to iPhone 12 Pro (2020)",
+  "url": "https://optics.org/news/11/10/5"
+ },
+ {
+  "n": 409,
+  "key": "day-lfw-lidar-court",
+  "title": "Laser Focus World: Chicago court says LIDAR is scientifically admissible for speeding tickets (2010)",
+  "url": "https://www.laserfocusworld.com/test-measurement/test-measurement/article/16568629/chicago-court-says-lidar-is-scientifically-admissible-for-speeding-tickets"
+ },
+ {
+  "n": 410,
+  "key": "day-aao",
+  "title": "American Academy of Ophthalmology: Laser pointer eye injury",
+  "url": "https://www.aao.org/eye-health/news/laser-pointer-eye-injury"
+ },
+ {
+  "n": 411,
+  "key": "day-pt-ligo",
+  "title": "Physics Today: Weiss, Barish, and Thorne share 2017 Nobel Prize in Physics (Andrew Grant, 2017)",
+  "url": "https://physicstoday.aip.org/news/weiss-barish-and-thorne-share-2017-nobel-prize-in-physics"
+ },
+ {
+  "n": 412,
+  "key": "day-ligo",
+  "title": "LIGO Caltech: LIGO Detected Gravitational Waves from Black Holes",
+  "url": "https://www.ligo.caltech.edu/detection"
+ },
+ {
+  "n": 413,
+  "key": "day-llnl",
+  "title": "Lawrence Livermore National Laboratory: Achieving Fusion Ignition (updated 2026-11-19)",
+  "url": "https://lmf.llnl.gov/science/achieving-fusion-ignition"
+ },
+ {
+  "n": 414,
+  "key": "day-pt-nif",
+  "title": "Physics Today: National Ignition Facility surpasses long-awaited fusion milestone (David Kramer, 2022)",
+  "url": "https://physicstoday.aip.org/news/national-ignition-facility-surpasses-long-awaited-fusion-milestone"
+ },
+ {
+  "n": 415,
+  "key": "day-nobel-1997",
+  "title": "NobelPrize.org: The Nobel Prize in Physics 1997 - Press release",
+  "url": "https://nobelprize.org/prizes/physics/1997/press-release"
+ },
+ {
+  "n": 416,
+  "key": "day-opn-clock",
+  "title": "Optics & Photonics News: Strontium lattice is now the world's most accurate clock (2024)",
+  "url": "https://www.optica-opn.org/home/newsroom/2024/july/strontium_lattice_is_now_the_world_s_most_accurate_clock"
+ },
+ {
+  "n": 417,
+  "key": "day-jpl-llr",
+  "title": "NASA JPL: Apollo 11 experiment continues to return valuable data (1999)",
+  "url": "https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/"
+ },
+ {
+  "n": 418,
+  "key": "day-gsfc-llr",
+  "title": "NASA GSFC Eclipse site: Measuring the Moon's Distance (2005)",
+  "url": "https://eclipse.gsfc.nasa.gov/help/ApolloLaser.html"
+ },
+ {
+  "n": 419,
+  "key": "day-eso",
+  "title": "ESO blog: Making Laser Guide Stars Even Brighter (2018)",
+  "url": "https://eso.org/public/blog/making-lgs-even-brighter/"
+ },
+ {
+  "n": 420,
+  "key": "day-nasa-dsoc",
+  "title": "NASA: NASA's Deep Space Communications Demo Exceeds Project Expectations (2025)",
+  "url": "https://nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-deep-space-communications-demo-exceeds-project-expectations"
+ },
+ {
+  "n": 421,
+  "key": "day-optics-eli",
+  "title": "optics.org: ELI-NP laser hits 10 petawatts peak power (2019)",
+  "url": "https://optics.org/news/eli-np-laser-hits-10-petawatts-peak-power"
+ },
+ {
+  "n": 422,
+  "key": "def-physicsworld",
+  "title": "Physics World (Sidney Perkowitz): Lasers: From ray-gun to Blu-ray",
+  "url": "https://physicsworld.com/a/from-ray-gun-to-blu-ray/"
+ },
+ {
+  "n": 423,
+  "key": "def-nmusaf-pgm",
+  "title": "National Museum of the US Air Force: Getting Closer: Precision Guided Weapons in the Southeast Asia War",
+  "url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195858/"
+ },
+ {
+  "n": 424,
+  "key": "def-edwards-abl",
+  "title": "Edwards AFB (US Air Force): Airborne Laser Test Bed bids adieu to Edwards",
+  "url": "https://www.edwards.af.mil/News/Article/394579/airborne-laser-test-bed-bids-adieu-to-edwards"
+ },
+ {
+  "n": 425,
+  "key": "def-afmag-abl",
+  "title": "Air and Space Forces Magazine: Airborne Laser Test Bed Put to Rest",
+  "url": "https://airandspaceforces.com/airbornelasertestbedputtorest"
+ },
+ {
+  "n": 426,
+  "key": "def-onr-laws",
+  "title": "Office of Naval Research: Historic Leap: Navy Shipboard Laser Operates in Persian Gulf",
+  "url": "https://www.onr.navy.mil/media-center/news-releases/historic-leap-navy-shipboard-laser-operates-persian-gulf"
+ },
+ {
+  "n": 427,
+  "key": "def-militarytimes-helios",
+  "title": "Military Times (Riley Ceder): US Navy hits drone with HELIOS laser in successful test",
+  "url": "https://www.militarytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test"
+ },
+ {
+  "n": 428,
+  "key": "def-defensenews-israel",
+  "title": "Defense News: Israel claims drone interceptions with high-power lasers",
+  "url": "https://www.defensenews.com/global/mideast-africa/2025/05/30/israel-claims-drone-interceptions-with-high-power-lasers/"
+ },
+ {
+  "n": 429,
+  "key": "def-toi-ironbeam",
+  "title": "Times of Israel: Defense Ministry hands IDF first combat-ready Iron Beam laser interception system",
+  "url": "https://www.timesofisrael.com/defense-ministry-hands-idf-first-combat-ready-iron-beam-laser-interception-system"
+ },
+ {
+  "n": 430,
+  "key": "def-govuk-dragonfire",
+  "title": "GOV.UK (Ministry of Defence): Boost for Armed Forces as new laser weapon takes down high-speed drones",
+  "url": "https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones"
+ },
+ {
+  "n": 431,
+  "key": "def-rheinmetall",
+  "title": "Rheinmetall: Laser weapon trials at sea",
+  "url": "https://www.rheinmetall.com/en/media/news-watch/news/2023/9/2023-09-22-laser-weapon-trials-at-sea"
+ },
+ {
+  "n": 432,
+  "key": "def-newsonair-india",
+  "title": "All India Radio News: India demonstrates laser weapon capability, joins elite global club",
+  "url": "https://www.newsonair.gov.in/india-demonstrates-laser-weapon-capability-joins-elite-global-club"
+ },
+ {
+  "n": 433,
+  "key": "def-cbs-china",
+  "title": "CBS News: China military parade new weapons",
+  "url": "https://www.cbsnews.com/news/china-military-parade-new-weapons-pictures-laser-icbm-ai-drones-missiles-xi-jinping"
+ },
+ {
+  "n": 434,
+  "key": "def-moscowtimes-peresvet",
+  "title": "The Moscow Times: Russia's New Laser Weapons Systems Enter Into Service, Military Says",
+  "url": "https://www.themoscowtimes.com/2018/12/05/russias-new-laster-weapons-systems-enter-into-service-military-says-a63709"
+ },
+ {
+  "n": 435,
+  "key": "def-jifco-dazzlers",
+  "title": "Joint Intermediate Force Capabilities Office (DoD): Non-Lethal Optical Distracters",
+  "url": "https://jifco.defense.gov/Press-Room/Fact-Sheets/Article-View-Fact-sheets/Article/577997/non-lethal-optical-distracters/"
+ },
+ {
+  "n": 436,
+  "key": "def-dod-ocular",
+  "title": "US Department of Defense: Ocular Interrupters fact sheet",
+  "url": "https://media.defense.gov/2025/Dec/30/2003849712/-1/-1/0/250922_OCULARINTERRUPTERS_FACTSHEET_WEB.PDF"
+ },
+ {
+  "n": 437,
+  "key": "def-tp-hormuz",
+  "title": "Task and Purpose: Navy uses laser to warn off Iranian boat in Strait of Hormuz",
+  "url": "https://taskandpurpose.com/tech-tactics/navy-laser-rifle-iran-boat-strait-hormuz/"
+ },
+ {
+  "n": 438,
+  "key": "def-fas-protocol4",
+  "title": "Federation of American Scientists: Protocol on Blinding Laser Weapons (Protocol IV)",
+  "url": "https://nuke.fas.org/control/ccw/text/protocol4.htm"
+ },
+ {
+  "n": 439,
+  "key": "law-un-protocol4",
+  "title": "UN Treaty Collection: Chapter XXVI-2-a: Additional Protocol to the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons (Protocol IV, entitled Protocol on Blinding Laser Weapons)",
+  "url": "https://treaties.un.org/doc/Publication/MTDSG/Volume%20II/Chapter%20XXVI/XXVI-2-a.en.xml"
+ },
+ {
+  "n": 440,
+  "key": "def-jcs-djibouti",
+  "title": "Joint Chiefs of Staff (DoD News): US Protests Chinese Interference With US Planes in Djibouti",
+  "url": "https://www.jcs.mil/Media/News/News-Display/Article/1512451/us-protests-chinese-interference-with-us-planes-in-djibouti/"
+ },
+ {
+  "n": 441,
+  "key": "def-adf-p8",
+  "title": "Australian Department of Defence: Chinese vessel lasing ADF aircraft",
+  "url": "https://www.defence.gov.au/news-events/releases/2022-02-19/chinese-vessel-lasing-adf-aircraft"
+ },
+ {
+  "n": 442,
+  "key": "def-dfa-ph",
+  "title": "Philippine Department of Foreign Affairs: PH protests CN Coast Guard use of military-grade laser, dangerous maneuvers against PCG near Ayungin",
+  "url": "https://dfa.gov.ph/dfa-news/statements-and-advisoriesupdate/31783-ph-protests-cn-coast-guard-use-of-military-grade-laser-dangerous-maneuvers-against-pcg-near-ayungin"
+ },
+ {
+  "n": 443,
+  "key": "def-lightnow-starlink",
+  "title": "LightNOW (David Shiller): IR lasers link 9,000 Starlink satellites and move 42 million GB per day",
+  "url": "https://www.lightnowblog.com/2024/02/ir-lasers-link-9000-starlink-satellites-and-move-42-million-gb-per-day/"
+ },
+ {
+  "n": 444,
+  "key": "law-fr-2013",
+  "title": "FDA, Federal Register 78 FR 37723: Laser Products; Proposed Amendment to Performance Standard",
+  "url": "https://www.govinfo.gov/content/pkg/FR-2013-06-24/pdf/2013-14846.pdf"
+ },
+ {
+  "n": 445,
+  "key": "law-fda-toys",
+  "title": "FDA: Minimizing Risk for Children's Toy Laser Products",
+  "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/minimizing-risk-childrens-toy-laser-products"
+ },
+ {
+  "n": 446,
+  "key": "law-fda-pointers",
+  "title": "FDA: Important Information for Laser Pointer Manufacturers",
+  "url": "https://www.fda.gov/radiation-emitting-products/laser-products-and-instruments/important-information-laser-pointer-manufacturers"
+ },
+ {
+  "n": 447,
+  "key": "law-ln56",
+  "title": "FDA: Laser Products - Conformance with IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1 (Laser Notice No. 56)",
+  "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56"
+ },
+ {
+  "n": 448,
+  "key": "law-fr-2023-records",
+  "title": "Federal Register: Radiological Health Regulations; Amendments to Records and Reports for Radiation Emitting Electronic Products",
+  "url": "https://www.federalregister.gov/documents/2023/01/20/2023-00922/radiological-health-regulations-amendments-to-records-and-reports-for-radiation-emitting-electronic"
+ },
+ {
+  "n": 449,
+  "key": "law-healio",
+  "title": "Healio: FDA warns that laser pointer misuse can cause eye, skin injuries",
+  "url": "https://www.healio.com/news/dermatology/20160212/fda-warns-that-laser-pointer-misuse-can-cause-eye-skin-injuries"
+ },
+ {
+  "n": 450,
+  "key": "law-ilda-fda-2017",
+  "title": "ILDA: FDA issues Safety Communication about Laserworld and RTI projectors",
+  "url": "https://ilda.com/2017-11_FDA_Laserworld.htm"
+ },
+ {
+  "n": 451,
+  "key": "law-sor-2024-196",
+  "title": "Canada Gazette, Part II: Regulations Amending the Radiation Emitting Devices Regulations (Laser Products): SOR/2024-196",
+  "url": "https://gazette.gc.ca/rp-pr/p2/2024/2024-10-09/html/sor-dors196-eng.html"
+ },
+ {
+  "n": 452,
+  "key": "law-oia-australia",
+  "title": "Office of Impact Analysis (PM&C): Restrictions on the importation of hand-held laser pointers - Post-implementation review",
+  "url": "https://oia.pmc.gov.au/published-impact-analyses-and-reports/restrictions-importation-hand-held-laser-pointers-post"
+ },
+ {
+  "n": 453,
+  "key": "law-arpansa",
+  "title": "ARPANSA: Laser focus on illegal imports",
+  "url": "https://www.arpansa.gov.au/news/laser-focus-illegal-imports"
+ },
+ {
+  "n": 454,
+  "key": "law-nsw-police",
+  "title": "NSW Police Force: Laser pointers",
+  "url": "https://www.police.nsw.gov.au/online_services/firearms/laser_pointers"
+ },
+ {
+  "n": 455,
+  "key": "law-nz-moh",
+  "title": "New Zealand Ministry of Health: High-power laser pointers",
+  "url": "https://www.health.govt.nz/regulation-legislation/high-power-laser-pointers"
+ },
+ {
+  "n": 456,
+  "key": "law-uk-act-s1",
+  "title": "legislation.gov.uk: Laser Misuse (Vehicles) Act 2018, section 1",
+  "url": "https://www.legislation.gov.uk/ukpga/2018/9/section/1"
+ },
+ {
+  "n": 457,
+  "key": "law-govuk-2018",
+  "title": "GOV.UK: Tougher laser misuse laws come into force",
+  "url": "https://www.gov.uk/government/news/tougher-laser-misuse-laws-come-into-force"
+ },
+ {
+  "n": 458,
+  "key": "law-faa-2025",
+  "title": "FAA: Laser Strikes on Aircraft Continue to be Dangerously High",
+  "url": "https://www.faa.gov/newsroom/laser-strikes-aircraft-continue-be-dangerously-high"
+ },
+ {
+  "n": 459,
+  "key": "law-faa-le",
+  "title": "FAA: Law Enforcement Guidance",
+  "url": "https://www.faa.gov/about/initiatives/lasers/law_enforcement_guidance"
+ },
+ {
+  "n": 460,
+  "key": "law-usao-edca-rodriguez",
+  "title": "US Attorney's Office, Eastern District of California: Laser Striker Sentenced to 14 Years in Prison, Believed to Be Longest Sentence in a Laser-Strike Case",
+  "url": "https://www.justice.gov/usao-edca/pr/laser-striker-sentenced-14-years-prison-believed-be-longest-sentence-laser-strike-case"
+ },
+ {
+  "n": 461,
+  "key": "law-9th-2016",
+  "title": "Justia: USA v. Sergio Rodriguez, No. 15-10495 (9th Cir. 2016)",
+  "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/15-10495/15-10495-2016-10-25.html"
+ },
+ {
+  "n": 462,
+  "key": "law-courthouse-rodriguez",
+  "title": "Courthouse News: Five years for lasering a helicopter affirmed",
+  "url": "https://www.courthousenews.com/five-years-for-lasering-a-helicopter-affirmed/"
+ },
+ {
+  "n": 463,
+  "key": "law-usao-mt",
+  "title": "US Attorney's Office, District of Montana: Pointing laser at aircraft sends Kalispell man to prison",
+  "url": "https://justice.gov/usao-mt/pr/pointing-laser-aircraft-sends-kalispell-man-prison"
+ },
+ {
+  "n": 464,
+  "key": "law-usao-wdtx",
+  "title": "US Attorney's Office, Western District of Texas: San Antonio woman sentenced to prison for endangering SAPD helicopter with laser",
+  "url": "https://www.justice.gov/usao-wdtx/pr/san-antonio-woman-sentenced-prison-endangering-sapd-helicopter-laser"
+ },
+ {
+  "n": 465,
+  "key": "law-usao-wdwa",
+  "title": "US Attorney's Office, Western District of Washington: Snohomish County man who aimed laser at two small planes sentenced to prison",
+  "url": "https://www.justice.gov/usao-wdwa/pr/snohomish-county-man-who-aimed-laser-two-small-planes-sentenced-prison"
+ },
+ {
+  "n": 466,
+  "key": "law-usao-az",
+  "title": "US Attorney's Office, District of Arizona: Bagdad man sentenced for aiming laser pointer at Air Force fighter jets",
+  "url": "https://www.justice.gov/usao-az/pr/bagdad-man-sentenced-aiming-laser-pointer-air-force-fighter-jets"
+ },
+ {
+  "n": 467,
+  "key": "law-usao-nv",
+  "title": "US Attorney's Office, District of Nevada: Las Vegas man sentenced for aiming high-power laser at police helicopter",
+  "url": "https://www.justice.gov/usao-nv/pr/las-vegas-man-sentenced-aiming-high-power-laser-police-helicopter"
+ },
+ {
+  "n": 468,
+  "key": "law-avon-somerset",
+  "title": "Avon and Somerset Police: Man sentenced for laser attacks on aircraft",
+  "url": "https://www.avonandsomerset.police.uk/news/2024/04/man-sentenced-for-laser-attacks-on-aircraft/"
+ },
+ {
+  "n": 469,
+  "key": "law-psni",
+  "title": "Police Service of Northern Ireland: Air Support Unit welcomes sentencing of man who shone laser at helicopter",
+  "url": "https://www.psni.police.uk/latest-news/air-support-unit-welcomes-sentencing-man-who-shone-laser-helicopter"
+ },
+ {
+  "n": 470,
+  "key": "law-lss-incidents",
+  "title": "LasershowSafety.info (ILDA): Laser show incidents and accidents",
+  "url": "https://www.lasershowsafety.info/incidents.html"
+ },
+ {
+  "n": 471,
+  "key": "law-ilda-injury",
+  "title": "ILDA: Laser show injuries",
+  "url": "https://www.ilda.com/injury.html"
+ },
+ {
+  "n": 472,
+  "key": "law-ucla-derm",
+  "title": "UCLA Health: Lawsuits increasing over skin-related laser surgeries performed by non-physicians",
+  "url": "https://www.uclahealth.org/news/release/lawsuits-increasing-over-skin-related-laser-surgeries"
+ },
+ {
+  "n": 473,
+  "key": "law-usuhs-lasik",
+  "title": "Uniformed Services University (Cornea 2017;36(10):1243-1248): Refractive Surgery Malpractice Litigation Outcomes",
+  "url": "https://scholar.usuhs.edu/en/publications/refractive-surgery-malpractice-litigation-outcomes/"
+ },
+ {
+  "n": 474,
+  "key": "law-nj-lti-1998",
+  "title": "FindLaw: In re Admissibility of Motor Vehicle Speed Readings Produced by the LTI Marksman 20-20 Laser Speed Detection System, 1998 ruling",
+  "url": "https://caselaw.findlaw.com/nj-superior-court/1382131.html"
+ },
+ {
+  "n": 475,
+  "key": "law-nj-lti-1996",
+  "title": "Leagle: In re Admissibility of Motor Vehicle Speed Readings (LTI Marksman 20-20), 314 N.J. Super. 211",
+  "url": "https://leagle.com/decision/19961084714a2d37011065"
  }
 ]

@@ -1,0 +1,252 @@
+[
+ {
+  "use": "Supermarket barcode scanner",
+  "field": "retail",
+  "laser": "helium-neon",
+  "wavelength": "",
+  "power": "",
+  "since": "1974",
+  "what": "A beam off a rotating mirror sweeps the barcode; a photodiode reads the reflection.",
+  "source_url": "https://si.edu/object/supermarket-scanner:nmah_892778"
+ },
+ {
+  "use": "CD player",
+  "field": "consumer electronics",
+  "laser": "",
+  "wavelength": "780 nm",
+  "power": "",
+  "since": "",
+  "what": "Reads pits on the disc; about 700 MB.",
+  "source_url": "https://ebsco.com/research-starters/applied-sciences/optical-storage"
+ },
+ {
+  "use": "DVD player",
+  "field": "consumer electronics",
+  "laser": "",
+  "wavelength": "650 nm",
+  "power": "",
+  "since": "",
+  "what": "Reads smaller pits; 4.7 GB single layer, 8.5 GB dual layer.",
+  "source_url": "https://ebsco.com/research-starters/applied-sciences/optical-storage"
+ },
+ {
+  "use": "Blu-ray player",
+  "field": "consumer electronics",
+  "laser": "",
+  "wavelength": "405 nm",
+  "power": "",
+  "since": "",
+  "what": "Blue-violet laser with a 0.85 numerical aperture lens; 25 GB single layer, 50 GB dual layer.",
+  "source_url": "https://ebsco.com/research-starters/applied-sciences/optical-storage"
+ },
+ {
+  "use": "BDXL discs",
+  "field": "consumer electronics",
+  "laser": "",
+  "wavelength": "405 nm",
+  "power": "",
+  "since": "",
+  "what": "Multilayer Blu-ray: 100 GB (3 layers), 128 GB (4 layers).",
+  "source_url": "https://laserfocusworld.com/lasers-sources/article/16549547/photonics-applied-optical-data-storage-can-new-techniques-continue-to-densify-optical-data-storage-capacity"
+ },
+ {
+  "use": "Laser printer",
+  "field": "office",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1971",
+  "what": "A laser writes the page onto a xerographic copier process; Xerox 9700 launched 1977.",
+  "source_url": "https://ethw.org/Milestones:Development_of_the_Commercial_Laser_Printer%2C_1971-1977"
+ },
+ {
+  "use": "Laser mouse",
+  "field": "consumer electronics",
+  "laser": "laser sensor (Agilent)",
+  "wavelength": "",
+  "power": "",
+  "since": "2004",
+  "what": "A laser lights the desk for a tiny camera that tracks surface texture; 800 counts per inch.",
+  "source_url": "https://www.investor.agilent.com/news-and-events/news/news-details/2004/Agilent-Technologies-Revolutionary-Sensor-Technology-Powers-Logitechs-New-Laser-Mouse/default.aspx"
+ },
+ {
+  "use": "Fiber optic communication",
+  "field": "telecommunications",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1970",
+  "what": "Laser light guided through ultrapure glass fiber over long distances.",
+  "source_url": "https://nobelprize.org/prizes/physics/2009/press-release"
+ },
+ {
+  "use": "Undersea cable amplifier (EDFA)",
+  "field": "telecommunications",
+  "laser": "diode laser pump",
+  "wavelength": "980 or 1480 nm pump; 1550 nm signal",
+  "power": "",
+  "since": "1997",
+  "what": "Boosts 1550 nm signals by about 12 to 16 dB without converting to electronics; repeaters about 75 to 90 km apart.",
+  "source_url": "https://www.laserfocusworld.com/fiber-optics/article/16551090/optical-amplifiers-speed-data-flow-undersea"
+ },
+ {
+  "use": "First all-fiber transatlantic cable (TAT-8)",
+  "field": "telecommunications",
+  "laser": "",
+  "wavelength": "1310 nm",
+  "power": "",
+  "since": "1980s",
+  "what": "Carried 280 Mbit/s per fiber pair.",
+  "source_url": "https://www.laserfocusworld.com/fiber-optics/article/16551090/optical-amplifiers-speed-data-flow-undersea"
+ },
+ {
+  "use": "Self-driving car lidar",
+  "field": "transport",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "2020",
+  "what": "Waymo 5th-generation 360-degree roof lidar sees objects beyond 300 m (company figure), plus four perimeter lidars.",
+  "source_url": "https://waymo.com/blog/2020/03/introducing-5th-generation-waymo-driver/"
+ },
+ {
+  "use": "Phone and tablet lidar",
+  "field": "consumer electronics",
+  "laser": "VCSEL",
+  "wavelength": "",
+  "power": "",
+  "since": "2020",
+  "what": "Time-of-flight depth sensing to about 5 m for augmented reality, autofocus and Night mode portraits.",
+  "source_url": "https://www.digikey.at/en/blog/vcsels-put-lidar-into-apple-iphones-what-can-you-do"
+ },
+ {
+  "use": "Police lidar speed enforcement",
+  "field": "law enforcement",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Laser speed readings ruled admissible in Chicago Traffic Court on February 10, 2010.",
+  "source_url": "https://www.laserfocusworld.com/test-measurement/test-measurement/article/16568629/chicago-court-says-lidar-is-scientifically-admissible-for-speeding-tickets"
+ },
+ {
+  "use": "Laser pointers",
+  "field": "consumer",
+  "laser": "",
+  "wavelength": "",
+  "power": "FDA: do not buy over 5 mW (2023 guidance)",
+  "since": "",
+  "what": "Hand-held pointers; many tested above their labeled power.",
+  "source_url": "https://www.aao.org/eye-health/news/laser-pointer-eye-injury"
+ },
+ {
+  "use": "Laser toys and cat toys",
+  "field": "consumer",
+  "laser": "",
+  "wavelength": "",
+  "power": "FDA: toys within IEC Class 1 (2023 guidance)",
+  "since": "",
+  "what": "FDA lists laser cat toys as an example of laser toys.",
+  "source_url": "https://www.fda.gov/ForConsumers/ConsumerUpdates/ucm363908.htm"
+ },
+ {
+  "use": "Gravitational wave detection (LIGO)",
+  "field": "physics",
+  "laser": "",
+  "wavelength": "",
+  "power": "200 W (after 2010-2015 upgrade, from 10 W)",
+  "since": "2015",
+  "what": "Michelson interferometers with 4 km arms detected a black hole merger on September 14, 2015.",
+  "source_url": "https://physicstoday.aip.org/news/weiss-barish-and-thorne-share-2017-nobel-prize-in-physics"
+ },
+ {
+  "use": "Inertial confinement fusion (NIF)",
+  "field": "energy research",
+  "laser": "192 beams",
+  "wavelength": "",
+  "power": "2.05 MJ per ignition shot (2022)",
+  "since": "2022",
+  "what": "Laser-made x-rays implode a fuel capsule; first ignition December 5, 2022, 3.15 MJ out.",
+  "source_url": "https://lmf.llnl.gov/science/achieving-fusion-ignition"
+ },
+ {
+  "use": "Laser cooling and trapping",
+  "field": "physics",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1987",
+  "what": "Laser light slows atoms to microkelvin temperatures; magneto-optical trap built 1987.",
+  "source_url": "https://nobelprize.org/prizes/physics/1997/press-release"
+ },
+ {
+  "use": "Optical lattice atomic clock",
+  "field": "timekeeping",
+  "laser": "stabilized clock laser",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Laser grid holds about 40,000 strontium-87 atoms; 8.1 x 10^-19 systematic uncertainty (2024).",
+  "source_url": "https://www.optica-opn.org/home/newsroom/2024/july/strontium_lattice_is_now_the_world_s_most_accurate_clock"
+ },
+ {
+  "use": "Lunar laser ranging",
+  "field": "space science",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1969",
+  "what": "Pulses timed off Apollo retroreflectors; about 2 cm (JPL 1999) or about 3 cm (GSFC 2005).",
+  "source_url": "https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/"
+ },
+ {
+  "use": "Laser guide stars",
+  "field": "astronomy",
+  "laser": "TOPTICA-MPBC",
+  "wavelength": "sodium line",
+  "power": "22 W per unit (VLT, 2018)",
+  "since": "",
+  "what": "Excites sodium about 90 km up to make an artificial star for adaptive optics.",
+  "source_url": "https://eso.org/public/blog/making-lgs-even-brighter/"
+ },
+ {
+  "use": "Deep space laser communication (DSOC)",
+  "field": "space communications",
+  "laser": "",
+  "wavelength": "",
+  "power": "3 kW uplink beacon",
+  "since": "2023",
+  "what": "Laser link from the Psyche spacecraft; 267 Mbit/s peak, 13.6 terabits over 65 passes.",
+  "source_url": "https://nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-deep-space-communications-demo-exceeds-project-expectations"
+ },
+ {
+  "use": "Petawatt research lasers (ELI-NP)",
+  "field": "physics",
+  "laser": "",
+  "wavelength": "820 nm",
+  "power": "10 PW peak, 25 fs pulses (2019)",
+  "since": "2019",
+  "what": "Physics under extreme conditions and accelerating electrons past 10 GeV.",
+  "source_url": "https://optics.org/news/eli-np-laser-hits-10-petawatts-peak-power"
+ },
+ {
+  "use": "Chirped pulse amplification",
+  "field": "physics",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1985",
+  "what": "Stretch, amplify and recompress a pulse for extreme peak power; also underpins corrective eye surgery.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/"
+ },
+ {
+  "use": "Optical tweezers",
+  "field": "biology and physics",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1987",
+  "what": "Focused laser light holds and moves particles, atoms, viruses and living cells.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/"
+ }
+]

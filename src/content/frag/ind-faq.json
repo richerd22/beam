@@ -1,0 +1,37 @@
+[
+ {
+  "q": "Fiber laser vs CO2 laser for cutting metal - which is better?",
+  "a": "Fiber outsold CO2 for cutting for the first time in 2015. In 2016 a 6 kW fiber was reported cutting quarter-inch mild steel at about 200 in/min against about 110-120 in/min for a 6 kW CO2. TWI says CO2 still cuts material over 5 mm faster at equal power.",
+  "section": "industry"
+ },
+ {
+  "q": "Why do laser cutters use nitrogen or oxygen?",
+  "a": "Oxygen burns the hot steel, adding heat, and leaves an oxidized edge. Nitrogen only blows the melt out of the cut and leaves an oxide-free edge ready for paint or welding.",
+  "section": "industry"
+ },
+ {
+  "q": "What does Class 1 vs Class 4 mean on a laser engraver?",
+  "a": "The laser module itself can be Class 4. A machine that fully encloses it with interlocks can be rated Class 1 in normal use; Bambu Lab says its H2D is Class 1 only when its protection is complete and working.",
+  "section": "industry"
+ },
+ {
+  "q": "Are desktop laser engravers regulated?",
+  "a": "In 2024 the UK Office for Product Safety and Standards rejected a 22 W Class 4 consumer engraver, the Creality Falcon2, at the border, finding it too strong for non-professional use and its goggles inadequate. In the US, makers certify to FDA rules and, since the end of 2024, Laser Notice No. 56.",
+  "section": "industry"
+ },
+ {
+  "q": "How does ASML make EUV light with a laser and tin?",
+  "a": "Tin droplets about 25 µm across fly at 70 m/s. A weak pulse flattens each one and a strong CO2 laser pulse turns it into plasma that emits 13.5 nm light, 50,000 times a second.",
+  "section": "industry"
+ },
+ {
+  "q": "How do 3D metal printers use lasers?",
+  "a": "A laser fully melts thin layers of metal powder, such as titanium or cobalt-chrome, tracing each layer from a CAD file. Parts are often stress relieved and hot isostatically pressed afterward to close pores.",
+  "section": "industry"
+ },
+ {
+  "q": "Does OSHA have a laser standard?",
+  "a": "No. OSHA covers laser hazards through its general rules on protective equipment and eye protection and points to ANSI Z136.1 as voluntary guidance that is not an OSHA regulation.",
+  "section": "industry"
+ }
+]

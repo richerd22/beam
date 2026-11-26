@@ -1,0 +1,110 @@
+[
+ {
+  "term": "Energy level",
+  "definition": "One of the fixed amounts of energy an atom or molecule can hold; the lowest is the ground state.",
+  "section": "invention",
+  "source_url": "https://www.Britannica.Com/technology/laser/Fundamental-principles"
+ },
+ {
+  "term": "Spontaneous emission",
+  "definition": "An excited atom releasing light on its own, in a random direction.",
+  "section": "invention",
+  "source_url": "https://www.Britannica.Com/technology/laser/Fundamental-principles"
+ },
+ {
+  "term": "Stimulated emission",
+  "definition": "A passing photon making an excited atom release an identical photon, with the same direction, frequency and phase.",
+  "section": "invention",
+  "source_url": "https://www.aps.org/apsnews/2005/08/einstein-predicts-stimulated-emission"
+ },
+ {
+  "term": "Population inversion",
+  "definition": "More atoms in the upper energy level than the lower one, so light is amplified rather than absorbed.",
+  "section": "invention",
+  "source_url": "https://www.Britannica.Com/technology/laser/Fundamental-principles"
+ },
+ {
+  "term": "Pump",
+  "definition": "The energy source that creates the population inversion, usually light or electricity.",
+  "section": "invention",
+  "source_url": "https://www.coherent.com/company/newsroom/glossary/laser"
+ },
+ {
+  "term": "Gain medium",
+  "definition": "The material where amplification happens: a gas, crystal, dye, fiber or semiconductor.",
+  "section": "invention",
+  "source_url": "https://www.coherent.com/company/newsroom/glossary/laser"
+ },
+ {
+  "term": "Resonant cavity",
+  "definition": "Usually two facing mirrors that send light back and forth through the gain medium, turning an amplifier into an oscillator.",
+  "section": "invention",
+  "source_url": "https://www.Britannica.Com/technology/laser/Fundamental-principles"
+ },
+ {
+  "term": "Output coupler",
+  "definition": "The partly reflective mirror the beam leaves through.",
+  "section": "invention",
+  "source_url": "https://www.coherent.com/company/newsroom/glossary/laser"
+ },
+ {
+  "term": "Longitudinal mode",
+  "definition": "A wavelength whose round trip fits the cavity a whole number of times, and so can build up.",
+  "section": "invention",
+  "source_url": "https://www.Britannica.Com/technology/laser/Fundamental-principles"
+ },
+ {
+  "term": "Coherence",
+  "definition": "Light waves staying in step in phase, because each stimulated photon copies the one that triggered it.",
+  "section": "invention",
+  "source_url": "https://www.Britannica.Com/technology/laser/Fundamental-principles"
+ },
+ {
+  "term": "Continuous wave (CW)",
+  "definition": "Laser output that is steady over time rather than pulsed.",
+  "section": "invention",
+  "source_url": "https://rp-photonics.com/pulsed_lasers.html"
+ },
+ {
+  "term": "Q-switching",
+  "definition": "Holding lasing back while gain builds, then releasing it as one intense pulse, typically nanoseconds long.",
+  "section": "invention",
+  "source_url": "https://rp-photonics.com/pulsed_lasers.html"
+ },
+ {
+  "term": "Mode-locking",
+  "definition": "Locking a cavity's modes in phase so they add into a train of picosecond or femtosecond pulses.",
+  "section": "invention",
+  "source_url": "https://rp-photonics.com/pulsed_lasers.html"
+ },
+ {
+  "term": "Maser",
+  "definition": "Microwave amplification by stimulated emission of radiation; the microwave forerunner of the laser, named in April 1954.",
+  "section": "invention",
+  "source_url": "https://www.optica-opn.org/home/articles/volume_21/issue_5/features/reﬂections_on_the_first_maser"
+ },
+ {
+  "term": "Laser",
+  "definition": "Light amplification by stimulated emission of radiation; the acronym is first recorded in Gordon Gould's November 1957 notebook.",
+  "section": "invention",
+  "source_url": "https://en.wikipedia.org/wiki/Gordon_Gould"
+ },
+ {
+  "term": "Optical maser",
+  "definition": "Schawlow and Townes' term for the laser.",
+  "section": "invention",
+  "source_url": "https://en.wikipedia.org/wiki/Gordon_Gould"
+ },
+ {
+  "term": "Chirped pulse amplification",
+  "definition": "Stretching a light pulse, amplifying it, then compressing it again; the subject of half the 2018 Nobel Prize in Physics.",
+  "section": "invention",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/"
+ },
+ {
+  "term": "Optical tweezers",
+  "definition": "A focused laser beam that holds tiny particles and living cells; the subject of half the 2018 Nobel Prize in Physics.",
+  "section": "invention",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/"
+ }
+]

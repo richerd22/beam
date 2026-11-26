@@ -1,0 +1,37 @@
+[
+ {
+  "title": "FDA: List of FDA-Approved Lasers for LASIK",
+  "url": "https://www.fda.gov/medical-devices/lasik/list-fda-approved-lasers-lasik",
+  "why": "Every approved LASIK laser with its PMA number and date, from the regulator."
+ },
+ {
+  "title": "FDA: What are the risks of LASIK?",
+  "url": "https://www.fda.gov/medical-devices/LASIK/what-are-risks-and-how-can-i-find-right-doctor-me",
+  "why": "The regulator's plain-language list of LASIK risks and red flags."
+ },
+ {
+  "title": "Palanker, Blumenkranz, Marmor: Fifty Years of Ophthalmic Laser Therapy (2011)",
+  "url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf",
+  "why": "A compact, dated history of eye lasers from ruby to femtosecond."
+ },
+ {
+  "title": "IBM Research: You have Thanksgiving turkey to thank for LASIK (2021)",
+  "url": "https://research.ibm.com/blog/40-years-excimer-laser-surgery",
+  "why": "The inventors' institution tells the excimer discovery story."
+ },
+ {
+  "title": "National Cancer Institute: Photodynamic Therapy to Treat Cancer",
+  "url": "https://cancer.gov/about-cancer/treatment/types/surgery/photodynamic-fact-sheet",
+  "why": "What PDT treats, how it works and its limits, reviewed in 2025."
+ },
+ {
+  "title": "FDA: Laser Toys - How to Keep Kids Safe (2023)",
+  "url": "https://www.fda.gov/ForConsumers/ConsumerUpdates/ucm363908.htm",
+  "why": "FDA's consumer guidance on pointers, toys and power labels."
+ },
+ {
+  "title": "Khalifian et al.: Causes of Injury and Litigation in Cutaneous Laser Surgery, 2012-2020",
+  "url": "https://asds.net/Portals/0/PDF/asdsa/Causes%20of%20Injury%20and%20Litigation%20in%20Cutaneous%20Laser%20Surgery%20-%20An%20Update%20From%202012%20to%202020.pdf",
+  "why": "The most recent data on cosmetic laser injury claims and who was operating."
+ }
+]

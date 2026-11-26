@@ -142,5 +142,77 @@
   "answer": 1,
   "why": "The album played in 44 planetariums, with a laser version designed by Laser Fantasy.",
   "section": "planetarium"
+ },
+ {
+  "q": "What did the first laser use as its gain medium?",
+  "options": [
+   "Helium and neon gas",
+   "A ruby crystal",
+   "Carbon dioxide",
+   "A semiconductor diode"
+  ],
+  "answer": 1,
+  "why": "Theodore Maiman's laser at Hughes in May 1960 used a ruby rod pumped by a flash lamp.",
+  "section": "invention"
+ },
+ {
+  "q": "What was the first product scanned at a checkout?",
+  "options": [
+   "A can of soup",
+   "A pack of Wrigley's gum",
+   "A box of cereal",
+   "A carton of milk"
+  ],
+  "answer": 1,
+  "why": "A 10-pack of Juicy Fruit at a Marsh Supermarket in Troy, Ohio, on June 26, 1974.",
+  "section": "everyday"
+ },
+ {
+  "q": "Which agency regulates lasers as products in the US?",
+  "options": [
+   "The FCC",
+   "OSHA",
+   "The FDA",
+   "The EPA"
+  ],
+  "answer": 2,
+  "why": "A 1968 law put radiation-emitting electronic products, lasers included, under the FDA's Center for Devices and Radiological Health.",
+  "section": "regulation"
+ },
+ {
+  "q": "What did LIGO detect with lasers on September 14, 2015?",
+  "options": [
+   "A supernova",
+   "Two black holes merging",
+   "Dark matter",
+   "The Big Bang's afterglow"
+  ],
+  "answer": 1,
+  "why": "Gravitational waves from two black holes of about 36 and 29 solar masses merging.",
+  "section": "science"
+ },
+ {
+  "q": "Has aiming a laser at an aircraft been a US federal crime since 2012?",
+  "options": [
+   "Yes, under 18 U.S.C. 39A",
+   "No, it is only an FAA rule",
+   "Only in some states",
+   "Only near airports"
+  ],
+  "answer": 0,
+  "why": "Congress made it a federal crime in 2012; the FAA can add civil penalties.",
+  "section": "cases"
+ },
+ {
+  "q": "What do the lasers in EUV chipmaking machines fire at?",
+  "options": [
+   "Silicon wafers directly",
+   "Tin droplets, turning them into plasma",
+   "Xenon gas",
+   "Mirrors made of gold"
+  ],
+  "answer": 1,
+  "why": "A CO2 laser hits tin droplets; the plasma gives off the extreme ultraviolet light that prints the chip.",
+  "section": "industry"
  }
 ]

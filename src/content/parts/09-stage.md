@@ -28,7 +28,7 @@ More each decade, and the numbers nearly always come from the people who supplie
 | MDLBeast Soundstorm | 2022 | more than 430 AT-30 lasers | ER Productions | trade press, company figure[^biz-plsn-lasers-2023] |
 | Super Bowl LVIII halftime (Usher) | 2024 | Kvant BeamBrush 40 projectors on Pangolin FB4 and Beyond; operator Jesse Parker; count unpublished | Pyrotecnico FX | software maker[^biz-pangolin-sb58] |
 | Coachella | 2025 | Kvant Atom units on the Quasar (six in a circle), Sahara and Yuma stages; BeamBrush and Clubmax units on the main, Gobi and Mojave stages; no totals | Polar Productions | software maker[^biz-pangolin-coachella-2025] |
-| Illenium, "Odyssey", Sphere, Las Vegas | 2026 | Unity Elite PRO 60 W units across the stage front, 16 Kvant Atom 58 W projectors placed to work with the LED screen, four more on the lower mezzanine as beam terminations; laser director Bill Loftus | not named | trade press[^biz-livedesign-illenium] |
+| Illenium, "Odyssey", Sphere, Las Vegas | undated | Unity Elite PRO 60 W units across the stage front, 16 Kvant Atom 58 W projectors placed to work with the LED screen, four more on the lower mezzanine as beam terminations; laser director Bill Loftus | not named | trade press[^biz-livedesign-illenium] |
 
 The 2019 EDC rig ran with Pangolin's PASS safety hardware, and the vendor calls it "what is considered to be the world's largest outdoor audience scanning event" - the vendor's description, not a certified record.[^biz-pangolin-edc-2019] **Audience scanning**, where beams are deliberately swept through the crowd at controlled exposure levels, is its own subject in [the safety chapter](/safety/).
 

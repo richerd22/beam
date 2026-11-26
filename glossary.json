@@ -1,9 +1,51 @@
 [
  {
+  "term": "14 CFR 91.11",
+  "definition": "The FAA rule against interfering with a crewmember, which the agency uses for civil penalties in laser cases.",
+  "section": "cases",
+  "source_url": "https://www.faa.gov/about/initiatives/lasers/laws"
+ },
+ {
+  "term": "18 U.S.C. 39A",
+  "definition": "The US federal crime of knowingly aiming a laser pointer at an aircraft or its flight path, punishable by up to five years in prison and a fine.",
+  "section": "cases",
+  "source_url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI-chap2-sec39A.htm"
+ },
+ {
+  "term": "510(k) clearance",
+  "definition": "FDA permission to market a device because it is substantially equivalent to one already on the market.",
+  "section": "medicine",
+  "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm?ID=GEX"
+ },
+ {
   "term": "Abstracts",
   "definition": "Non-representational moving laser patterns.",
   "section": "basics",
   "source_url": "https://pangolin.com/blogs/news/types-of-laser-shows"
+ },
+ {
+  "term": "Adaptive optics",
+  "definition": "A deformable mirror that reshapes itself about 1000 times a second to cancel atmospheric blur.",
+  "section": "science",
+  "source_url": "https://eso.org/public/blog/making-lgs-even-brighter/"
+ },
+ {
+  "term": "Aerial marker",
+  "definition": "Lasers set up to throw beams into the sky as a landmark, as at Coachella's Quasar stage in 2025.",
+  "section": "festivals",
+  "source_url": "https://pangolin.com/blogs/news/coachella-2025-quasar-sahara-and-yuma-stages"
+ },
+ {
+  "term": "AIDC",
+  "definition": "Automatic identification and data capture, such as a 2D code.",
+  "section": "industry",
+  "source_url": "https://www.law.cornell.edu/cfr/text/21/801.45"
+ },
+ {
+  "term": "Airborne Laser (YAL-1)",
+  "definition": "US Boeing 747-based missile-defense laser test aircraft, tested at Edwards Air Force Base from 2002 and retired to storage in 2012.",
+  "section": "defense",
+  "source_url": "https://www.edwards.af.mil/News/Article/394579/airborne-laser-test-bed-bids-adieu-to-edwards"
  },
  {
   "term": "Analog modulation",
@@ -18,6 +60,12 @@
   "source_url": "https://wiki.pangolin.com/beyond:vectors_and_points"
  },
  {
+  "term": "ANSI Z136.1",
+  "definition": "The US voluntary consensus standard for safe laser use, which OSHA cites as guidance.",
+  "section": "industry",
+  "source_url": "https://www.osha.gov/laser-hazards/standards"
+ },
+ {
   "term": "Argon-ion laser",
   "definition": "A gas laser with strong blue and green lines, first seen working on February 14, 1964. The bright beam of 1970s rock tours.",
   "section": "history",
@@ -28,6 +76,18 @@
   "definition": "A network transport for DMX lighting control data.",
   "section": "programming",
   "source_url": "https://pangolin.com/blogs/news/laser-light-show-definitions-what-industry-terms-mean"
+ },
+ {
+  "term": "Assignment for the Benefit of Creditors (ABC)",
+  "definition": "A state-law alternative to bankruptcy, used by Glowforge in 2025.",
+  "section": "industry",
+  "source_url": "https://www.geekwire.com/2025/glowforge-hits-restart-after-restructuring-co-founders-acquire-key-assets-of-laser-engraver-startup/"
+ },
+ {
+  "term": "Assist gas",
+  "definition": "Gas blown down a cutting nozzle: oxygen adds heat by burning the metal, nitrogen only blows out the melt.",
+  "section": "industry",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052"
  },
  {
   "term": "Audience scanning",
@@ -67,9 +127,15 @@
  },
  {
   "term": "Beam termination",
-  "definition": "A surface or unit placed to catch a laser beam at the end of its path.",
-  "section": "stage",
+  "definition": "Ending a beam on a surface so it goes no farther into the sky or the crowd.",
+  "section": "festivals",
   "source_url": "https://www.livedesignonline.com/news/illeniums-odyssey-sphere"
+ },
+ {
+  "term": "BEYOND",
+  "definition": "Pangolin's laser show control software, named in most festival case studies.",
+  "section": "festivals",
+  "source_url": "https://pangolin.com/blogs/news/coachella-2025-quasar-sahara-and-yuma-stages"
  },
  {
   "term": "Blanking",
@@ -78,10 +144,22 @@
   "source_url": "https://wiki.pangolin.com/beyond:vectors_and_points"
  },
  {
+  "term": "Boost phase",
+  "definition": "The early powered flight of a missile, when the Airborne Laser was designed to engage it.",
+  "section": "defense",
+  "source_url": "https://www.edwards.af.mil/News/Article/394579/airborne-laser-test-bed-bids-adieu-to-edwards"
+ },
+ {
   "term": "Bureau of Radiological Health (BRH)",
   "definition": "The US Food and Drug Administration unit that inspected laser light shows in the late 1970s.",
   "section": "history",
   "source_url": "https://time.com/archive/6879942/capsules-eying-laser-light/"
+ },
+ {
+  "term": "Busbar",
+  "definition": "A metal link joining battery cells into modules and packs, often laser welded.",
+  "section": "industry",
+  "source_url": "https://www.trumpf.com/en_GB/industries/automotive/e-mobility/"
  },
  {
   "term": "Busking",
@@ -94,6 +172,12 @@
   "definition": "The FDA's Center for Devices and Radiological Health, which receives laser product reports and variance applications.",
   "section": "rules",
   "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows"
+ },
+ {
+  "term": "Chirped pulse amplification",
+  "definition": "Stretching a light pulse, amplifying it, then compressing it again; the subject of half the 2018 Nobel Prize in Physics.",
+  "section": "invention",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/"
  },
  {
   "term": "Class 3B / IIIb",
@@ -114,6 +198,24 @@
   "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-products-and-instruments"
  },
  {
+  "term": "Class IIIa (3R)",
+  "definition": "Visible output up to 5 mW; the US ceiling for laser pointers and for show projectors without a variance.",
+  "section": "regulation",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/laser-products-and-instruments/important-information-laser-pointer-manufacturers"
+ },
+ {
+  "term": "Class IIIb (3B)",
+  "definition": "Output from 5 to 500 mW; in the US it cannot legally be promoted as a laser pointer or demonstration laser.",
+  "section": "regulation",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/laser-products-and-instruments/important-information-laser-pointer-manufacturers"
+ },
+ {
+  "term": "Class IV (4)",
+  "definition": "The class above IIIb; US show projectors in this class need an FDA variance.",
+  "section": "regulation",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows"
+ },
+ {
   "term": "Closed loop",
   "definition": "A scanner whose position detector feeds a servo amplifier that corrects the mirror.",
   "section": "scanning",
@@ -121,15 +223,45 @@
  },
  {
   "term": "Coherence",
-  "definition": "Light waves lined up in time and space; the reason a laser beam spreads far less than ordinary light.",
-  "section": "basics",
-  "source_url": "https://laserfx.com/Works/Works2.html"
+  "definition": "Light waves staying in step in phase, because each stimulated photon copies the one that triggered it.",
+  "section": "invention",
+  "source_url": "https://www.Britannica.Com/technology/laser/Fundamental-principles"
+ },
+ {
+  "term": "COIL",
+  "definition": "Chemical oxygen iodine laser, the megawatt-class laser carried by the Airborne Laser.",
+  "section": "defense",
+  "source_url": "https://www.edwards.af.mil/News/Article/394579/airborne-laser-test-bed-bids-adieu-to-edwards"
+ },
+ {
+  "term": "Consulting physician (Texas)",
+  "definition": "The doctor a Texas laser hair removal facility must have a written contract with.",
+  "section": "medicine",
+  "source_url": "https://www.tdlr.texas.gov/las/lasfaq.htm"
+ },
+ {
+  "term": "Continuous wave (CW)",
+  "definition": "Laser output that is steady over time rather than pulsed.",
+  "section": "invention",
+  "source_url": "https://rp-photonics.com/pulsed_lasers.html"
  },
  {
   "term": "Copper-vapor laser",
   "definition": "A gas laser used on large 1990s tours; Pink Floyd's 1994 US tour carried two 50 W systems.",
   "section": "stage",
   "source_url": "https://pfco.neptunepinkfloyd.co.uk/band/interviews/art-rev/art-ld.html"
+ },
+ {
+  "term": "Corner cube retroreflector",
+  "definition": "A three-mirror prism that sends light straight back where it came from; Apollo 11's panel holds 100 of them.",
+  "section": "science",
+  "source_url": "https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/"
+ },
+ {
+  "term": "Cost per shot",
+  "definition": "The operating cost of one laser engagement, the main argument governments make for laser weapons.",
+  "section": "defense",
+  "source_url": "https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones"
  },
  {
   "term": "Critical Flight Zone",
@@ -142,6 +274,18 @@
   "definition": "Digital-to-analog converter: the hardware that turns software output into the voltages a projector takes.",
   "section": "programming",
   "source_url": "https://pangolin.com/blogs/news/laser-light-show-definitions-what-industry-terms-mean"
+ },
+ {
+  "term": "Dazzler (optical distracter, ocular interrupter)",
+  "definition": "A visible laser meant to cause temporary, reversible glare, used as a warning at checkpoints and at sea.",
+  "section": "defense",
+  "source_url": "https://jifco.defense.gov/Press-Room/Fact-Sheets/Article-View-Fact-sheets/Article/577997/non-lethal-optical-distracters/"
+ },
+ {
+  "term": "Demarche",
+  "definition": "A formal diplomatic protest.",
+  "section": "defense",
+  "source_url": "https://www.jcs.mil/Media/News/News-Display/Article/1512451/us-protests-chinese-interference-with-us-planes-in-djibouti/"
  },
  {
   "term": "Demonstration laser product",
@@ -162,10 +306,22 @@
   "source_url": "https://thewho.net/whotabs/gear/pa/lighting.html"
  },
  {
+  "term": "Diffraction limit",
+  "definition": "The smallest spot a lens can focus light into, set by the wavelength.",
+  "section": "everyday",
+  "source_url": "https://laserfocusworld.com/lasers-sources/article/16549547/photonics-applied-optical-data-storage-can-new-techniques-continue-to-densify-optical-data-storage-capacity"
+ },
+ {
   "term": "Direct diode",
   "definition": "A semiconductor chip that lases when current is applied to it, with no crystal in between.",
   "section": "lasers",
   "source_url": "https://pangolin.com/blogs/news/the-ultimate-guide-to-understanding-laser-light"
+ },
+ {
+  "term": "Directed energy weapon",
+  "definition": "A weapon that uses focused energy, such as a laser or microwaves, instead of a projectile.",
+  "section": "defense",
+  "source_url": "https://www.newsonair.gov.in/india-demonstrates-laser-weapon-capability-joins-elite-global-club"
  },
  {
   "term": "Divergence",
@@ -180,10 +336,82 @@
   "source_url": "https://laserfx.com/Works/Works2.html"
  },
  {
+  "term": "DragonFire",
+  "definition": "UK laser weapon led by MBDA UK, due on a Royal Navy Type 45 destroyer by 2027.",
+  "section": "defense",
+  "source_url": "https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones"
+ },
+ {
+  "term": "DWPE",
+  "definition": "Detention without physical examination: holding an import at the port because its firm is on an FDA import alert's list.",
+  "section": "regulation",
+  "source_url": "https://www.accessdata.fda.gov/CMS_IA/importalert_254.html"
+ },
+ {
+  "term": "EDFA (erbium-doped fiber amplifier)",
+  "definition": "A stretch of fiber laced with erbium and pumped by a laser at 980 or 1480 nm, which boosts 1550 nm signals without turning them into electronics.",
+  "section": "everyday",
+  "source_url": "https://www.laserfocusworld.com/fiber-optics/article/16551090/optical-amplifiers-speed-data-flow-undersea"
+ },
+ {
+  "term": "Embedded laser",
+  "definition": "The higher-class laser inside a Class 1 enclosed product; its class applies during service.",
+  "section": "industry",
+  "source_url": "https://www.osha.gov/otm/section-3-health-hazards/chapter-6"
+ },
+ {
+  "term": "Energy level",
+  "definition": "One of the fixed amounts of energy an atom or molecule can hold; the lowest is the ground state.",
+  "section": "invention",
+  "source_url": "https://www.Britannica.Com/technology/laser/Fundamental-principles"
+ },
+ {
+  "term": "EUV",
+  "definition": "Extreme ultraviolet lithography light at 13.5 nm, made by hitting tin droplets with a laser.",
+  "section": "industry",
+  "source_url": "https://www.asml.com/en/technology/lithography-principles/light-and-lasers"
+ },
+ {
+  "term": "Excimer laser",
+  "definition": "An ultraviolet gas laser that removes tissue in very thin layers with little heat; the laser behind PRK and LASIK.",
+  "section": "medicine",
+  "source_url": "https://research.ibm.com/blog/40-years-excimer-laser-surgery"
+ },
+ {
+  "term": "Excimer laser annealing (ELA)",
+  "definition": "Melting and recrystallizing amorphous silicon with an excimer line beam to make low-temperature polysilicon.",
+  "section": "industry",
+  "source_url": "https://www.coherent.com/news/blog/laser-annealing-flat-panel-displays"
+ },
+ {
+  "term": "FB4",
+  "definition": "Pangolin's networked laser control hardware.",
+  "section": "festivals",
+  "source_url": "https://pangolin.com/blogs/news/coachella-2025-quasar-sahara-and-yuma-stages"
+ },
+ {
+  "term": "Femtosecond laser",
+  "definition": "A laser whose pulses last quadrillionths of a second, used to cut corneal flaps or lenticules.",
+  "section": "medicine",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
   "term": "Fenning Award",
   "definition": "ILDA's award for technical achievement.",
   "section": "stage",
   "source_url": "https://ilda.com/awards2014.htm"
+ },
+ {
+  "term": "Fiber laser",
+  "definition": "A solid-state laser whose gain medium is a doped optical fiber; it outsold CO2 for cutting from 2015.",
+  "section": "industry",
+  "source_url": "https://laserfocusworld.com/industrial-laser-solutions/article/14216470/fiber-laser-cutting-drives-a-power-revolution"
+ },
+ {
+  "term": "Flame cutting",
+  "definition": "Laser cutting with oxygen assist, which adds heat through an exothermic reaction.",
+  "section": "industry",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052"
  },
  {
   "term": "Flicker",
@@ -198,10 +426,40 @@
   "source_url": "https://ilda.com/hazefoglasers.htm"
  },
  {
+  "term": "Form 7140-1",
+  "definition": "The FAA's Notice of Proposed Outdoor Laser Operation(s), filed at least 30 days before an outdoor show.",
+  "section": "festivals",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "term": "Fractional resurfacing",
+  "definition": "Treating skin in a grid of tiny columns, leaving untreated skin between them to speed healing.",
+  "section": "medicine",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
   "term": "Frame",
   "definition": "One complete list of points for one image; frames played in sequence make animation.",
   "section": "programming",
   "source_url": "https://laserfx.com/Works/Works5.html"
+ },
+ {
+  "term": "Frye hearing",
+  "definition": "A US court hearing on whether a scientific method is generally accepted before evidence from it is admitted.",
+  "section": "everyday",
+  "source_url": "https://www.laserfocusworld.com/test-measurement/test-measurement/article/16568629/chicago-court-says-lidar-is-scientifically-admissible-for-speeding-tickets"
+ },
+ {
+  "term": "Fusion cutting",
+  "definition": "Cutting by melting the metal and blowing the melt out with inert gas such as nitrogen.",
+  "section": "industry",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052"
+ },
+ {
+  "term": "Gain medium",
+  "definition": "The material where amplification happens: a gas, crystal, dye, fiber or semiconductor.",
+  "section": "invention",
+  "source_url": "https://www.coherent.com/company/newsroom/glossary/laser"
  },
  {
   "term": "Galvo",
@@ -228,16 +486,46 @@
   "source_url": "https://pangolin.com/blogs/news/types-of-laser-shows"
  },
  {
+  "term": "Hairpin",
+  "definition": "A bent copper bar in an e-motor stator, laser welded at its ends.",
+  "section": "industry",
+  "source_url": "https://www.trumpf.com/en_GB/industries/automotive/e-mobility/"
+ },
+ {
   "term": "Haze",
   "definition": "A very fine, evenly spread mist that makes beams visible as smooth cones and sheets.",
   "section": "basics",
   "source_url": "https://ilda.com/hazefoglasers.htm"
  },
  {
+  "term": "HELIOS",
+  "definition": "High-Energy Laser with Integrated Optical Dazzler and Surveillance, a Lockheed Martin system delivered to USS Preble in 2022.",
+  "section": "defense",
+  "source_url": "https://www.militarytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test"
+ },
+ {
   "term": "Helium-neon laser",
   "definition": "A low-power gas laser. Its red 632.8 nm line, found in 1962, gave the first continuous visible beam sold commercially.",
   "section": "history",
   "source_url": "https://photonics.com/Articles/Decades-of-Discoveries-Broadened-the-Laser/p5/a70982"
+ },
+ {
+  "term": "High-energy laser",
+  "definition": "Military term for a laser weapon meant to damage a target.",
+  "section": "defense",
+  "source_url": "https://www.militarytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test"
+ },
+ {
+  "term": "HIP",
+  "definition": "Hot isostatic pressing, used after metal printing to close internal pores.",
+  "section": "industry",
+  "source_url": "https://laserfocusworld.com/industrial-laser-solutions/article/14216415/additive-manufacturing-at-ge-aviation"
+ },
+ {
+  "term": "Hohlraum",
+  "definition": "The centimeter-sized gold cylinder at NIF that turns laser light into x-rays to squeeze the fuel capsule.",
+  "section": "science",
+  "source_url": "https://lmf.llnl.gov/science/achieving-fusion-ignition"
  },
  {
   "term": "Hologram",
@@ -264,6 +552,12 @@
   "source_url": "https://ilda.com/technical.htm"
  },
  {
+  "term": "Ignition",
+  "definition": "A fusion shot that releases more energy than the laser energy delivered to the target.",
+  "section": "science",
+  "source_url": "https://lmf.llnl.gov/science/achieving-fusion-ignition"
+ },
+ {
   "term": "ILDA",
   "definition": "The International Laser Display Association, the laser show trade body.",
   "section": "safety",
@@ -288,10 +582,34 @@
   "source_url": "https://www.accessdata.fda.gov/CMS_IA/importalert_254.html"
  },
  {
+  "term": "Import Alert 95-04",
+  "definition": "FDA import alert that lets US ports detain listed firms' laser pointers, projectors, toys and similar products without physical examination.",
+  "section": "regulation",
+  "source_url": "https://www.accessdata.fda.gov/CMS_IA/importalert_254.html"
+ },
+ {
+  "term": "INDG224",
+  "definition": "The UK HSE leaflet on display lasers, which puts the duty on the organizer and points to PLASA's guidance.",
+  "section": "festivals",
+  "source_url": "https://www.hse.gov.uk/pubns/indg224.htm"
+ },
+ {
+  "term": "Inter-satellite laser link",
+  "definition": "A laser beam carrying data between satellites.",
+  "section": "defense",
+  "source_url": "https://www.lightnowblog.com/2024/02/ir-lasers-link-9000-starlink-satellites-and-move-42-million-gb-per-day/"
+ },
+ {
   "term": "Ion laser",
   "definition": "An argon or krypton gas laser; the professional show source before solid state, water-cooled and about 0.05% efficient.",
   "section": "lasers",
   "source_url": "https://www.repairfaq.org/sam/laserarg.htm"
+ },
+ {
+  "term": "Iron Beam",
+  "definition": "Israel's high-power laser air defense, developed by Rafael with a laser from Elbit Systems; declared operational in 2025.",
+  "section": "defense",
+  "source_url": "https://www.timesofisrael.com/defense-ministry-hands-idf-first-combat-ready-iron-beam-laser-interception-system"
  },
  {
   "term": "Irradiance",
@@ -304,6 +622,18 @@
   "definition": "The 25-pin analog connection carrying X, Y, color, shutter and interlock signals to a projector.",
   "section": "programming",
   "source_url": "https://k1.spdns.de/Develop/Projects/pico/Laseroids/ILDA%20files/ILDA_ISP99_rev002.pdf"
+ },
+ {
+  "term": "Kerf",
+  "definition": "The slot a laser cut leaves.",
+  "section": "industry",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052"
+ },
+ {
+  "term": "Kinetic Field",
+  "definition": "EDC Las Vegas's main stage.",
+  "section": "festivals",
+  "source_url": "https://lsionline.co.uk/news/lasertainment-illuminates-edc-las-vegas-2014-axjvbz"
  },
  {
   "term": "kpps",
@@ -325,9 +655,15 @@
  },
  {
   "term": "Laser",
-  "definition": "Light amplification by stimulated emission of radiation: a source whose light is essentially one wavelength, with its waves in step, in a narrow beam.",
-  "section": "basics",
-  "source_url": "https://pangolin.com/blogs/news/the-ultimate-guide-to-understanding-laser-light"
+  "definition": "Light amplification by stimulated emission of radiation; the acronym is first recorded in Gordon Gould's November 1957 notebook.",
+  "section": "invention",
+  "source_url": "https://en.wikipedia.org/wiki/Gordon_Gould"
+ },
+ {
+  "term": "Laser cleaning",
+  "definition": "Ablating a coating or surface layer with very brief high-power pulses, without chemicals or contact.",
+  "section": "industry",
+  "source_url": "https://www.twi-global.com/technical-knowledge/faqs/faq-what-is-laser-surface-cleaning"
  },
  {
   "term": "Laser emission source",
@@ -348,10 +684,22 @@
   "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
  },
  {
+  "term": "Laser guide star",
+  "definition": "An artificial star made by a laser exciting sodium atoms about 90 km up, used to correct telescope blur.",
+  "section": "science",
+  "source_url": "https://eso.org/public/blog/making-lgs-even-brighter/"
+ },
+ {
   "term": "Laser harp",
   "definition": "An instrument made of upright laser beams. Breaking a beam with the hand triggers a note.",
   "section": "history",
   "source_url": "https://factmag.com/2014/10/04/the-visionary-legendary-electronic-auteur-bernard-szajner-on-carl-craig-and-laser-shows"
+ },
+ {
+  "term": "Laser Jockey",
+  "definition": "ILDA's live laser performance competition.",
+  "section": "festivals",
+  "source_url": "https://ilda.com/awards2023.htm"
  },
  {
   "term": "Laser mapping",
@@ -360,16 +708,70 @@
   "source_url": "https://pangolin.com/pages/laser-mapping"
  },
  {
+  "term": "Laser Misuse (Vehicles) Act 2018",
+  "definition": "UK law making it an offense to shine a laser at a vehicle that is moving or ready to move where it dazzles or distracts the person in control.",
+  "section": "regulation",
+  "source_url": "https://www.legislation.gov.uk/ukpga/2018/9/section/1"
+ },
+ {
   "term": "Laser Notice",
   "definition": "A numbered FDA guidance letter to the laser industry, such as Notice 51 on projector sales or Notice 55 on variance renewal.",
   "section": "rules",
   "source_url": "https://www.fda.gov/radiation-emitting-products/laser-products-and-instruments/notices-laser-industry"
  },
  {
+  "term": "Laser Notice 56",
+  "definition": "FDA guidance (February 2023 version) saying the agency does not intend to enforce matching US requirements for products conforming to identified IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1 clauses.",
+  "section": "regulation",
+  "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56"
+ },
+ {
+  "term": "Laser Notice No. 56",
+  "definition": "FDA policy letting makers certify to parts of IEC 60825-1 Ed. 3; it replaced Notice 50 at the end of 2024.",
+  "section": "industry",
+  "source_url": "https://content.govdelivery.com/accounts/USFDA/bulletins/3cb2a72"
+ },
+ {
+  "term": "Laser performance standard",
+  "definition": "The US federal rule for laser products at 21 CFR 1040.10 and 1040.11, first published as a final rule in 1975.",
+  "section": "regulation",
+  "source_url": "https://www.govinfo.gov/content/pkg/FR-2013-06-24/pdf/2013-14846.pdf"
+ },
+ {
+  "term": "Laser pointer maculopathy",
+  "definition": "Damage to the center of the retina from looking into a handheld laser.",
+  "section": "medicine",
+  "source_url": "https://pubmed.ncbi.nlm.nih.gov/27587615/"
+ },
+ {
+  "term": "Laser powder bed fusion",
+  "definition": "Building a metal part by melting thin layers of powder with a laser; also called DMLM, DMLS or SLM.",
+  "section": "industry",
+  "source_url": "https://www.ge.com/additive/de/node/1051"
+ },
+ {
+  "term": "Laser retinopathy",
+  "definition": "Damage to the retina from laser exposure.",
+  "section": "cases",
+  "source_url": "https://retinalphysician.com/issues/2020/june/upfront-a-cautionary-tale-of-laser-exposure/"
+ },
+ {
   "term": "Laser Safety Officer (LSO)",
   "definition": "The named person responsible for laser safety at a facility or show. Required by name in several US states and in Germany.",
   "section": "safety",
   "source_url": "https://www.mass.gov/doc/105-cmr-121-to-control-the-radiation-hazards-of-lasers-laser-systems-and-optical-fiber-communication-systems-utilizing-laser-diode-or-light-emitting-diode-sources/download"
+ },
+ {
+  "term": "Laser-Free Zone",
+  "definition": "The FAA flight zone near runways where outdoor laser light must stay at or below 50 nW/cm2.",
+  "section": "festivals",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
+ },
+ {
+  "term": "Laser-guided bomb",
+  "definition": "A bomb that steers toward a spot of laser light placed on a target; first combat-evaluated by the US Air Force in 1968.",
+  "section": "defense",
+  "source_url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195858/"
  },
  {
   "term": "Laser-phosphor projector",
@@ -408,6 +810,24 @@
   "source_url": "https://www.gesetze-im-internet.de/ostrv/__5.html"
  },
  {
+  "term": "LASIK",
+  "definition": "An excimer laser reshapes the cornea under a thin flap that is then laid back down. The word was coined in 1991.",
+  "section": "medicine",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
+  "term": "Lasing",
+  "definition": "Service slang for shining a laser at an aircraft or ship.",
+  "section": "defense",
+  "source_url": "https://www.defence.gov.au/news-events/releases/2022-02-19/chinese-vessel-lasing-adf-aircraft"
+ },
+ {
+  "term": "LaWS",
+  "definition": "Laser Weapon System, the US Navy prototype that operated on USS Ponce in the Persian Gulf in 2014.",
+  "section": "defense",
+  "source_url": "https://www.onr.navy.mil/media-center/news-releases/historic-leap-navy-shipboard-laser-operates-persian-gulf"
+ },
+ {
   "term": "Letter of determination",
   "definition": "The FAA's reply to a notice of an outdoor laser operation, stating an objection or no objection.",
   "section": "rules",
@@ -415,9 +835,15 @@
  },
  {
   "term": "Lidar",
-  "definition": "A scanning laser used to measure distance, as on some cars.",
-  "section": "basics",
-  "source_url": "https://www.androidauthority.com/laser-lidar-damage-phone-camera-3559006"
+  "definition": "Light detection and ranging: measuring distance by timing laser pulses.",
+  "section": "everyday",
+  "source_url": "https://www.digikey.at/en/blog/vcsels-put-lidar-into-apple-iphones-what-can-you-do"
+ },
+ {
+  "term": "Lidar speed detector",
+  "definition": "A hand-held laser speed gun used in traffic enforcement, such as the LTI Marksman 20-20 a New Jersey court examined in 1998.",
+  "section": "cases",
+  "source_url": "https://caselaw.findlaw.com/nj-superior-court/1382131.html"
  },
  {
   "term": "Liquid sky",
@@ -426,10 +852,40 @@
   "source_url": "https://laserfx.com/Science/Science3.html"
  },
  {
+  "term": "LITT (laser interstitial thermal therapy)",
+  "definition": "A laser fiber inside the body heats and destroys tissue while MRI tracks the temperature.",
+  "section": "medicine",
+  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/specialties/neurology/therapies-procedures/laser-ablation-brain-tumors.html"
+ },
+ {
+  "term": "Longitudinal mode",
+  "definition": "A wavelength whose round trip fits the cavity a whole number of times, and so can build up.",
+  "section": "invention",
+  "source_url": "https://www.Britannica.Com/technology/laser/Fundamental-principles"
+ },
+ {
+  "term": "Low-level light therapy (LLLT)",
+  "definition": "Low-power red or near-infrared light meant to stimulate tissue rather than cut it, as in hair-growth caps and combs; also called photobiomodulation.",
+  "section": "medicine",
+  "source_url": "https://jcadonline.com/laser-therapy-hair-loss"
+ },
+ {
+  "term": "LTPS",
+  "definition": "Low-temperature polysilicon, the faster transistor material in AMOLED phone displays.",
+  "section": "industry",
+  "source_url": "https://www.coherent.com/news/blog/laser-annealing-flat-panel-displays"
+ },
+ {
   "term": "Lumia",
   "definition": "A soft, gauze-like moving pattern made by sending a beam through rippled glass or plastic.",
   "section": "scanning",
   "source_url": "https://laserfx.com/Science/Science3.html"
+ },
+ {
+  "term": "Maser",
+  "definition": "Microwave amplification by stimulated emission of radiation; the microwave forerunner of the laser, named in April 1954.",
+  "section": "invention",
+  "source_url": "https://www.optica-opn.org/home/articles/volume_21/issue_5/features/reﬂections_on_the_first_maser"
  },
  {
   "term": "Masking plate",
@@ -444,6 +900,30 @@
   "source_url": "https://laserpointersafety.com/irradiance.html"
  },
  {
+  "term": "MedWatch",
+  "definition": "FDA's voluntary system for reporting problems with medical products.",
+  "section": "medicine",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/lasik-faqs-frequently-asked-questions"
+ },
+ {
+  "term": "Michelson interferometer",
+  "definition": "An instrument that splits a laser beam down two arms and recombines it, so tiny changes in length show up as light. The core of LIGO.",
+  "section": "science",
+  "source_url": "https://physicstoday.aip.org/news/weiss-barish-and-thorne-share-2017-nobel-prize-in-physics"
+ },
+ {
+  "term": "Mode-locking",
+  "definition": "Locking a cavity's modes in phase so they add into a train of picosecond or femtosecond pulses.",
+  "section": "invention",
+  "source_url": "https://rp-photonics.com/pulsed_lasers.html"
+ },
+ {
+  "term": "Nd:YAG capsulotomy",
+  "definition": "Using a laser to open the clouded lens capsule after cataract surgery.",
+  "section": "medicine",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
   "term": "Nominal Ocular Hazard Distance (NOHD)",
   "definition": "The distance at which a direct beam has spread enough for its irradiance to fall to the MPE.",
   "section": "safety",
@@ -456,10 +936,58 @@
   "source_url": "https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/commercial-displays-and-events/outdoor-laser-lights-and-fireworks/"
  },
  {
+  "term": "Numerical aperture",
+  "definition": "How wide a cone of light a lens gathers. A higher value focuses a smaller spot; Blu-ray uses 0.85.",
+  "section": "everyday",
+  "source_url": "https://laserfocusworld.com/lasers-sources/article/16549547/photonics-applied-optical-data-storage-can-new-techniques-continue-to-densify-optical-data-storage-capacity"
+ },
+ {
   "term": "OPSL",
   "definition": "Optically pumped semiconductor laser: diodes pump a thin gain chip in a small cavity, giving a clean, narrow beam and chosen colors such as 577 nm yellow.",
   "section": "lasers",
   "source_url": "https://www.coherent.com/news/blog/150000-optically-pumped-semiconductor-lasers"
+ },
+ {
+  "term": "Optical lattice clock",
+  "definition": "A clock that holds atoms in a grid of laser light and probes them with a clock laser at an optical frequency.",
+  "section": "science",
+  "source_url": "https://www.optica-opn.org/home/newsroom/2024/july/strontium_lattice_is_now_the_world_s_most_accurate_clock"
+ },
+ {
+  "term": "Optical maser",
+  "definition": "Schawlow and Townes' term for the laser.",
+  "section": "invention",
+  "source_url": "https://en.wikipedia.org/wiki/Gordon_Gould"
+ },
+ {
+  "term": "Optical molasses",
+  "definition": "Crossed pairs of laser beams that slow atoms as if they were moving through syrup.",
+  "section": "science",
+  "source_url": "https://nobelprize.org/prizes/physics/1997/press-release"
+ },
+ {
+  "term": "Optical tweezers",
+  "definition": "A focused laser beam that holds tiny particles and living cells; the subject of half the 2018 Nobel Prize in Physics.",
+  "section": "invention",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/"
+ },
+ {
+  "term": "Output coupler",
+  "definition": "The partly reflective mirror the beam leaves through.",
+  "section": "invention",
+  "source_url": "https://www.coherent.com/company/newsroom/glossary/laser"
+ },
+ {
+  "term": "PASS",
+  "definition": "Professional Audience Safety System, the hardware used on projectors approved to scan audiences, used on selected units at Coachella 2025.",
+  "section": "festivals",
+  "source_url": "https://pangolin.com/blogs/news/coachella-2025-quasar-sahara-and-yuma-stages"
+ },
+ {
+  "term": "Paveway",
+  "definition": "The US family of laser-guided bomb kits adopted after the BOLT-117 evaluation in the Vietnam War.",
+  "section": "defense",
+  "source_url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195858/"
  },
  {
   "term": "PCAOM",
@@ -474,10 +1002,70 @@
   "source_url": "https://theconversation.edu.au/tupacs-rise-from-the-dead-was-sadly-not-holography-6641"
  },
  {
+  "term": "Peresvet",
+  "definition": "Russian laser system announced by President Putin in 2018; its purpose has not been officially stated.",
+  "section": "defense",
+  "source_url": "https://www.themoscowtimes.com/2018/12/05/russias-new-laster-weapons-systems-enter-into-service-military-says-a63709"
+ },
+ {
   "term": "Performing rights organization (PRO)",
   "definition": "A body such as ASCAP, BMI, SESAC or Global Music Rights that licenses the public performance of songs to the business where the music is played.",
   "section": "planetarium",
   "source_url": "https://www.dorsey.com/newsresources/blogs/tmca/2020/01/music-public-performance-rights-ignore-that-licens"
+ },
+ {
+  "term": "Permanent blindness (Protocol IV)",
+  "definition": "Irreversible, uncorrectable, seriously disabling loss of vision: acuity below 20/200 Snellen in both eyes.",
+  "section": "defense",
+  "source_url": "https://nuke.fas.org/control/ccw/text/protocol4.htm"
+ },
+ {
+  "term": "Petawatt",
+  "definition": "10^15 watts of peak power, held for only femtoseconds.",
+  "section": "science",
+  "source_url": "https://optics.org/news/eli-np-laser-hits-10-petawatts-peak-power"
+ },
+ {
+  "term": "Photocoagulation",
+  "definition": "Heating tissue with light until it seals or dies; first used on the retina, with sunlight and arc lamps before lasers.",
+  "section": "medicine",
+  "source_url": "https://retinahistory.asrs.org/milestones-developments/laser-therapy"
+ },
+ {
+  "term": "Photodiode",
+  "definition": "A sensor that turns light into an electrical signal; scanners and disc players use them to read reflections.",
+  "section": "everyday",
+  "source_url": "https://si.edu/object/supermarket-scanner:nmah_892778"
+ },
+ {
+  "term": "Photodynamic therapy (PDT)",
+  "definition": "A light-activated drug plus light of a matching wavelength kills the cells that absorbed the drug.",
+  "section": "medicine",
+  "source_url": "https://cancer.gov/about-cancer/treatment/types/surgery/photodynamic-fact-sheet"
+ },
+ {
+  "term": "Photosensitizer",
+  "definition": "The light-activated drug in photodynamic therapy, such as porfimer sodium.",
+  "section": "medicine",
+  "source_url": "https://cancer.gov/about-cancer/treatment/types/surgery/photodynamic-fact-sheet"
+ },
+ {
+  "term": "Picosecond laser",
+  "definition": "A laser with pulses in trillionths of a second, used for tattoos and pigmented lesions.",
+  "section": "medicine",
+  "source_url": "https://www.laserfocusworld.com/biooptics/biomedicine/article/14191898/cynosure-receives-fda-approval-for-first-picosecond-laser-to-remove-tattoos-benign-pigmented-lesions"
+ },
+ {
+  "term": "Pit",
+  "definition": "A tiny pressed mark on a CD, DVD or Blu-ray that reflects light differently from the flat surface, encoding bits.",
+  "section": "everyday",
+  "source_url": "https://ebsco.com/research-starters/applied-sciences/optical-storage"
+ },
+ {
+  "term": "PMA (premarket approval)",
+  "definition": "FDA's stricter review requiring clinical evidence of safety and effectiveness, used for LASIK and SMILE lasers.",
+  "section": "medicine",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/list-fda-approved-lasers-lasik"
  },
  {
   "term": "Point",
@@ -498,10 +1086,58 @@
   "source_url": "https://laserfx.com/Works/Works2.html"
  },
  {
+  "term": "Pre-pulse",
+  "definition": "The weaker first laser shot that flattens a tin droplet before the main pulse turns it into plasma.",
+  "section": "industry",
+  "source_url": "https://www.asml.com/en/technology/lithography-principles/light-and-lasers"
+ },
+ {
+  "term": "PRK (photorefractive keratectomy)",
+  "definition": "Reshaping the surface of the cornea with an excimer laser, without cutting a flap.",
+  "section": "medicine",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/fda-approved-lasers-prk-and-other-refractive-surgeries"
+ },
+ {
+  "term": "Product Report",
+  "definition": "Form FDA 3632, the manufacturer's report on a laser product to FDA.",
+  "section": "regulation",
+  "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows"
+ },
+ {
   "term": "Projection zone",
   "definition": "A named output area with its own size, position, geometric correction and safety settings.",
   "section": "programming",
   "source_url": "https://wiki.pangolin.com/beyond:projection_zones-new"
+ },
+ {
+  "term": "Protocol IV",
+  "definition": "The 1995 protocol to the Convention on Certain Conventional Weapons on blinding laser weapons, in force since 1998.",
+  "section": "cases",
+  "source_url": "https://treaties.un.org/doc/Publication/MTDSG/Volume%20II/Chapter%20XXVI/XXVI-2-a.en.xml"
+ },
+ {
+  "term": "Pulsed dye laser",
+  "definition": "A yellow-light laser that targets blood vessels, used for port-wine stains.",
+  "section": "medicine",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "term": "Pump",
+  "definition": "The energy source that creates the population inversion, usually light or electricity.",
+  "section": "invention",
+  "source_url": "https://www.coherent.com/company/newsroom/glossary/laser"
+ },
+ {
+  "term": "Q-switched laser",
+  "definition": "A laser making very short, high-peak-power pulses in nanoseconds, used to break up tattoo ink and pigment.",
+  "section": "medicine",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "term": "Q-switching",
+  "definition": "Holding lasing back while gain builds, then releasing it as one intense pulse, typically nanoseconds long.",
+  "section": "invention",
+  "source_url": "https://rp-photonics.com/pulsed_lasers.html"
  },
  {
   "term": "Raster",
@@ -516,16 +1152,40 @@
   "source_url": "https://laserfx.com/Works/Works4.html"
  },
  {
+  "term": "Red List",
+  "definition": "The firms named in an FDA import alert whose products can be detained without examination.",
+  "section": "regulation",
+  "source_url": "https://www.accessdata.fda.gov/CMS_IA/importalert_254.html"
+ },
+ {
+  "term": "Remote cutting",
+  "definition": "Vaporizing thin sheet with a high-intensity beam and no assist gas.",
+  "section": "industry",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052"
+ },
+ {
   "term": "Remote interlock connector",
   "definition": "The connector US law requires on Class IIIb and IV laser systems; an emergency stop plugs into it.",
   "section": "lasers",
   "source_url": "https://www.law.cornell.edu/cfr/text/21/1040.10"
  },
  {
+  "term": "Resonant cavity",
+  "definition": "Usually two facing mirrors that send light back and forth through the gain medium, turning an amplifier into an oscillator.",
+  "section": "invention",
+  "source_url": "https://www.Britannica.Com/technology/laser/Fundamental-principles"
+ },
+ {
   "term": "Ruby laser",
   "definition": "The first laser (1960): a pulsed red source at 694 nm. It flashes, so it was no use for drawing.",
   "section": "history",
   "source_url": "https://photonics.com/Articles/Decades-of-Discoveries-Broadened-the-Laser/p5/a70982"
+ },
+ {
+  "term": "SAE AS6029",
+  "definition": "The standard an automated system must meet to replace human safety observers at an outdoor US show.",
+  "section": "festivals",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf"
  },
  {
   "term": "Safety observer",
@@ -552,6 +1212,18 @@
   "source_url": "https://www.law.cornell.edu/cfr/text/21/1040.10"
  },
  {
+  "term": "Security master control",
+  "definition": "The 2013 FDA proposal's term for the control that would replace the key switch requirement.",
+  "section": "regulation",
+  "source_url": "https://www.govinfo.gov/content/pkg/FR-2013-06-24/pdf/2013-14846.pdf"
+ },
+ {
+  "term": "Selective photothermolysis",
+  "definition": "Choosing a wavelength and pulse length so heat stays in one target - pigment, blood or ink - and spares the tissue around it.",
+  "section": "medicine",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
   "term": "Show-day rate",
   "definition": "What a laser company charges per day of show, worked out from equipment write-off, overhead and margin.",
   "section": "stage",
@@ -562,6 +1234,24 @@
   "definition": "A mechanical flag inside the projector that blocks the beam ahead of the scanners; the beam attenuator of the US rule.",
   "section": "lasers",
   "source_url": "https://laserfx.com/Works/Works3.html"
+ },
+ {
+  "term": "SLT (selective laser trabeculoplasty)",
+  "definition": "A laser treatment of the eye's drainage tissue that lowers eye pressure in glaucoma.",
+  "section": "medicine",
+  "source_url": "https://evidence.nihr.ac.uk/alert/a-laser-eye-procedure-can-be-effective-and-safe-if-used-early-as-treatment-for-glaucoma"
+ },
+ {
+  "term": "SMILE (small incision lenticule extraction)",
+  "definition": "A femtosecond laser cuts a small disc inside the cornea, which the surgeon removes through a small incision.",
+  "section": "medicine",
+  "source_url": "https://www.fda.gov/news-events/press-announcements/fda-approves-visumax-femtosecond-laser-surgically-treat-nearsightedness"
+ },
+ {
+  "term": "Spontaneous emission",
+  "definition": "An excited atom releasing light on its own, in a random direction.",
+  "section": "invention",
+  "source_url": "https://www.Britannica.Com/technology/laser/Fundamental-principles"
  },
  {
   "term": "Star operator",
@@ -576,10 +1266,28 @@
   "source_url": "https://laserfx.com/Works/Works2.html"
  },
  {
+  "term": "Strain",
+  "definition": "The fractional change in length a gravitational wave causes; 10^-21 for the 2015 detection.",
+  "section": "science",
+  "source_url": "https://physicstoday.aip.org/news/weiss-barish-and-thorne-share-2017-nobel-prize-in-physics"
+ },
+ {
+  "term": "Target designator",
+  "definition": "The laser that marks a target for a guided munition.",
+  "section": "defense",
+  "source_url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195858/"
+ },
+ {
   "term": "Teach track",
   "definition": "A track on Laserium's four-track show tape that helped new laserists learn the timing.",
   "section": "planetarium",
   "source_url": "https://patrickmccray.com/leaping-robot/2015/01/16/lasers-pot-smoke-and-the-visual-art-of-the-future"
+ },
+ {
+  "term": "Time of flight",
+  "definition": "Distance equals half the round-trip time of a light pulse multiplied by the speed of light.",
+  "section": "everyday",
+  "source_url": "https://www.digikey.at/en/blog/vcsels-put-lidar-into-apple-iphones-what-can-you-do"
  },
  {
   "term": "Timecode",
@@ -588,10 +1296,28 @@
   "source_url": "https://wiki.pangolin.com/beyond:timecode"
  },
  {
+  "term": "Track pitch",
+  "definition": "The spacing between neighboring turns of a disc's spiral track, about 320 nm on Blu-ray.",
+  "section": "everyday",
+  "source_url": "https://laserfocusworld.com/lasers-sources/article/16549547/photonics-applied-optical-data-storage-can-new-techniques-continue-to-densify-optical-data-storage-capacity"
+ },
+ {
   "term": "TTL",
   "definition": "On/off-only laser control, giving seven colors and no fades.",
   "section": "scanning",
   "source_url": "https://pangolin.com/blogs/news/laser-show-projector-specifications"
+ },
+ {
+  "term": "UDI",
+  "definition": "Unique Device Identifier; reusable, reprocessed US medical devices must carry it on the device itself.",
+  "section": "industry",
+  "source_url": "https://www.law.cornell.edu/cfr/text/21/801.45"
+ },
+ {
+  "term": "Unenhanced vision",
+  "definition": "The naked eye or eyes with ordinary corrective lenses, as Protocol IV uses the term.",
+  "section": "defense",
+  "source_url": "https://nuke.fas.org/control/ccw/text/protocol4.htm"
  },
  {
   "term": "Variable divergence",
@@ -612,6 +1338,12 @@
   "source_url": "https://www.fda.gov/media/72256/download"
  },
  {
+  "term": "VCSEL",
+  "definition": "Vertical-cavity surface-emitting laser, a tiny chip laser that emits from its surface, used in phone depth sensors.",
+  "section": "everyday",
+  "source_url": "https://www.digikey.at/en/blog/vcsels-put-lidar-into-apple-iphones-what-can-you-do"
+ },
+ {
   "term": "Vector (in show software)",
   "definition": "A point with automatic sample placement: the software adds samples along long lines and at corners.",
   "section": "programming",
@@ -624,6 +1356,12 @@
   "source_url": "https://laserfx.com/Works/Works5.html"
  },
  {
+  "term": "WDM",
+  "definition": "Wavelength division multiplexing: sending several closely spaced laser colors down one fiber to multiply capacity.",
+  "section": "everyday",
+  "source_url": "https://www.laserfocusworld.com/fiber-optics/article/16551090/optical-amplifiers-speed-data-flow-undersea"
+ },
+ {
   "term": "White-light laser",
   "definition": "A mixed argon/krypton ion laser that emits red, green and blue lines from one tube.",
   "section": "lasers",
@@ -634,5 +1372,11 @@
   "definition": "Drawing with one beam by steering it horizontally and vertically with two mirrors, the way an oscilloscope draws.",
   "section": "history",
   "source_url": "https://www.fzmw.de/2001/2001T1.htm"
+ },
+ {
+  "term": "Zoning",
+  "definition": "Software limits that keep beams out of set areas such as the audience, crew positions, balconies and glass.",
+  "section": "festivals",
+  "source_url": "https://eventsafetyalliance.org/member-newsletter/2024/05/31/laser-safety-in-practice"
  }
 ]

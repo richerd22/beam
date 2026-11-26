@@ -1,0 +1,42 @@
+[
+ {
+  "q": "Are laser weapons real, and does any military use them?",
+  "a": "Yes. The US Navy operated LaWS on USS Ponce in 2014 and installed HELIOS on USS Preble in 2022, and Israel delivered its first combat-ready Iron Beam system to the IDF in December 2025. The UK plans to fit DragonFire to a Type 45 destroyer by 2027.",
+  "section": "defense"
+ },
+ {
+  "q": "What was the first laser weapon used in combat?",
+  "a": "Israel said in May 2025 that high-power lasers had downed about 40 drones, which Defense News reported as a first in combat. Officials did not name the system, images showed Rafael's Lite Beam, and the Ministry of Defense said no Iron Beam components were involved.",
+  "section": "defense"
+ },
+ {
+  "q": "How much does it cost to fire a laser weapon?",
+  "a": "Governments quote the operating cost of one shot: the US Navy said less than a dollar for LaWS in 2014, and the UK MOD said about GBP 10 for DragonFire in 2025, against hundreds of thousands for a missile. Those figures leave out the cost of buying the system; DragonFire's contract was GBP 316 million.",
+  "section": "defense"
+ },
+ {
+  "q": "Why was the Airborne Laser 747 cancelled?",
+  "a": "After Missile Defense Agency funding was cut it became a science and technology effort in 2010, and the Defense Department ended its experiments. More than $5 billion had been invested, amid debate over its operational concept, cost and employment limitations; the jet flew to storage in February 2012.",
+  "section": "defense"
+ },
+ {
+  "q": "Is it legal to use lasers to blind soldiers?",
+  "a": "Protocol IV of 1995 bans laser weapons specifically designed to cause permanent blindness to unenhanced vision, and bans transferring them. It does not cover blinding as an incidental effect of legitimate military laser use, and it requires feasible precautions whenever any laser system is used.",
+  "section": "defense"
+ },
+ {
+  "q": "What is a laser dazzler?",
+  "a": "A visible laser meant to produce a temporary, reversible visual effect as a warning, at checkpoints or at sea. The US Defense Department says its dazzlers are designed to operate below maximum permissible exposure and get legal reviews before fielding.",
+  "section": "defense"
+ },
+ {
+  "q": "Did China point a laser at an Australian plane?",
+  "a": "Australia's Department of Defence said a PLA-Navy ship lit up an RAAF P-8A Poseidon with a laser on 17 February 2022 and called it a serious safety incident. USNI News reported that the PLA denied wrongdoing.",
+  "section": "defense"
+ },
+ {
+  "q": "Does Starlink use lasers?",
+  "a": "Yes. Reporting in February 2024 said Starlink's satellites used inter-satellite laser links to move about 42 petabytes of data a day.",
+  "section": "defense"
+ }
+]

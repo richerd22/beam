@@ -1,0 +1,146 @@
+[
+ {
+  "term": "Helium-neon laser",
+  "definition": "A gas laser with a red beam, used in the first supermarket barcode scanners.",
+  "section": "everyday",
+  "source_url": "https://si.edu/object/supermarket-scanner:nmah_892778"
+ },
+ {
+  "term": "Photodiode",
+  "definition": "A sensor that turns light into an electrical signal; scanners and disc players use them to read reflections.",
+  "section": "everyday",
+  "source_url": "https://si.edu/object/supermarket-scanner:nmah_892778"
+ },
+ {
+  "term": "Pit",
+  "definition": "A tiny pressed mark on a CD, DVD or Blu-ray that reflects light differently from the flat surface, encoding bits.",
+  "section": "everyday",
+  "source_url": "https://ebsco.com/research-starters/applied-sciences/optical-storage"
+ },
+ {
+  "term": "Diffraction limit",
+  "definition": "The smallest spot a lens can focus light into, set by the wavelength.",
+  "section": "everyday",
+  "source_url": "https://laserfocusworld.com/lasers-sources/article/16549547/photonics-applied-optical-data-storage-can-new-techniques-continue-to-densify-optical-data-storage-capacity"
+ },
+ {
+  "term": "Numerical aperture",
+  "definition": "How wide a cone of light a lens gathers. A higher value focuses a smaller spot; Blu-ray uses 0.85.",
+  "section": "everyday",
+  "source_url": "https://laserfocusworld.com/lasers-sources/article/16549547/photonics-applied-optical-data-storage-can-new-techniques-continue-to-densify-optical-data-storage-capacity"
+ },
+ {
+  "term": "Track pitch",
+  "definition": "The spacing between neighboring turns of a disc's spiral track, about 320 nm on Blu-ray.",
+  "section": "everyday",
+  "source_url": "https://laserfocusworld.com/lasers-sources/article/16549547/photonics-applied-optical-data-storage-can-new-techniques-continue-to-densify-optical-data-storage-capacity"
+ },
+ {
+  "term": "EDFA (erbium-doped fiber amplifier)",
+  "definition": "A stretch of fiber laced with erbium and pumped by a laser at 980 or 1480 nm, which boosts 1550 nm signals without turning them into electronics.",
+  "section": "everyday",
+  "source_url": "https://www.laserfocusworld.com/fiber-optics/article/16551090/optical-amplifiers-speed-data-flow-undersea"
+ },
+ {
+  "term": "WDM",
+  "definition": "Wavelength division multiplexing: sending several closely spaced laser colors down one fiber to multiply capacity.",
+  "section": "everyday",
+  "source_url": "https://www.laserfocusworld.com/fiber-optics/article/16551090/optical-amplifiers-speed-data-flow-undersea"
+ },
+ {
+  "term": "Lidar",
+  "definition": "Light detection and ranging: measuring distance by timing laser pulses.",
+  "section": "everyday",
+  "source_url": "https://www.digikey.at/en/blog/vcsels-put-lidar-into-apple-iphones-what-can-you-do"
+ },
+ {
+  "term": "Time of flight",
+  "definition": "Distance equals half the round-trip time of a light pulse multiplied by the speed of light.",
+  "section": "everyday",
+  "source_url": "https://www.digikey.at/en/blog/vcsels-put-lidar-into-apple-iphones-what-can-you-do"
+ },
+ {
+  "term": "VCSEL",
+  "definition": "Vertical-cavity surface-emitting laser, a tiny chip laser that emits from its surface, used in phone depth sensors.",
+  "section": "everyday",
+  "source_url": "https://www.digikey.at/en/blog/vcsels-put-lidar-into-apple-iphones-what-can-you-do"
+ },
+ {
+  "term": "Frye hearing",
+  "definition": "A US court hearing on whether a scientific method is generally accepted before evidence from it is admitted.",
+  "section": "everyday",
+  "source_url": "https://www.laserfocusworld.com/test-measurement/test-measurement/article/16568629/chicago-court-says-lidar-is-scientifically-admissible-for-speeding-tickets"
+ },
+ {
+  "term": "Michelson interferometer",
+  "definition": "An instrument that splits a laser beam down two arms and recombines it, so tiny changes in length show up as light. The core of LIGO.",
+  "section": "science",
+  "source_url": "https://physicstoday.aip.org/news/weiss-barish-and-thorne-share-2017-nobel-prize-in-physics"
+ },
+ {
+  "term": "Strain",
+  "definition": "The fractional change in length a gravitational wave causes; 10^-21 for the 2015 detection.",
+  "section": "science",
+  "source_url": "https://physicstoday.aip.org/news/weiss-barish-and-thorne-share-2017-nobel-prize-in-physics"
+ },
+ {
+  "term": "Hohlraum",
+  "definition": "The centimeter-sized gold cylinder at NIF that turns laser light into x-rays to squeeze the fuel capsule.",
+  "section": "science",
+  "source_url": "https://lmf.llnl.gov/science/achieving-fusion-ignition"
+ },
+ {
+  "term": "Ignition",
+  "definition": "A fusion shot that releases more energy than the laser energy delivered to the target.",
+  "section": "science",
+  "source_url": "https://lmf.llnl.gov/science/achieving-fusion-ignition"
+ },
+ {
+  "term": "Optical molasses",
+  "definition": "Crossed pairs of laser beams that slow atoms as if they were moving through syrup.",
+  "section": "science",
+  "source_url": "https://nobelprize.org/prizes/physics/1997/press-release"
+ },
+ {
+  "term": "Optical lattice clock",
+  "definition": "A clock that holds atoms in a grid of laser light and probes them with a clock laser at an optical frequency.",
+  "section": "science",
+  "source_url": "https://www.optica-opn.org/home/newsroom/2024/july/strontium_lattice_is_now_the_world_s_most_accurate_clock"
+ },
+ {
+  "term": "Corner cube retroreflector",
+  "definition": "A three-mirror prism that sends light straight back where it came from; Apollo 11's panel holds 100 of them.",
+  "section": "science",
+  "source_url": "https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/"
+ },
+ {
+  "term": "Laser guide star",
+  "definition": "An artificial star made by a laser exciting sodium atoms about 90 km up, used to correct telescope blur.",
+  "section": "science",
+  "source_url": "https://eso.org/public/blog/making-lgs-even-brighter/"
+ },
+ {
+  "term": "Adaptive optics",
+  "definition": "A deformable mirror that reshapes itself about 1000 times a second to cancel atmospheric blur.",
+  "section": "science",
+  "source_url": "https://eso.org/public/blog/making-lgs-even-brighter/"
+ },
+ {
+  "term": "Chirped pulse amplification",
+  "definition": "Stretching a laser pulse, amplifying it, then recompressing it to reach extreme peak power.",
+  "section": "science",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/"
+ },
+ {
+  "term": "Petawatt",
+  "definition": "10^15 watts of peak power, held for only femtoseconds.",
+  "section": "science",
+  "source_url": "https://optics.org/news/eli-np-laser-hits-10-petawatts-peak-power"
+ },
+ {
+  "term": "Optical tweezers",
+  "definition": "A tightly focused laser that can hold and move tiny objects, including living cells.",
+  "section": "science",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/"
+ }
+]

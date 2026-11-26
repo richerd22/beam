@@ -1,0 +1,122 @@
+[
+ {
+  "use": "Laser target designation for guided bombs",
+  "field": "Defense",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1968",
+  "what": "A laser marks a target and a laser-guided bomb steers toward the spot; the BOLT-117 was combat-evaluated in 1968, followed by the Paveway kits.",
+  "source_url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195858/"
+ },
+ {
+  "use": "Airborne missile-defense laser (Airborne Laser, YAL-1A)",
+  "field": "Defense",
+  "laser": "Chemical oxygen iodine laser (COIL) plus two solid-state lasers",
+  "wavelength": "",
+  "power": "Megawatt-class (official)",
+  "since": "2002",
+  "what": "A modified 747 tested against boosting missiles at Edwards AFB, 2002-2012; retired to storage in 2012.",
+  "source_url": "https://www.edwards.af.mil/News/Article/394579/airborne-laser-test-bed-bids-adieu-to-edwards"
+ },
+ {
+  "use": "Shipboard laser weapon (LaWS)",
+  "field": "Defense",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "2014",
+  "what": "US Navy prototype on USS Ponce, Persian Gulf, Sept-Nov 2014; small boat and ScanEagle drone targets; under $1 per shot (official claim, 2014).",
+  "source_url": "https://www.onr.navy.mil/media-center/news-releases/historic-leap-navy-shipboard-laser-operates-persian-gulf"
+ },
+ {
+  "use": "Shipboard laser weapon with dazzler and surveillance (HELIOS)",
+  "field": "Defense",
+  "laser": "",
+  "wavelength": "",
+  "power": "60-plus kW class (reported, 2025)",
+  "since": "2022",
+  "what": "Lockheed Martin system on USS Preble; fired at a drone in FY2024 testing.",
+  "source_url": "https://www.militarytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test"
+ },
+ {
+  "use": "Counter-drone laser in combat (Israel)",
+  "field": "Defense",
+  "laser": "High-power laser (system disputed: Lite Beam, Iron Beam-M)",
+  "wavelength": "",
+  "power": "",
+  "since": "2025",
+  "what": "Israel said about 40 drones were downed in 2025; the Ministry of Defense said no Iron Beam components were involved.",
+  "source_url": "https://www.defensenews.com/global/mideast-africa/2025/05/30/israel-claims-drone-interceptions-with-high-power-lasers/"
+ },
+ {
+  "use": "Laser air defense against rockets, mortars and drones (Iron Beam)",
+  "field": "Defense",
+  "laser": "High-power laser (Rafael; laser by Elbit Systems)",
+  "wavelength": "",
+  "power": "",
+  "since": "2025",
+  "what": "Declared operational September 2025; first combat-ready system delivered to the IDF in December 2025.",
+  "source_url": "https://www.timesofisrael.com/defense-ministry-hands-idf-first-combat-ready-iron-beam-laser-interception-system"
+ },
+ {
+  "use": "Naval counter-drone laser (DragonFire)",
+  "field": "Defense",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "2025",
+  "what": "UK MOD says it downed drones at up to 650 km/h; due on a Type 45 destroyer by 2027; about GBP 10 per shot (official claim, 2025).",
+  "source_url": "https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones"
+ },
+ {
+  "use": "Naval laser demonstrator (Germany)",
+  "field": "Defense",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "2022",
+  "what": "Installed on the frigate Sachsen in June 2022; more than 100 test firings, drones downed (company statement, 2023).",
+  "source_url": "https://www.rheinmetall.com/en/media/news-watch/news/2023/9/2023-09-22-laser-weapon-trials-at-sea"
+ },
+ {
+  "use": "Vehicle-mounted counter-drone laser (India Mk-II(A))",
+  "field": "Defense",
+  "laser": "",
+  "wavelength": "",
+  "power": "30 kW class (official)",
+  "since": "2025",
+  "what": "DRDO demonstration against a fixed-wing drone and swarm drones, 13 April 2025.",
+  "source_url": "https://www.newsonair.gov.in/india-demonstrates-laser-weapon-capability-joins-elite-global-club"
+ },
+ {
+  "use": "Non-lethal dazzler (optical distracter)",
+  "field": "Defense",
+  "laser": "Visible laser",
+  "wavelength": "",
+  "power": "Designed below maximum permissible exposure (official)",
+  "since": "",
+  "what": "Temporary, reversible glare to hail and warn at checkpoints and at sea; fielded US examples include the LA-9/P and GLARE MOUT.",
+  "source_url": "https://jifco.defense.gov/Press-Room/Fact-Sheets/Article-View-Fact-sheets/Article/577997/non-lethal-optical-distracters/"
+ },
+ {
+  "use": "Long-range naval ocular interrupter",
+  "field": "Defense",
+  "laser": "Visible laser",
+  "wavelength": "",
+  "power": "",
+  "since": "2024",
+  "what": "US Navy Long Range Ocular Interrupter reached initial operational capability in fiscal 2024.",
+  "source_url": "https://media.defense.gov/2025/Dec/30/2003849712/-1/-1/0/250922_OCULARINTERRUPTERS_FACTSHEET_WEB.PDF"
+ },
+ {
+  "use": "Inter-satellite laser communication links",
+  "field": "Space communications",
+  "laser": "Infrared laser",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Starlink satellites relay data to each other by laser, about 42 petabytes a day (reported, 2024).",
+  "source_url": "https://www.lightnowblog.com/2024/02/ir-lasers-link-9000-starlink-satellites-and-move-42-million-gb-per-day/"
+ }
+]

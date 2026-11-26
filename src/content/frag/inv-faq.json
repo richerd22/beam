@@ -1,0 +1,37 @@
+[
+ {
+  "q": "Who really invented the laser - Gould, Townes or Maiman?",
+  "a": "Einstein described stimulated emission in 1917, Schawlow and Townes published the design for an optical maser in 1958, and Gordon Gould wrote up his own laser ideas in a notarized notebook in November 1957. Theodore Maiman built the first laser that worked, a ruby laser, on May 16, 1960. Townes and Schawlow won Nobel Prizes; Gould won four basic US patents after a 30-year fight; Maiman won neither.",
+  "section": "invention"
+ },
+ {
+  "q": "What does LASER stand for and who came up with the name?",
+  "a": "Light amplification by stimulated emission of radiation. The first recorded use of the acronym is in Gordon Gould's November 1957 notebook, and it echoes maser, the microwave version Charles Townes named in April 1954.",
+  "section": "invention"
+ },
+ {
+  "q": "How does a laser work, in simple terms?",
+  "a": "Energy is pumped into a material until more of its atoms are excited than resting, a population inversion. A passing photon then triggers identical photons by stimulated emission, and two mirrors bounce them back and forth through the material, building a beam that leaves through the partly reflective mirror.",
+  "section": "invention"
+ },
+ {
+  "q": "What was the first laser and when was it made?",
+  "a": "A ruby laser built by Theodore Maiman with Irnee d'Haenens at Hughes Research Laboratories, which first showed laser action on May 16, 1960. Physical Review Letters rejected his report, and Nature published it on August 6, 1960.",
+  "section": "invention"
+ },
+ {
+  "q": "How much money did Gordon Gould make from the laser patent?",
+  "a": "Accounts differ. In 1989 he expected close to $2 million a year once all licensees signed; Wikipedia says he earned several million dollars after signing away 80% of the proceeds to fund litigation, and Innovate Long Island estimates a $30 million payday.",
+  "section": "invention"
+ },
+ {
+  "q": "What Nobel Prizes have been given for lasers?",
+  "a": "The 1964 Physics prize went to Townes, Basov and Prokhorov for the maser-laser principle; 1981 to Bloembergen and Schawlow for laser spectroscopy; 1997 for laser cooling and trapping of atoms; 2018 to Ashkin, Mourou and Strickland; and 2023 for attosecond pulses of light.",
+  "section": "invention"
+ },
+ {
+  "q": "What is the difference between a Q-switched and a mode-locked laser?",
+  "a": "Q-switching stores gain and releases it as one intense pulse, typically nanoseconds long at about 10 Hz to 100 kHz. Mode-locking locks the cavity's modes in phase to make trains of picosecond or femtosecond pulses at MHz to GHz rates.",
+  "section": "invention"
+ }
+]

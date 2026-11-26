@@ -1,0 +1,42 @@
+[
+ {
+  "q": "When did the FDA approve LASIK?",
+  "a": "FDA's list of approved LASIK lasers starts with the Kremer Excimer Laser System, approved July 30, 1998. IBM's history of the excimer laser gives 1997. The first refractive excimer laser on FDA's PRK list was approved March 10, 1995.",
+  "section": "medicine"
+ },
+ {
+  "q": "How common are halos and dry eye after LASIK?",
+  "a": "In the FDA-led PROWL studies (2017), 43% and 46% of participants reported a new visual symptom such as glare, halos or starbursts within three months. About 28% of people with normal dry-eye scores before surgery had dry-eye symptoms at three months. Only 1-2% were dissatisfied with the surgery.",
+  "section": "medicine"
+ },
+ {
+  "q": "How did a Thanksgiving turkey lead to LASIK?",
+  "a": "In November 1981 IBM researchers aimed an excimer laser at leftover turkey cartilage and found it removed tissue cleanly with little heat. Corneal experiments followed in 1983, and the first laser vision correction on a sighted person came in March 1988.",
+  "section": "medicine"
+ },
+ {
+  "q": "What is the difference between LASIK, PRK and SMILE?",
+  "a": "PRK reshapes the corneal surface with an excimer laser and no flap. LASIK reshapes the cornea under a flap that is laid back down. SMILE uses a femtosecond laser to cut a small disc inside the cornea that is removed through a small incision.",
+  "section": "medicine"
+ },
+ {
+  "q": "Can laser hair removal burn you?",
+  "a": "Litigation studies say burns are the most common injury in claims: 77% of 69 skin laser liability claims from 2012 to 2020 involved burns, and 64% involved hair removal. These are court and claim records, and neither study gives a rate per treatment.",
+  "section": "medicine"
+ },
+ {
+  "q": "Does 'FDA cleared' mean a laser hair-growth device works?",
+  "a": "Clearance through 510(k) means FDA found the device substantially equivalent to one already on the market, not that it passed premarket approval. A 2021 meta-analysis of cleared home devices pooled only seven double-blind trials with follow-up of 26 weeks at most.",
+  "section": "medicine"
+ },
+ {
+  "q": "Can a laser pointer blind a child?",
+  "a": "Case series describe macular injuries in children from laser pointers, including four boys in a 2016 Pediatrics report, three with possibly irreversible vision loss. FDA says laser pointers are not toys and recommends toys stay within IEC Class 1.",
+  "section": "medicine"
+ },
+ {
+  "q": "Is SLT laser better than eye drops for glaucoma?",
+  "a": "In the UK LiGHT trial (2019), 74.2% of patients given SLT first needed no drops to stay at target pressure after three years. The trial estimated a saving of GBP 451 per patient in specialist eye care costs.",
+  "section": "medicine"
+ }
+]

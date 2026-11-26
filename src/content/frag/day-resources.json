@@ -1,0 +1,42 @@
+[
+ {
+  "title": "Smithsonian NMAH: Supermarket Scanner",
+  "url": "https://si.edu/object/supermarket-scanner:nmah_892778",
+  "why": "The actual 1974 scanner, with how it worked."
+ },
+ {
+  "title": "TeleGeography: Do Submarine Cables Account For Over 99% of Intercontinental Data Traffic?",
+  "url": "https://resources.telegeography.com/2023-mythbusting-part-3",
+  "why": "The clearest check on how much data rides on subsea fiber."
+ },
+ {
+  "title": "LLNL: Achieving Fusion Ignition",
+  "url": "https://lmf.llnl.gov/science/achieving-fusion-ignition",
+  "why": "The official, dated list of every NIF ignition shot."
+ },
+ {
+  "title": "LIGO Caltech: LIGO Detected Gravitational Waves from Black Holes",
+  "url": "https://www.ligo.caltech.edu/detection",
+  "why": "The detection story from the lab, with links to educational material."
+ },
+ {
+  "title": "NASA: Deep Space Optical Communications demo results",
+  "url": "https://nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-deep-space-communications-demo-exceeds-project-expectations",
+  "why": "Official end-of-mission figures for laser links from deep space."
+ },
+ {
+  "title": "ESO blog: Making Laser Guide Stars Even Brighter",
+  "url": "https://eso.org/public/blog/making-lgs-even-brighter/",
+  "why": "A clear explainer on guide star lasers, with photos from Paranal."
+ },
+ {
+  "title": "NobelPrize.org: The Nobel Prize in Physics 2018",
+  "url": "https://www.nobelprize.org/prizes/physics/2018/press-release/",
+  "why": "Plain-language explainer of optical tweezers and chirped pulse amplification."
+ },
+ {
+  "title": "FDA: Consumer Update on laser toys and pointers",
+  "url": "https://www.fda.gov/ForConsumers/ConsumerUpdates/ucm363908.htm",
+  "why": "Official US guidance on toy and pointer lasers."
+ }
+]

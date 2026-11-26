@@ -1,0 +1,32 @@
+[
+ {
+  "title": "FDA - Laser Light Shows",
+  "url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows",
+  "why": "The official list of forms and who needs a variance."
+ },
+ {
+  "title": "FAA - Laws & Regulations - Lasers",
+  "url": "https://www.faa.gov/about/initiatives/lasers/laws",
+  "why": "Yearly laser strike counts and the penalties, from the agency that counts them."
+ },
+ {
+  "title": "FDA - Import Alert 95-04",
+  "url": "https://www.accessdata.fda.gov/CMS_IA/importalert_254.html",
+  "why": "The product types, violations and firms FDA holds at the border."
+ },
+ {
+  "title": "LasershowSafety.info (ILDA) - Laser show incidents and accidents",
+  "url": "https://www.lasershowsafety.info/incidents.html",
+  "why": "The fullest public list of audience-injury reports, each with its source."
+ },
+ {
+  "title": "Canada Gazette - SOR/2024-196",
+  "url": "https://gazette.gc.ca/rp-pr/p2/2024/2024-10-09/html/sor-dors196-eng.html",
+  "why": "A recent national rewrite on IEC 60825-1, with Canada's injury and labeling data."
+ },
+ {
+  "title": "Justia - USA v. Sergio Rodriguez (9th Cir. 2016)",
+  "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/15-10495/15-10495-2016-10-25.html",
+  "why": "How an appeals court reads the federal laser-at-aircraft statute."
+ }
+]

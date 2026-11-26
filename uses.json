@@ -1,0 +1,862 @@
+[
+ {
+  "use": "Metal 3D printing (laser powder bed fusion)",
+  "field": "Aerospace / manufacturing",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "2004 (GE LEAP nozzle development)",
+  "what": "Melts metal powder layer by layer; GE LEAP fuel nozzle consolidated about 20 parts into one, 25% lighter",
+  "source_url": "https://laserfocusworld.com/industrial-laser-solutions/article/14216415/additive-manufacturing-at-ge-aviation"
+ },
+ {
+  "use": "Laser guide stars",
+  "field": "astronomy",
+  "laser": "TOPTICA-MPBC",
+  "wavelength": "sodium line",
+  "power": "22 W per unit (VLT, 2018)",
+  "since": "",
+  "what": "Excites sodium about 90 km up to make an artificial star for adaptive optics.",
+  "source_url": "https://eso.org/public/blog/making-lgs-even-brighter/"
+ },
+ {
+  "use": "Battery busbar and cell welding",
+  "field": "Automotive / e-mobility",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Welds busbars joining cells into modules and packs (Al/Al, Cu/Cu, Al/Cu), seals cells gas-tight, welds trays and housings",
+  "source_url": "https://www.trumpf.com/en_GB/industries/automotive/e-mobility/"
+ },
+ {
+  "use": "Copper contact welding (green laser)",
+  "field": "Automotive / e-mobility",
+  "laser": "Green-wavelength disk laser",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Maker says it welds copper contacts with practically no spatter",
+  "source_url": "https://www.trumpf.com/en_GB/industries/automotive/e-mobility/"
+ },
+ {
+  "use": "Hairpin stator and drivetrain welding",
+  "field": "Automotive / e-mobility",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Welds hairpin stators for e-motors, rotor shafts, gears and fuel-cell bipolar plates",
+  "source_url": "https://www.trumpf.com/en_GB/industries/automotive/e-mobility/"
+ },
+ {
+  "use": "Optical tweezers",
+  "field": "biology and physics",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1987",
+  "what": "Focused laser light holds and moves particles, atoms, viruses and living cells.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/"
+ },
+ {
+  "use": "Telephone call over a laser beam",
+  "field": "communications",
+  "laser": "helium-neon",
+  "wavelength": "1.15 micrometers",
+  "power": "",
+  "since": "1960-12-13",
+  "what": "Javan's team carried a telephone call over the first helium-neon beam the day after it first ran.",
+  "source_url": "https://lemelson.mit.edu/resources/ali-javan"
+ },
+ {
+  "use": "Laser pointers",
+  "field": "consumer",
+  "laser": "",
+  "wavelength": "",
+  "power": "FDA: do not buy over 5 mW (2023 guidance)",
+  "since": "",
+  "what": "Hand-held pointers; many tested above their labeled power.",
+  "source_url": "https://www.aao.org/eye-health/news/laser-pointer-eye-injury"
+ },
+ {
+  "use": "Laser toys and cat toys",
+  "field": "consumer",
+  "laser": "",
+  "wavelength": "",
+  "power": "FDA: toys within IEC Class 1 (2023 guidance)",
+  "since": "",
+  "what": "FDA lists laser cat toys as an example of laser toys.",
+  "source_url": "https://www.fda.gov/ForConsumers/ConsumerUpdates/ucm363908.htm"
+ },
+ {
+  "use": "Desktop engraving (open frame)",
+  "field": "Consumer / hobby",
+  "laser": "Creality Falcon2",
+  "wavelength": "",
+  "power": "22 W, Class 4",
+  "since": "",
+  "what": "UK regulator found it excessively strong for consumer use and rejected the import at the border (2024)",
+  "source_url": "https://gov.uk/product-safety-alerts-reports-recalls/product-safety-report-falcon2-magical-colorful-engraving-machine-2310-0021"
+ },
+ {
+  "use": "Desktop engraving and cutting (enclosed)",
+  "field": "Consumer / hobby",
+  "laser": "Diode laser module (Bambu Lab H2D)",
+  "wavelength": "455 nm and 850 nm",
+  "power": "10 W ± 1 W (maker spec)",
+  "since": "2021 (xTool D1 launch)",
+  "what": "Class 4 module inside a machine rated Class 1 when its protection is complete and working",
+  "source_url": "https://wiki.bambulab.com/h2/laser-safety-document"
+ },
+ {
+  "use": "BDXL discs",
+  "field": "consumer electronics",
+  "laser": "",
+  "wavelength": "405 nm",
+  "power": "",
+  "since": "",
+  "what": "Multilayer Blu-ray: 100 GB (3 layers), 128 GB (4 layers).",
+  "source_url": "https://laserfocusworld.com/lasers-sources/article/16549547/photonics-applied-optical-data-storage-can-new-techniques-continue-to-densify-optical-data-storage-capacity"
+ },
+ {
+  "use": "Blu-ray player",
+  "field": "consumer electronics",
+  "laser": "",
+  "wavelength": "405 nm",
+  "power": "",
+  "since": "",
+  "what": "Blue-violet laser with a 0.85 numerical aperture lens; 25 GB single layer, 50 GB dual layer.",
+  "source_url": "https://ebsco.com/research-starters/applied-sciences/optical-storage"
+ },
+ {
+  "use": "CD player",
+  "field": "consumer electronics",
+  "laser": "",
+  "wavelength": "780 nm",
+  "power": "",
+  "since": "",
+  "what": "Reads pits on the disc; about 700 MB.",
+  "source_url": "https://ebsco.com/research-starters/applied-sciences/optical-storage"
+ },
+ {
+  "use": "DVD player",
+  "field": "consumer electronics",
+  "laser": "",
+  "wavelength": "650 nm",
+  "power": "",
+  "since": "",
+  "what": "Reads smaller pits; 4.7 GB single layer, 8.5 GB dual layer.",
+  "source_url": "https://ebsco.com/research-starters/applied-sciences/optical-storage"
+ },
+ {
+  "use": "Laser mouse",
+  "field": "consumer electronics",
+  "laser": "laser sensor (Agilent)",
+  "wavelength": "",
+  "power": "",
+  "since": "2004",
+  "what": "A laser lights the desk for a tiny camera that tracks surface texture; 800 counts per inch.",
+  "source_url": "https://www.investor.agilent.com/news-and-events/news/news-details/2004/Agilent-Technologies-Revolutionary-Sensor-Technology-Powers-Logitechs-New-Laser-Mouse/default.aspx"
+ },
+ {
+  "use": "Phone and tablet lidar",
+  "field": "consumer electronics",
+  "laser": "VCSEL",
+  "wavelength": "",
+  "power": "",
+  "since": "2020",
+  "what": "Time-of-flight depth sensing to about 5 m for augmented reality, autofocus and Night mode portraits.",
+  "source_url": "https://www.digikey.at/en/blog/vcsels-put-lidar-into-apple-iphones-what-can-you-do"
+ },
+ {
+  "use": "Airborne missile-defense laser (Airborne Laser, YAL-1A)",
+  "field": "Defense",
+  "laser": "Chemical oxygen iodine laser (COIL) plus two solid-state lasers",
+  "wavelength": "",
+  "power": "Megawatt-class (official)",
+  "since": "2002",
+  "what": "A modified 747 tested against boosting missiles at Edwards AFB, 2002-2012; retired to storage in 2012.",
+  "source_url": "https://www.edwards.af.mil/News/Article/394579/airborne-laser-test-bed-bids-adieu-to-edwards"
+ },
+ {
+  "use": "Counter-drone laser in combat (Israel)",
+  "field": "Defense",
+  "laser": "High-power laser (system disputed: Lite Beam, Iron Beam-M)",
+  "wavelength": "",
+  "power": "",
+  "since": "2025",
+  "what": "Israel said about 40 drones were downed in 2025; the Ministry of Defense said no Iron Beam components were involved.",
+  "source_url": "https://www.defensenews.com/global/mideast-africa/2025/05/30/israel-claims-drone-interceptions-with-high-power-lasers/"
+ },
+ {
+  "use": "Laser air defense against rockets, mortars and drones (Iron Beam)",
+  "field": "Defense",
+  "laser": "High-power laser (Rafael; laser by Elbit Systems)",
+  "wavelength": "",
+  "power": "",
+  "since": "2025",
+  "what": "Declared operational September 2025; first combat-ready system delivered to the IDF in December 2025.",
+  "source_url": "https://www.timesofisrael.com/defense-ministry-hands-idf-first-combat-ready-iron-beam-laser-interception-system"
+ },
+ {
+  "use": "Laser target designation for guided bombs",
+  "field": "Defense",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1968",
+  "what": "A laser marks a target and a laser-guided bomb steers toward the spot; the BOLT-117 was combat-evaluated in 1968, followed by the Paveway kits.",
+  "source_url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195858/"
+ },
+ {
+  "use": "Long-range naval ocular interrupter",
+  "field": "Defense",
+  "laser": "Visible laser",
+  "wavelength": "",
+  "power": "",
+  "since": "2024",
+  "what": "US Navy Long Range Ocular Interrupter reached initial operational capability in fiscal 2024.",
+  "source_url": "https://media.defense.gov/2025/Dec/30/2003849712/-1/-1/0/250922_OCULARINTERRUPTERS_FACTSHEET_WEB.PDF"
+ },
+ {
+  "use": "Naval counter-drone laser (DragonFire)",
+  "field": "Defense",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "2025",
+  "what": "UK MOD says it downed drones at up to 650 km/h; due on a Type 45 destroyer by 2027; about GBP 10 per shot (official claim, 2025).",
+  "source_url": "https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones"
+ },
+ {
+  "use": "Naval laser demonstrator (Germany)",
+  "field": "Defense",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "2022",
+  "what": "Installed on the frigate Sachsen in June 2022; more than 100 test firings, drones downed (company statement, 2023).",
+  "source_url": "https://www.rheinmetall.com/en/media/news-watch/news/2023/9/2023-09-22-laser-weapon-trials-at-sea"
+ },
+ {
+  "use": "Non-lethal dazzler (optical distracter)",
+  "field": "Defense",
+  "laser": "Visible laser",
+  "wavelength": "",
+  "power": "Designed below maximum permissible exposure (official)",
+  "since": "",
+  "what": "Temporary, reversible glare to hail and warn at checkpoints and at sea; fielded US examples include the LA-9/P and GLARE MOUT.",
+  "source_url": "https://jifco.defense.gov/Press-Room/Fact-Sheets/Article-View-Fact-sheets/Article/577997/non-lethal-optical-distracters/"
+ },
+ {
+  "use": "Shipboard laser weapon (LaWS)",
+  "field": "Defense",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "2014",
+  "what": "US Navy prototype on USS Ponce, Persian Gulf, Sept-Nov 2014; small boat and ScanEagle drone targets; under $1 per shot (official claim, 2014).",
+  "source_url": "https://www.onr.navy.mil/media-center/news-releases/historic-leap-navy-shipboard-laser-operates-persian-gulf"
+ },
+ {
+  "use": "Shipboard laser weapon with dazzler and surveillance (HELIOS)",
+  "field": "Defense",
+  "laser": "",
+  "wavelength": "",
+  "power": "60-plus kW class (reported, 2025)",
+  "since": "2022",
+  "what": "Lockheed Martin system on USS Preble; fired at a drone in FY2024 testing.",
+  "source_url": "https://www.militarytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test"
+ },
+ {
+  "use": "Vehicle-mounted counter-drone laser (India Mk-II(A))",
+  "field": "Defense",
+  "laser": "",
+  "wavelength": "",
+  "power": "30 kW class (official)",
+  "since": "2025",
+  "what": "DRDO demonstration against a fixed-wing drone and swarm drones, 13 April 2025.",
+  "source_url": "https://www.newsonair.gov.in/india-demonstrates-laser-weapon-capability-joins-elite-global-club"
+ },
+ {
+  "use": "Caries removal and restorations",
+  "field": "dentistry",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "FDA has cleared lasers for removing decay and tooth-colored restorations.",
+  "source_url": "https://www.aae.org/wp-content/uploads/2019/10/UseOfLasersInDentistry_PositionStatement_v1.pdf"
+ },
+ {
+  "use": "Root canal adjunct",
+  "field": "dentistry",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Cleared as an adjunct; clinical benefit of laser disinfection not known (AAE, 2019).",
+  "source_url": "https://www.aae.org/wp-content/uploads/2019/10/UseOfLasersInDentistry_PositionStatement_v1.pdf"
+ },
+ {
+  "use": "Soft tissue dental surgery",
+  "field": "dentistry",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "FDA has cleared lasers for gum and other soft tissue work.",
+  "source_url": "https://www.aae.org/wp-content/uploads/2019/10/UseOfLasersInDentistry_PositionStatement_v1.pdf"
+ },
+ {
+  "use": "Fractional resurfacing",
+  "field": "dermatology",
+  "laser": "Fractional (Fraxel)",
+  "wavelength": "",
+  "power": "",
+  "since": "2000s",
+  "what": "Treats skin in columns with untreated skin between; FDA-cleared in the early 2000s.",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "use": "Hair removal",
+  "field": "dermatology",
+  "laser": "Ruby",
+  "wavelength": "",
+  "power": "",
+  "since": "1990s",
+  "what": "Developed by Anderson and Grossman; an expert calls it the most common laser treatment in medicine.",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "use": "Home hair-growth devices (LLLT)",
+  "field": "dermatology",
+  "laser": "Low-level red light",
+  "wavelength": "about 650 nm (620-678 nm)",
+  "power": "",
+  "since": "2007",
+  "what": "First FDA-cleared device for male pattern hair loss in 2007; 32 cleared home-use devices on the US market as of January 5, 2020.",
+  "source_url": "https://jcadonline.com/laser-therapy-hair-loss"
+ },
+ {
+  "use": "Port-wine stain treatment",
+  "field": "dermatology",
+  "laser": "Pulsed dye",
+  "wavelength": "",
+  "power": "",
+  "since": "1989",
+  "what": "Targets blood vessels to treat port-wine stains without scarring.",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "use": "Skin resurfacing",
+  "field": "dermatology",
+  "laser": "CO2, erbium YAG",
+  "wavelength": "",
+  "power": "",
+  "since": "1990s",
+  "what": "Scanning systems made computer-controlled resurfacing possible in the early 1990s.",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "use": "Tattoo and pigmented lesion removal",
+  "field": "dermatology",
+  "laser": "Picosecond (PicoSure)",
+  "wavelength": "",
+  "power": "",
+  "since": "2013",
+  "what": "First picosecond laser for tattoos, FDA-cleared by January 2, 2013.",
+  "source_url": "https://www.laserfocusworld.com/biooptics/biomedicine/article/14191898/cynosure-receives-fda-approval-for-first-picosecond-laser-to-remove-tattoos-benign-pigmented-lesions"
+ },
+ {
+  "use": "Tattoo removal",
+  "field": "dermatology",
+  "laser": "Q-switched",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Short pulses break up tattoo ink.",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology"
+ },
+ {
+  "use": "Excimer laser annealing of display backplanes",
+  "field": "Displays",
+  "laser": "Excimer laser (line beam)",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Recrystallizes amorphous silicon into LTPS with up to 200x mobility for AMOLED phone displays (company claim)",
+  "source_url": "https://www.coherent.com/news/blog/laser-annealing-flat-panel-displays"
+ },
+ {
+  "use": "Inertial confinement fusion (NIF)",
+  "field": "energy research",
+  "laser": "192 beams",
+  "wavelength": "",
+  "power": "2.05 MJ per ignition shot (2022)",
+  "since": "2022",
+  "what": "Laser-made x-rays implode a fuel capsule; first ignition December 5, 2022, 3.15 MJ out.",
+  "source_url": "https://lmf.llnl.gov/science/achieving-fusion-ignition"
+ },
+ {
+  "use": "Police lidar speed enforcement",
+  "field": "law enforcement",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Laser speed readings ruled admissible in Chicago Traffic Court on February 10, 2010.",
+  "source_url": "https://www.laserfocusworld.com/test-measurement/test-measurement/article/16568629/chicago-court-says-lidar-is-scientifically-admissible-for-speeding-tickets"
+ },
+ {
+  "use": "Drilling, soldering, heat treating, scribing, sealing, balancing",
+  "field": "Manufacturing",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Listed by OSHA among industrial laser applications",
+  "source_url": "https://www.osha.gov/otm/section-3-health-hazards/chapter-6"
+ },
+ {
+  "use": "Remote cutting",
+  "field": "Manufacturing",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "A high-intensity beam vaporizes thin sheet with no assist gas",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052"
+ },
+ {
+  "use": "Sheet metal cutting (CO2)",
+  "field": "Manufacturing",
+  "laser": "CO2 laser",
+  "wavelength": "about 10.6 µm",
+  "power": "4-6 kW typical (reported, 2016)",
+  "since": "1960s",
+  "what": "Melts or burns a kerf through steel, stainless and aluminum with nitrogen or oxygen assist gas; faster than fiber on material over 5 mm at equal power",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052"
+ },
+ {
+  "use": "Sheet metal cutting (fiber)",
+  "field": "Manufacturing",
+  "laser": "Fiber laser",
+  "wavelength": "",
+  "power": "2-12 kW at Fabtech 2014; 30 kW called mainstream in China, 2024 (estimate)",
+  "since": "",
+  "what": "Outsold CO2 for cutting from 2015; about 200 in/min on 1/4 in mild steel at 6 kW with nitrogen (reported, 2016)",
+  "source_url": "https://laserfocusworld.com/industrial-laser-solutions/article/14216470/fiber-laser-cutting-drives-a-power-revolution"
+ },
+ {
+  "use": "Laser cleaning and coating removal",
+  "field": "Manufacturing / maintenance",
+  "laser": "Pulsed laser",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Ablates paint, rubber, insulation or rust; cleans electronics contacts and tire molds; strips paint from bridges, aircraft and ships",
+  "source_url": "https://www.twi-global.com/technical-knowledge/faqs/faq-what-is-laser-surface-cleaning"
+ },
+ {
+  "use": "Direct UDI marking of reusable medical devices",
+  "field": "Medical devices",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "21 CFR 801.45 requires a permanent UDI on devices used more than once and reprocessed; the rule names no marking method",
+  "source_url": "https://www.law.cornell.edu/cfr/text/21/801.45"
+ },
+ {
+  "use": "Eye surgery with chirped pulse amplification",
+  "field": "medicine",
+  "laser": "chirped pulse amplified ultrashort-pulse laser",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "The Nobel committee says chirped pulse amplification is used in millions of eye operations a year (2018).",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/"
+ },
+ {
+  "use": "First medical laser treatment of a human patient",
+  "field": "medicine",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1961-12",
+  "what": "The Photonics Spectra timeline records the first medical laser treatment of a human patient in December 1961.",
+  "source_url": "https://photonics.com/LinearChart.aspx?ChartID=2"
+ },
+ {
+  "use": "Laser interstitial thermal therapy (Visualase)",
+  "field": "neurosurgery",
+  "laser": "",
+  "wavelength": "800-1064 nm",
+  "power": "",
+  "since": "2007",
+  "what": "A laser fiber in the brain ablates epileptic foci and tumors under MRI temperature tracking; used since 2007 (maker).",
+  "source_url": "https://www.medtronic.com/en-us/healthcare-professionals/specialties/neurology/therapies-procedures/laser-ablation-brain-tumors.html"
+ },
+ {
+  "use": "Surface decontamination (scabbling)",
+  "field": "Nuclear / maintenance",
+  "laser": "Pulsed laser",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Removes the whole top layer, for example radioactive concrete",
+  "source_url": "https://www.twi-global.com/technical-knowledge/faqs/faq-what-is-laser-surface-cleaning"
+ },
+ {
+  "use": "Laser printer",
+  "field": "office",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1971",
+  "what": "A laser writes the page onto a xerographic copier process; Xerox 9700 launched 1977.",
+  "source_url": "https://ethw.org/Milestones:Development_of_the_Commercial_Laser_Printer%2C_1971-1977"
+ },
+ {
+  "use": "Photodynamic therapy (porfimer sodium)",
+  "field": "oncology",
+  "laser": "",
+  "wavelength": "630 nm",
+  "power": "",
+  "since": "1995",
+  "what": "Laser light activates Photofrin 40-50 hours after injection to kill cancer cells.",
+  "source_url": "https://Drugs.com/pro/photofrin.html"
+ },
+ {
+  "use": "Laser iridectomy",
+  "field": "ophthalmology",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1973",
+  "what": "A laser opening in the iris for glaucoma.",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
+  "use": "LASIK",
+  "field": "ophthalmology",
+  "laser": "Excimer",
+  "wavelength": "",
+  "power": "",
+  "since": "1998",
+  "what": "Reshapes the cornea under a flap; first FDA-approved laser July 30, 1998 (IBM says 1997).",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/list-fda-approved-lasers-lasik"
+ },
+ {
+  "use": "LASIK corneal flap cutting",
+  "field": "ophthalmology",
+  "laser": "Femtosecond",
+  "wavelength": "",
+  "power": "",
+  "since": "1998",
+  "what": "Cuts the corneal flap; first reported by Kurtz and colleagues in 1998.",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
+  "use": "Pattern scanning retinal laser (PASCAL)",
+  "field": "ophthalmology",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "2006",
+  "what": "Computer-guided pattern scanning photocoagulation.",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
+  "use": "Posterior capsulotomy",
+  "field": "ophthalmology",
+  "laser": "Nd:YAG",
+  "wavelength": "",
+  "power": "",
+  "since": "1979 or 1980",
+  "what": "Opens the clouded lens capsule after cataract surgery.",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
+  "use": "PRK",
+  "field": "ophthalmology",
+  "laser": "Excimer",
+  "wavelength": "",
+  "power": "",
+  "since": "1995",
+  "what": "Reshapes the corneal surface without a flap; first FDA approval March 10, 1995.",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/fda-approved-lasers-prk-and-other-refractive-surgeries"
+ },
+ {
+  "use": "Retinal photocoagulation",
+  "field": "ophthalmology",
+  "laser": "Argon",
+  "wavelength": "",
+  "power": "",
+  "since": "1969",
+  "what": "Laser heat seals or destroys retinal tissue, as in diabetic retinopathy; commercial slit-lamp units from 1970.",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf"
+ },
+ {
+  "use": "Retinal tumor treatment (first patient)",
+  "field": "ophthalmology",
+  "laser": "Ruby",
+  "wavelength": "",
+  "power": "",
+  "since": "1961",
+  "what": "One ruby pulse of about a thousandth of a second destroyed a retinal angioma.",
+  "source_url": "https://healthmatters.nyp.org/ruby-laser/"
+ },
+ {
+  "use": "Selective laser trabeculoplasty (SLT)",
+  "field": "ophthalmology",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1995",
+  "what": "Treats the eye's drainage tissue to lower pressure in glaucoma.",
+  "source_url": "https://evidence.nihr.ac.uk/alert/a-laser-eye-procedure-can-be-effective-and-safe-if-used-early-as-treatment-for-glaucoma"
+ },
+ {
+  "use": "SMILE",
+  "field": "ophthalmology",
+  "laser": "Femtosecond (Zeiss VisuMax)",
+  "wavelength": "",
+  "power": "",
+  "since": "2016",
+  "what": "Cuts a disc inside the cornea removed through a small incision; FDA approval September 13, 2016.",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/fda-approved-lasers-prk-and-other-refractive-surgeries"
+ },
+ {
+  "use": "Chirped pulse amplification",
+  "field": "physics",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1985",
+  "what": "Stretch, amplify and recompress a pulse for extreme peak power; also underpins corrective eye surgery.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/"
+ },
+ {
+  "use": "Gravitational wave detection (LIGO)",
+  "field": "physics",
+  "laser": "",
+  "wavelength": "",
+  "power": "200 W (after 2010-2015 upgrade, from 10 W)",
+  "since": "2015",
+  "what": "Michelson interferometers with 4 km arms detected a black hole merger on September 14, 2015.",
+  "source_url": "https://physicstoday.aip.org/news/weiss-barish-and-thorne-share-2017-nobel-prize-in-physics"
+ },
+ {
+  "use": "Laser cooling and trapping",
+  "field": "physics",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1987",
+  "what": "Laser light slows atoms to microkelvin temperatures; magneto-optical trap built 1987.",
+  "source_url": "https://nobelprize.org/prizes/physics/1997/press-release"
+ },
+ {
+  "use": "Petawatt research lasers (ELI-NP)",
+  "field": "physics",
+  "laser": "",
+  "wavelength": "820 nm",
+  "power": "10 PW peak, 25 fs pulses (2019)",
+  "since": "2019",
+  "what": "Physics under extreme conditions and accelerating electrons past 10 GeV.",
+  "source_url": "https://optics.org/news/eli-np-laser-hits-10-petawatts-peak-power"
+ },
+ {
+  "use": "Supermarket barcode scanner",
+  "field": "retail",
+  "laser": "helium-neon",
+  "wavelength": "",
+  "power": "",
+  "since": "1974",
+  "what": "A beam off a rotating mirror sweeps the barcode; a photodiode reads the reflection.",
+  "source_url": "https://si.edu/object/supermarket-scanner:nmah_892778"
+ },
+ {
+  "use": "Attosecond pulses for studying electrons",
+  "field": "science",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "2001",
+  "what": "Pulses of 250 attoseconds (trains) and 650 attoseconds (single) used to study electron dynamics in matter.",
+  "source_url": "https://nobelprize.org/prizes/physics/2023/press-release/"
+ },
+ {
+  "use": "Laser cooling and trapping of atoms",
+  "field": "science",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Methods to cool and trap atoms with laser light won the 1997 Nobel Prize in Physics.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/1997/summary/"
+ },
+ {
+  "use": "Laser holography",
+  "field": "science",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1963",
+  "what": "Leith and Upatnieks at the University of Michigan made the first laser holograms in late 1963.",
+  "source_url": "https://www.britannica.com/technology/laser/History"
+ },
+ {
+  "use": "Laser precision spectroscopy and the frequency comb",
+  "field": "science",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Recognized with the 2005 Nobel Prize in Physics to Hall and Hänsch.",
+  "source_url": "https://www.optica.org/history/optica_nobel_laureates/"
+ },
+ {
+  "use": "Laser spectroscopy",
+  "field": "science",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Recognized with the 1981 Nobel Prize in Physics to Bloembergen and Schawlow.",
+  "source_url": "https://nobelprize.org/prizes/physics/1981/summary"
+ },
+ {
+  "use": "Optical tweezers",
+  "field": "science",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1987",
+  "what": "A focused laser beam holds tiny particles; Ashkin used tweezers to hold living bacteria in 1987.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/"
+ },
+ {
+  "use": "DUV lithography (ArF)",
+  "field": "Semiconductors",
+  "laser": "ArF excimer laser",
+  "wavelength": "193 nm",
+  "power": "",
+  "since": "",
+  "what": "Enabled chip features as small as 38 nm",
+  "source_url": "https://www.asml.com/en/technology/lithography-principles/light-and-lasers"
+ },
+ {
+  "use": "DUV lithography (KrF)",
+  "field": "Semiconductors",
+  "laser": "KrF excimer laser",
+  "wavelength": "248 nm",
+  "power": "",
+  "since": "",
+  "what": "First deep-ultraviolet lithography light source",
+  "source_url": "https://www.asml.com/en/technology/lithography-principles/light-and-lasers"
+ },
+ {
+  "use": "EUV light generation (tin droplet plasma)",
+  "field": "Semiconductors",
+  "laser": "Pulsed CO2 drive laser",
+  "wavelength": "13.5 nm EUV output",
+  "power": "40 kW (product page); above 30 kW mean (2018)",
+  "since": "",
+  "what": "Pre-pulse flattens 25 µm tin droplets and a main pulse turns them into EUV-emitting plasma 50,000 times a second",
+  "source_url": "https://trumpf.com/en_GB/products/lasers/euv-drive-laser"
+ },
+ {
+  "use": "Deep space laser communication (DSOC)",
+  "field": "space communications",
+  "laser": "",
+  "wavelength": "",
+  "power": "3 kW uplink beacon",
+  "since": "2023",
+  "what": "Laser link from the Psyche spacecraft; 267 Mbit/s peak, 13.6 terabits over 65 passes.",
+  "source_url": "https://nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-deep-space-communications-demo-exceeds-project-expectations"
+ },
+ {
+  "use": "Inter-satellite laser communication links",
+  "field": "Space communications",
+  "laser": "Infrared laser",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Starlink satellites relay data to each other by laser, about 42 petabytes a day (reported, 2024).",
+  "source_url": "https://www.lightnowblog.com/2024/02/ir-lasers-link-9000-starlink-satellites-and-move-42-million-gb-per-day/"
+ },
+ {
+  "use": "Lunar laser ranging",
+  "field": "space science",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1969",
+  "what": "Pulses timed off Apollo retroreflectors; about 2 cm (JPL 1999) or about 3 cm (GSFC 2005).",
+  "source_url": "https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/"
+ },
+ {
+  "use": "General and plastic surgery",
+  "field": "surgery",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Class II laser surgical instruments cut, destroy, remove or coagulate mostly soft tissue across many specialties (21 CFR 878.4810).",
+  "source_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfPCD/classification.cfm?ID=GEX"
+ },
+ {
+  "use": "Fiber optic communication",
+  "field": "telecommunications",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1970",
+  "what": "Laser light guided through ultrapure glass fiber over long distances.",
+  "source_url": "https://nobelprize.org/prizes/physics/2009/press-release"
+ },
+ {
+  "use": "First all-fiber transatlantic cable (TAT-8)",
+  "field": "telecommunications",
+  "laser": "",
+  "wavelength": "1310 nm",
+  "power": "",
+  "since": "1980s",
+  "what": "Carried 280 Mbit/s per fiber pair.",
+  "source_url": "https://www.laserfocusworld.com/fiber-optics/article/16551090/optical-amplifiers-speed-data-flow-undersea"
+ },
+ {
+  "use": "Undersea cable amplifier (EDFA)",
+  "field": "telecommunications",
+  "laser": "diode laser pump",
+  "wavelength": "980 or 1480 nm pump; 1550 nm signal",
+  "power": "",
+  "since": "1997",
+  "what": "Boosts 1550 nm signals by about 12 to 16 dB without converting to electronics; repeaters about 75 to 90 km apart.",
+  "source_url": "https://www.laserfocusworld.com/fiber-optics/article/16551090/optical-amplifiers-speed-data-flow-undersea"
+ },
+ {
+  "use": "Optical lattice atomic clock",
+  "field": "timekeeping",
+  "laser": "stabilized clock laser",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Laser grid holds about 40,000 strontium-87 atoms; 8.1 x 10^-19 systematic uncertainty (2024).",
+  "source_url": "https://www.optica-opn.org/home/newsroom/2024/july/strontium_lattice_is_now_the_world_s_most_accurate_clock"
+ },
+ {
+  "use": "Self-driving car lidar",
+  "field": "transport",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "2020",
+  "what": "Waymo 5th-generation 360-degree roof lidar sees objects beyond 300 m (company figure), plus four perimeter lidars.",
+  "source_url": "https://waymo.com/blog/2020/03/introducing-5th-generation-waymo-driver/"
+ }
+]

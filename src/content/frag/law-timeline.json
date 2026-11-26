@@ -1,0 +1,107 @@
+[
+ {
+  "date": "1968",
+  "label": "Radiation Control for Health and Safety Act",
+  "detail": "Public Law 90-602 puts radiation-emitting products, lasers included, under federal control.",
+  "source_url": "https://www.govinfo.gov/content/pkg/FR-2013-06-24/pdf/2013-14846.pdf",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1975",
+  "label": "US laser performance standard published",
+  "detail": "FDA's final rule (40 FR 32256), proposed in 1974, creates the standard now at 21 CFR 1040.10 and 1040.11.",
+  "source_url": "https://www.govinfo.gov/content/pkg/FR-2013-06-24/pdf/2013-14846.pdf",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1995-10-13",
+  "label": "Protocol IV adopted",
+  "detail": "Vienna adopts the protocol on blinding laser weapons; it enters into force on July 30, 1998.",
+  "source_url": "https://treaties.un.org/doc/Publication/MTDSG/Volume%20II/Chapter%20XXVI/XXVI-2-a.en.xml",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1998-03-20",
+  "label": "Lidar speed readings admitted",
+  "detail": "A New Jersey court finds the LTI Marksman 20-20 laser speed detector reasonably reliable, with conditions.",
+  "source_url": "https://caselaw.findlaw.com/nj-superior-court/1382131.html",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2008-07-01",
+  "label": "Australia restricts pointer imports",
+  "detail": "Hand-held laser pointers above 1 mW become prohibited imports, treated as weapons.",
+  "source_url": "https://oia.pmc.gov.au/published-impact-analyses-and-reports/restrictions-importation-hand-held-laser-pointers-post",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2012-02-14",
+  "label": "Lasering an aircraft becomes a federal crime",
+  "detail": "18 U.S.C. 39A, added by the FAA Modernization and Reform Act, sets a maximum of five years.",
+  "source_url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI-chap2-sec39A.htm",
+  "era": "2010-now"
+ },
+ {
+  "date": "2013-06-24",
+  "label": "FDA proposes IEC harmonization",
+  "detail": "Docket FDA-2011-N-0070 would incorporate much of IEC 60825-1 and limit toy lasers to Class 1.",
+  "source_url": "https://www.govinfo.gov/content/pkg/FR-2013-06-24/pdf/2013-14846.pdf",
+  "era": "2010-now"
+ },
+ {
+  "date": "2014-03-10",
+  "label": "Fourteen-year laser-strike sentence",
+  "detail": "Sergio Patrick Rodriguez is sentenced in Fresno for aiming a laser pointer at a police helicopter; prosecutors say it is believed to be the longest sentence in a laser-strike case.",
+  "source_url": "https://www.justice.gov/usao-edca/pr/laser-striker-sentenced-14-years-prison-believed-be-longest-sentence-laser-strike-case",
+  "era": "2010-now"
+ },
+ {
+  "date": "2014-12",
+  "label": "FDA toy laser guidance",
+  "detail": "CDRH issues final guidance on minimizing risk from children's toy lasers.",
+  "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/minimizing-risk-childrens-toy-laser-products",
+  "era": "2010-now"
+ },
+ {
+  "date": "2016-10-25",
+  "label": "Ninth Circuit affirms 60 months",
+  "detail": "After a 2015 appeal vacated his conviction on a second charge, the court affirms Rodriguez's 60-month sentence under 39A.",
+  "source_url": "https://law.justia.com/cases/federal/appellate-courts/ca9/15-10495/15-10495-2016-10-25.html",
+  "era": "2010-now"
+ },
+ {
+  "date": "2017-11-07",
+  "label": "FDA Safety Communication on show projectors",
+  "detail": "FDA recommends against using two brands of projector it says were not sold under an approved variance.",
+  "source_url": "https://ilda.com/2017-11_FDA_Laserworld.htm",
+  "era": "2010-now"
+ },
+ {
+  "date": "2018-07-10",
+  "label": "UK Laser Misuse (Vehicles) Act in force",
+  "detail": "Shining a laser at a vehicle's operator carries up to five years and an unlimited fine.",
+  "source_url": "https://www.gov.uk/government/news/tougher-laser-misuse-laws-come-into-force",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023-02",
+  "label": "Laser Notice 56",
+  "detail": "FDA says it does not intend to enforce matching US requirements for products meeting identified IEC 60825-1 Ed. 3 clauses.",
+  "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023",
+  "label": "Record year for FAA laser reports",
+  "detail": "Pilots report 13,304 laser incidents, the highest on the FAA's table.",
+  "source_url": "https://www.faa.gov/about/initiatives/lasers/laws",
+  "era": "2010-now"
+ },
+ {
+  "date": "2024-10-09",
+  "label": "Canada rewrites its laser product rules",
+  "detail": "SOR/2024-196 builds a broad standard on IEC 60825-1 Ed. 3.0, in force a year later.",
+  "source_url": "https://gazette.gc.ca/rp-pr/p2/2024/2024-10-09/html/sor-dors196-eng.html",
+  "era": "2010-now"
+ }
+]

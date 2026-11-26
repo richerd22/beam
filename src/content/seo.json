@@ -1,9 +1,9 @@
 {
- "title": "The Beam: how laser shows work - the planetarium years, the machines, the rules",
- "description": "An independent, cited guide to laser light shows: how a beam becomes a picture, Laserium and the planetarium era, gas tubes to diodes, how shows are programmed, why lasers can injure and who regulates them, and what a show costs.",
+ "title": "The Beam: how lasers work - laser shows, planetariums, surgery, factories and the law",
+ "description": "An independent, cited guide to lasers: how laser shows and planetarium shows work, how a laser works and who invented it, lasers in industry, medicine, everyday tech, science and defense, why the FDA regulates them, and every kind of laser case.",
  "paths": [
   {
-   "who": "Just saw one",
+   "who": "Just saw a show",
    "title": "How did that work?",
    "blurb": "What a laser show is, why you need haze, and how two mirrors draw a picture.",
    "slugs": [
@@ -15,31 +15,44 @@
   {
    "who": "Here for the story",
    "title": "From 1960 to the dome",
-   "blurb": "The first laser art, Laserium, rock tours and the album shows that never went away.",
+   "blurb": "The invention, the first laser art, Laserium and the album shows that never went away.",
    "slugs": [
+    "invention",
     "history",
-    "planetarium",
-    "stage"
+    "planetarium"
    ]
   },
   {
-   "who": "Working with them",
-   "title": "Machines and method",
-   "blurb": "The sources, the scanners, the software and what happens on a show day.",
+   "who": "Working shows",
+   "title": "Machines, method, festivals",
+   "blurb": "The sources, the scanners, the software and what the big stages fly.",
    "slugs": [
     "lasers",
-    "scanning",
-    "programming"
+    "programming",
+    "festivals"
+   ]
+  },
+  {
+   "who": "Curious about lasers",
+   "title": "Everywhere else",
+   "blurb": "Factories, eye surgery, barcodes, LIGO, fusion and defense.",
+   "slugs": [
+    "industry",
+    "medicine",
+    "everyday",
+    "science",
+    "defense"
    ]
   },
   {
    "who": "Responsible for one",
-   "title": "Safety and the rules",
-   "blurb": "The hazard, the exposure limit, and what regulators in each country require.",
+   "title": "Safety and the law",
+   "blurb": "The hazard, the rules, why the FDA is involved and the cases.",
    "slugs": [
     "safety",
     "rules",
-    "now"
+    "regulation",
+    "cases"
    ]
   }
  ],
@@ -67,6 +80,22 @@
   {
    "q": "What was the Phoebe Bridgers planetarium laser show?",
    "a": "Phoebe Bridgers previewed her album Lost Weekend in 44 planetariums from August 10 to 14, 2026, with either a fulldome show or a laser show designed by Laser Fantasy."
+  },
+  {
+   "q": "Who invented the laser?",
+   "a": "Theodore Maiman made the first working laser, a ruby laser, at Hughes Research Laboratories in May 1960. Charles Townes and Arthur Schawlow published the idea in 1958, and Gordon Gould, who coined the word, fought for patent credit for about 30 years."
+  },
+  {
+   "q": "Why does the FDA regulate lasers?",
+   "a": "A 1968 US law put radiation-emitting electronic products under the FDA. Its laser standard at 21 CFR 1040.10 and 1040.11 sorts lasers into classes, sets labels and safety features, and limits pointers, toys and show projectors unless the FDA grants a variance."
+  },
+  {
+   "q": "Is it illegal to point a laser at a plane?",
+   "a": "In the US, aiming a laser pointer at an aircraft has been a federal crime since 2012 under 18 U.S.C. 39A, and the FAA can also impose civil penalties. Many other countries have similar laws."
+  },
+  {
+   "q": "What are lasers used for?",
+   "a": "Cutting and welding metal, making computer chips, eye surgery and skin treatments, barcode scanners, fiber-optic internet, lidar, measuring distances, scientific instruments such as LIGO, fusion research, and defense systems, as well as light shows."
   }
  ]
 }

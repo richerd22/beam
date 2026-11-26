@@ -1,0 +1,100 @@
+[
+ {
+  "date": "1898",
+  "label": "Wells's heat-ray",
+  "detail": "The Martians of The War of the Worlds use an invisible heat-ray.",
+  "source_url": "https://physicsworld.com/a/from-ray-gun-to-blu-ray/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1960",
+  "label": "The 'death ray' headline",
+  "detail": "Maiman's ruby laser at Hughes is called a death ray by a newspaper.",
+  "source_url": "https://physicsworld.com/a/from-ray-gun-to-blu-ray/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1968",
+  "label": "First laser-guided bomb",
+  "detail": "The US Air Force combat-evaluates the Texas Instruments BOLT-117.",
+  "source_url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195858/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1972",
+  "label": "Dragon's Jaw falls",
+  "detail": "Laser-guided bombs bring down the Thanh Hoa and Paul Doumer bridges.",
+  "source_url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195858/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1995-10-13",
+  "label": "Blinding lasers banned",
+  "detail": "Protocol IV to the CCW is adopted in Vienna.",
+  "source_url": "https://nuke.fas.org/control/ccw/text/protocol4.htm",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2010-02-03",
+  "label": "Airborne Laser hits a rocket",
+  "detail": "The YAL-1A destroys a boosting test rocket off California.",
+  "source_url": "https://www.edwards.af.mil/News/Article/394579/airborne-laser-test-bed-bids-adieu-to-edwards",
+  "era": "2010-now"
+ },
+ {
+  "date": "2012-02-14",
+  "label": "Airborne Laser retired",
+  "detail": "The 747 makes its last ferry flight to the Davis-Monthan boneyard.",
+  "source_url": "https://www.edwards.af.mil/News/Article/394579/airborne-laser-test-bed-bids-adieu-to-edwards",
+  "era": "2010-now"
+ },
+ {
+  "date": "2014-12-10",
+  "label": "LaWS at sea",
+  "detail": "The US Navy announces its laser weapon operated on USS Ponce in the Persian Gulf.",
+  "source_url": "https://www.onr.navy.mil/media-center/news-releases/historic-leap-navy-shipboard-laser-operates-persian-gulf",
+  "era": "2010-now"
+ },
+ {
+  "date": "2018-05-03",
+  "label": "Djibouti protest",
+  "detail": "The Pentagon says US aircraft were lased in Djibouti and demarches China.",
+  "source_url": "https://www.jcs.mil/Media/News/News-Display/Article/1512451/us-protests-chinese-interference-with-us-planes-in-djibouti/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2022-02-17",
+  "label": "P-8A lased",
+  "detail": "Australia says a PLA-Navy ship lit up an RAAF P-8A Poseidon with a laser.",
+  "source_url": "https://www.defence.gov.au/news-events/releases/2022-02-19/chinese-vessel-lasing-adf-aircraft",
+  "era": "2010-now"
+ },
+ {
+  "date": "2022-08",
+  "label": "HELIOS delivered",
+  "detail": "Lockheed Martin delivers HELIOS to the destroyer USS Preble.",
+  "source_url": "https://www.militarytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-05-30",
+  "label": "Israel claims laser kills",
+  "detail": "Israel says lasers downed about 40 drones in combat; which system did it is disputed.",
+  "source_url": "https://www.defensenews.com/global/mideast-africa/2025/05/30/israel-claims-drone-interceptions-with-high-power-lasers/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-11-20",
+  "label": "DragonFire contract",
+  "detail": "The UK MOD reports 650 km/h drones downed and a GBP 316 million contract.",
+  "source_url": "https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-12-28",
+  "label": "Iron Beam handed over",
+  "detail": "Israel's Ministry of Defense delivers the first combat-ready Iron Beam to the IDF.",
+  "source_url": "https://www.timesofisrael.com/defense-ministry-hands-idf-first-combat-ready-iron-beam-laser-interception-system",
+  "era": "2010-now"
+ }
+]

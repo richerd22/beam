@@ -1,0 +1,262 @@
+[
+ {
+  "case": "US v. Sergio Patrick Rodriguez (trial)",
+  "year": "2013-2014",
+  "place": "Fresno, California",
+  "court": "US District Court, E.D. Cal.",
+  "kind": "aircraft",
+  "about": "Laser pointer aimed at a Fresno police helicopter in 2012; the helicopter was investigating reported strikes on an emergency transport helicopter for Children's Hospital of Central California",
+  "outcome": "Convicted by a federal jury, December 2013; sentenced to 14 years on 2014-03-10",
+  "source_url": "https://www.justice.gov/usao-edca/pr/laser-striker-sentenced-14-years-prison-believed-be-longest-sentence-laser-strike-case"
+ },
+ {
+  "case": "US v. Jennifer Lorraine Coleman",
+  "year": "2013-2014",
+  "place": "Fresno, California",
+  "court": "US District Court, E.D. Cal.",
+  "kind": "aircraft",
+  "about": "Co-defendant in the Rodriguez case",
+  "outcome": "Convicted by the same federal jury; sentenced in 2014 to 2 years in prison, later revoked and replaced with 5 years' probation, as Courthouse News reports",
+  "source_url": "https://www.courthousenews.com/five-years-for-lasering-a-helicopter-affirmed/"
+ },
+ {
+  "case": "United States v. Rodriguez, 790 F.3d 951",
+  "year": "2015",
+  "place": "Ninth Circuit",
+  "court": "US Court of Appeals, 9th Cir.",
+  "kind": "aircraft",
+  "about": "Appeal of the interference conviction under 18 U.S.C. 32(a)(5) and (a)(8) and the sentence",
+  "outcome": "Conviction and sentence on the 18 U.S.C. 32 count vacated; 39A count remanded for resentencing",
+  "source_url": "https://law.justia.com/cases/federal/appellate-courts/ca9/15-10495/15-10495-2016-10-25.html"
+ },
+ {
+  "case": "USA v. Sergio Rodriguez, No. 15-10495",
+  "year": "2016",
+  "place": "Ninth Circuit",
+  "court": "US Court of Appeals, 9th Cir.",
+  "kind": "aircraft",
+  "about": "Appeal of the 60-month resentence under 18 U.S.C. 39A (guidelines range 21 to 27 months)",
+  "outcome": "Affirmed 2016-10-25 (unpublished memorandum)",
+  "source_url": "https://law.justia.com/cases/federal/appellate-courts/ca9/15-10495/15-10495-2016-10-25.html"
+ },
+ {
+  "case": "US v. Nolan Wayne Hamman",
+  "year": "2024-2025",
+  "place": "Kalispell, Montana",
+  "court": "US District Court, D. Mont.",
+  "kind": "aircraft",
+  "about": "Laser aimed at a plane flown by a flight instructor carrying a minor student, 2023-11-25",
+  "outcome": "Guilty plea (October 2024); 2.5 years plus 3 years supervised release",
+  "source_url": "https://justice.gov/usao-mt/pr/pointing-laser-aircraft-sends-kalispell-man-prison"
+ },
+ {
+  "case": "US v. Sandra Roberson",
+  "year": "2024",
+  "place": "San Antonio, Texas",
+  "court": "US District Court, W.D. Tex.",
+  "kind": "aircraft",
+  "about": "Laser strike on a San Antonio Police Department helicopter, 2023-11-03",
+  "outcome": "Guilty plea; 37 months",
+  "source_url": "https://www.justice.gov/usao-wdtx/pr/san-antonio-woman-sentenced-prison-endangering-sapd-helicopter-laser"
+ },
+ {
+  "case": "US v. Christopher W. Harris",
+  "year": "2024",
+  "place": "Snohomish County, Washington",
+  "court": "US District Court, W.D. Wash.",
+  "kind": "aircraft",
+  "about": "Two counts of aiming a laser at aircraft: two small planes, 2022-11-20; one pilot's eyes damaged",
+  "outcome": "Sentenced 2024-01-05 to 8 months plus 3 years supervised release with addiction and mental health treatment; plea not stated in the release",
+  "source_url": "https://www.justice.gov/usao-wdwa/pr/snohomish-county-man-who-aimed-laser-two-small-planes-sentenced-prison"
+ },
+ {
+  "case": "US v. Glenwood Arthur Bringle",
+  "year": "2025",
+  "place": "Arizona",
+  "court": "US District Court, D. Ariz.",
+  "kind": "aircraft",
+  "about": "Laser aimed at two US Air Force F-16s",
+  "outcome": "Guilty plea 2025-02-26; 9 days in prison plus 3 years supervised release, 2025-06-25",
+  "source_url": "https://www.justice.gov/usao-az/pr/bagdad-man-sentenced-aiming-laser-pointer-air-force-fighter-jets"
+ },
+ {
+  "case": "US v. Sergio Octavio Sanchez",
+  "year": "2026",
+  "place": "Las Vegas, Nevada",
+  "court": "US District Court, D. Nev.",
+  "kind": "aircraft",
+  "about": "Green laser pointer aimed at a Las Vegas Metropolitan Police Department helicopter, 2025-01-02",
+  "outcome": "Guilty plea to one count; sentenced 2026-07-29 to 9 months plus 3 years supervised release (government sought 21 months)",
+  "source_url": "https://www.justice.gov/usao-nv/pr/las-vegas-man-sentenced-aiming-high-power-laser-police-helicopter"
+ },
+ {
+  "case": "Andrew Wilson (Laser Misuse Act)",
+  "year": "2024",
+  "place": "Somerset, England",
+  "court": "Taunton Crown Court",
+  "kind": "aircraft",
+  "about": "Laser at a helicopter over Yeovil (2022-08-03) and an Airbus A320 descending toward Bristol Airport (2022-08-14)",
+  "outcome": "Admitted two counts; sentenced 2024-04-11 to 4 months' imprisonment",
+  "source_url": "https://www.avonandsomerset.police.uk/news/2024/04/man-sentenced-for-laser-attacks-on-aircraft/"
+ },
+ {
+  "case": "Melvin Joyce (PSNI case)",
+  "year": "",
+  "place": "Northern Ireland",
+  "court": "Court not named",
+  "kind": "aircraft",
+  "about": "Laser shone toward a moving helicopter",
+  "outcome": "Guilty plea to two counts, the second recklessly or negligently endangering an aircraft; 4 months' custody for the laser offense",
+  "source_url": "https://www.psni.police.uk/latest-news/air-support-unit-welcomes-sentencing-man-who-shone-laser-helicopter"
+ },
+ {
+  "case": "FAA civil penalties for laser strikes",
+  "year": "ongoing",
+  "place": "United States",
+  "court": "FAA",
+  "kind": "aircraft",
+  "about": "Lasers aimed at aircraft, under 14 CFR 91.11",
+  "outcome": "Up to $11,000 per violation; up to $30,800 imposed for multiple incidents",
+  "source_url": "https://www.faa.gov/about/initiatives/lasers/laws"
+ },
+ {
+  "case": "FDA Import Alert 95-04",
+  "year": "2026",
+  "place": "US ports",
+  "court": "FDA",
+  "kind": "product",
+  "about": "Noncompliant laser pointers, show projectors, toys and similar foreign-made products",
+  "outcome": "Detention without physical examination for listed firms",
+  "source_url": "https://www.accessdata.fda.gov/CMS_IA/importalert_254.html"
+ },
+ {
+  "case": "FDA Safety Communication on two show projector brands",
+  "year": "2017",
+  "place": "United States",
+  "court": "FDA (reported by ILDA)",
+  "kind": "product",
+  "about": "Projectors FDA said were sold without an approved variance or might lack required features",
+  "outcome": "Recommendation against use; no final resolution reported",
+  "source_url": "https://ilda.com/2017-11_FDA_Laserworld.htm"
+ },
+ {
+  "case": "FDA proposed amendment to the laser performance standard (FDA-2011-N-0070)",
+  "year": "2013",
+  "place": "United States",
+  "court": "FDA",
+  "kind": "policy",
+  "about": "IEC 60825-1 harmonization; Class 1 limit for toy lasers",
+  "outcome": "Proposed rule",
+  "source_url": "https://www.govinfo.gov/content/pkg/FR-2013-06-24/pdf/2013-14846.pdf"
+ },
+ {
+  "case": "FDA Laser Notice 56",
+  "year": "2023",
+  "place": "United States",
+  "court": "FDA",
+  "kind": "policy",
+  "about": "Conformance with IEC 60825-1 Ed. 3 and IEC 60601-2-22 Ed. 3.1",
+  "outcome": "Guidance: FDA does not intend to enforce matching US requirements for comparable clauses",
+  "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56"
+ },
+ {
+  "case": "Aquamarine Open Air festival injuries",
+  "year": "2008",
+  "place": "Kirzhach, Russia",
+  "court": "Moscow Health Department (as reported)",
+  "kind": "show",
+  "about": "Audience eye injuries after a festival laser show",
+  "outcome": "12 laser retinopathy patients reported; no legal outcome found",
+  "source_url": "https://retinalphysician.com/issues/2020/june/upfront-a-cautionary-tale-of-laser-exposure/"
+ },
+ {
+  "case": "Tomorrowland injury inquiry",
+  "year": "2009",
+  "place": "Belgium",
+  "court": "Local authorities (as reported by ILDA)",
+  "kind": "show",
+  "about": "Eye injuries at a festival",
+  "outcome": "Attributed to audience laser pointers, not the show",
+  "source_url": "https://www.lasershowsafety.info/incidents.html"
+ },
+ {
+  "case": "Spain nightclub laser injury",
+  "year": "2014",
+  "place": "Spain",
+  "court": "Not stated",
+  "kind": "show",
+  "about": "A 29-year-old patron lost sight in one eye after a laser aimed at a mirror ball reflected into the audience",
+  "outcome": "€80,000 settlement reported (second-hand, ILDA citing El Periódico)",
+  "source_url": "https://www.lasershowsafety.info/incidents.html"
+ },
+ {
+  "case": "In re LTI Marksman 20-20 (laser speed detector)",
+  "year": "1998",
+  "place": "Morris County, New Jersey",
+  "court": "New Jersey Superior Court, Law Division",
+  "kind": "other",
+  "about": "Reliability of a police laser speed gun as evidence",
+  "outcome": "Readings admissible without expert testimony under stated conditions (day or night, light or moderately heavy rain, up to 1,000 feet); heavy rain, falling snow or longer range need expert testimony",
+  "source_url": "https://caselaw.findlaw.com/nj-superior-court/1382131.html"
+ },
+ {
+  "case": "Australia pointer import restriction",
+  "year": "2008",
+  "place": "Australia",
+  "court": "Australian Government (Customs regulations)",
+  "kind": "pointer",
+  "about": "Hand-held laser pointers above 1 mW",
+  "outcome": "Prohibited imports from 2008-07-01; 2012 review found no significant drop in reported incidents",
+  "source_url": "https://oia.pmc.gov.au/published-impact-analyses-and-reports/restrictions-importation-hand-held-laser-pointers-post"
+ },
+ {
+  "case": "Canada SOR/2024-196",
+  "year": "2024",
+  "place": "Canada",
+  "court": "Health Canada",
+  "kind": "policy",
+  "about": "Laser product standard built on IEC 60825-1 Ed. 3.0",
+  "outcome": "Regulation published 2024-10-09, in force one year after publication",
+  "source_url": "https://gazette.gc.ca/rp-pr/p2/2024/2024-10-09/html/sor-dors196-eng.html"
+ },
+ {
+  "case": "Protocol IV, Convention on Certain Conventional Weapons",
+  "year": "1995",
+  "place": "Vienna",
+  "court": "UN / CCW states parties",
+  "kind": "policy",
+  "about": "Ban on blinding laser weapons",
+  "outcome": "In force 1998-07-30; 111 parties listed; US consented to be bound 2009-01-21",
+  "source_url": "https://treaties.un.org/doc/Publication/MTDSG/Volume%20II/Chapter%20XXVI/XXVI-2-a.en.xml"
+ },
+ {
+  "case": "Cutaneous laser litigation study (JAMA Dermatology)",
+  "year": "2013",
+  "place": "United States",
+  "court": "Study",
+  "kind": "medical",
+  "about": "175 injury cases from cutaneous laser procedures, 1999-2012",
+  "outcome": "Study finding: 42.9% involved non-physician operators; laser hair removal the most common procedure",
+  "source_url": "https://www.uclahealth.org/news/release/lawsuits-increasing-over-skin-related-laser-surgeries"
+ },
+ {
+  "case": "Cutaneous laser litigation update (Dermatologic Surgery)",
+  "year": "2022",
+  "place": "United States",
+  "court": "Study",
+  "kind": "medical",
+  "about": "69 claims, 2012-2020",
+  "outcome": "Study finding: 53% of 36 known outcomes for the plaintiff; mean indemnity payment $320,975",
+  "source_url": "https://asds.net/Portals/0/PDF/asdsa/Causes%20of%20Injury%20and%20Litigation%20in%20Cutaneous%20Laser%20Surgery%20-%20An%20Update%20From%202012%20to%202020.pdf"
+ },
+ {
+  "case": "Refractive surgery litigation study (Cornea)",
+  "year": "2017",
+  "place": "United States",
+  "court": "Study",
+  "kind": "medical",
+  "about": "167 refractive surgery cases, 127 LASIK",
+  "outcome": "Study finding: 35.3% unfavorable to the defendant; inflation-adjusted mean award $1,287,872",
+  "source_url": "https://scholar.usuhs.edu/en/publications/refractive-surgery-malpractice-litigation-outcomes/"
+ }
+]

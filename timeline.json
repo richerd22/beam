@@ -1,9 +1,72 @@
 [
  {
+  "date": "1898",
+  "label": "Wells's heat-ray",
+  "detail": "The Martians of The War of the Worlds use an invisible heat-ray.",
+  "source_url": "https://physicsworld.com/a/from-ray-gun-to-blu-ray/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1917",
+  "label": "Einstein describes stimulated emission",
+  "detail": "A paper on the quantum theory of radiation in Physikalische Zeitschrift sets out absorption, spontaneous and stimulated emission.",
+  "source_url": "https://physicsworld.com/a/a-century-ago-einstein-sparked-the-notion-of-the-laser/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1954-04",
+  "label": "The maser gets its name",
+  "detail": "Townes names the ammonia maser built at Columbia with Gordon and Zeiger.",
+  "source_url": "https://www.optica-opn.org/home/articles/volume_21/issue_5/features/reﬂections_on_the_first_maser",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1957-11",
+  "label": "Gould's notebook coins LASER",
+  "detail": "Gordon Gould's notarized notebook holds the first recorded use of the acronym.",
+  "source_url": "https://en.wikipedia.org/wiki/Gordon_Gould",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1958-12-15",
+  "label": "Schawlow and Townes publish the optical maser",
+  "detail": "Their Physical Review paper proposes a laser with mirrors at each end.",
+  "source_url": "https://www.britannica.com/technology/laser/History",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1960",
+  "label": "The 'death ray' headline",
+  "detail": "Maiman's ruby laser at Hughes is called a death ray by a newspaper.",
+  "source_url": "https://physicsworld.com/a/from-ray-gun-to-blu-ray/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1960",
+  "label": "Lasers enter manufacturing",
+  "detail": "TWI dates industrial laser use to the 1960s.",
+  "source_url": "https://www.twi-global.com/technical-knowledge/job-knowledge/cutting-processes-laser-cutting-052",
+  "era": "Before 1973"
+ },
+ {
   "date": "1960-05-16",
   "label": "First laser works",
   "detail": "Theodore Maiman and Irnee d'Haenens see laser action from a ruby crystal at Hughes Research Laboratories.",
   "source_url": "https://physicsworld.com/a/and-then-there-was-light/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1960-05-16",
+  "label": "First working laser",
+  "detail": "Theodore Maiman and Irnee d'Haenens see laser action in ruby at Hughes Research Laboratories.",
+  "source_url": "https://physicsworld.com/a/and-then-there-was-light/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1960-12-12",
+  "label": "First helium-neon laser",
+  "detail": "Javan, Bennett and Herriott at Bell Labs run the first gas laser and first continuous beam, at 1.15 micrometers.",
+  "source_url": "https://lemelson.mit.edu/resources/ali-javan",
   "era": "Before 1973"
  },
  {
@@ -14,10 +77,45 @@
   "era": "Before 1973"
  },
  {
+  "date": "1961-11-22",
+  "label": "First laser treatment of a patient",
+  "detail": "Charles J. Campbell destroys a retinal tumor with one ruby laser pulse at Columbia-Presbyterian, New York.",
+  "source_url": "https://healthmatters.nyp.org/ruby-laser/",
+  "era": "Before 1973"
+ },
+ {
   "date": "1962",
   "label": "Red helium-neon line",
   "detail": "White and Rigden at Bell Labs get the 632.8 nm red line.",
   "source_url": "https://optica-opn.org/home/articles/volume_21/issue_1/features/history_of_gas_lasers_part_1%E2%80%94continuous_wave_gas",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1962-09-16",
+  "label": "First diode laser lases at GE",
+  "detail": "Robert Hall's team pulses a gallium arsenide diode above 12 A; IBM and MIT Lincoln Lab follow within weeks.",
+  "source_url": "https://lux.spie.org/news/photonics-focus/janfeb-2020/robert-hall-and-the-diode-laser",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1964",
+  "label": "Nobel Prize for the maser-laser principle",
+  "detail": "Townes, Basov and Prokhorov share the Physics prize.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/1964/summary",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1964",
+  "label": "Nd:YAG laser at Bell Labs",
+  "detail": "Neodymium-doped YAG lases at 1.06 micrometers.",
+  "source_url": "https://amp.spie.org/news/spie-professional-magazine-archive/2009-october/laser-innovations",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1964",
+  "label": "Patel's nitrogen-CO2 laser",
+  "detail": "The first gas laser to produce high power continuously, per Lemelson-MIT.",
+  "source_url": "https://lemelson.mit.edu/resources/kumar-patel",
   "era": "Before 1973"
  },
  {
@@ -35,6 +133,20 @@
   "era": "Before 1973"
  },
  {
+  "date": "1966",
+  "label": "Kao's fiber calculation",
+  "detail": "Charles Kao works out that very pure glass fiber could carry light more than 100 km.",
+  "source_url": "https://nobelprize.org/prizes/physics/2009/press-release",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1966",
+  "label": "Leon Goldman's first laser surgery",
+  "detail": "The dermatologist later called the father of laser surgery performs his first laser operation.",
+  "source_url": "https://dermatologyhalloffame.org/inductees/leon-goldman-md",
+  "era": "Before 1973"
+ },
+ {
   "date": "1967",
   "label": "Rockne Krebs shows laser beams as sculpture",
   "detail": "\"Sculpture Minus Object\" at the Washington Gallery of Modern Art used red beams, fog and mirrors.",
@@ -46,6 +158,27 @@
   "label": "Rockne Krebs shows laser sculpture",
   "detail": "\"Sculpture Minus Object\" in Washington uses red beams, fog and mirrors. Other accounts date his first laser work to 1968.",
   "source_url": "https://patrickmccray.com/leaping-robot/2015/10/17/remembering-lines-of-light?format=amp",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1968",
+  "label": "First laser-guided bomb",
+  "detail": "The US Air Force combat-evaluates the Texas Instruments BOLT-117.",
+  "source_url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195858/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1968",
+  "label": "Radiation Control for Health and Safety Act",
+  "detail": "Public Law 90-602 puts radiation-emitting products, lasers included, under federal control.",
+  "source_url": "https://www.govinfo.gov/content/pkg/FR-2013-06-24/pdf/2013-14846.pdf",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1969",
+  "label": "First lunar retroreflector",
+  "detail": "Apollo 11 leaves a panel of 100 corner cubes on the Moon for laser ranging.",
+  "source_url": "https://www.jpl.nasa.gov/news/apollo-11-experiment-continues-to-return-valuable-data/",
   "era": "Before 1973"
  },
  {
@@ -63,10 +196,38 @@
   "era": "Before 1973"
  },
  {
+  "date": "1970",
+  "label": "First excimer laser",
+  "detail": "A xenon dimer laser runs at the Lebedev Institute in Moscow.",
+  "source_url": "https://ufn.ru/en/articles/2023/10/f/",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1970",
+  "label": "Argon photocoagulator goes on sale",
+  "detail": "Coherent begins marketing a slit-lamp argon laser for the retina.",
+  "source_url": "https://web.stanford.edu/~palanker/publications/History_of_Ophthalmic_Lasers.pdf",
+  "era": "Before 1973"
+ },
+ {
   "date": "1970-03-18",
   "label": "Pepsi Pavilion opens at Expo '70",
   "detail": "A four-color krypton laser system by Cross and Jeffries runs in Osaka; Cross gives the dedication date as March 15.",
   "source_url": "https://spectrum.ieee.org/when-artists-engineers-and-pepsico-collaborated-then-clashed-at-the-1970-worlds-fair",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1971",
+  "label": "Laser printing at PARC",
+  "detail": "Starkweather builds SLOT on a Xerox 7000 copier; laser printing is shown at one page per second.",
+  "source_url": "https://ethw.org/Milestones:Development_of_the_Commercial_Laser_Printer%2C_1971-1977",
+  "era": "Before 1973"
+ },
+ {
+  "date": "1972",
+  "label": "Dragon's Jaw falls",
+  "detail": "Laser-guided bombs bring down the Thanh Hoa and Paul Doumer bridges.",
+  "source_url": "https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195858/",
   "era": "Before 1973"
  },
  {
@@ -88,6 +249,20 @@
   "label": "Laserium opens at Griffith Observatory",
   "detail": "Ivan Dryer's live-played laser show begins a trial run in Los Angeles and stays 28 years.",
   "source_url": "https://griffithobservatory.lacity.gov/about/observatory-history/historical-timeline/",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1974-06-26",
+  "label": "First UPC scan",
+  "detail": "A pack of Juicy Fruit gum is scanned by a Spectra-Physics helium-neon scanner in Troy, Ohio.",
+  "source_url": "https://www.gs1.org/articles/marsh-holds-place-honor-history-gs1-barcode",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1975",
+  "label": "US laser performance standard published",
+  "detail": "FDA's final rule (40 FR 32256), proposed in 1974, creates the standard now at 21 CFR 1040.10 and 1040.11.",
+  "source_url": "https://www.govinfo.gov/content/pkg/FR-2013-06-24/pdf/2013-14846.pdf",
   "era": "1973-1989"
  },
  {
@@ -113,6 +288,13 @@
  },
  {
   "date": "1977",
+  "label": "Xerox 9700",
+  "detail": "Xerox launches the 9700 laser printer.",
+  "source_url": "https://ethw.org/Milestones:Development_of_the_Commercial_Laser_Printer%2C_1971-1977",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1977",
   "label": "FDA Laser Notice 22",
   "detail": "Light shows fall under the federal standard and show producers count as manufacturers. FDA pages date it November 22 or 23.",
   "source_url": "https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/laser-light-shows",
@@ -130,6 +312,13 @@
   "label": "\"Lovelight\" runs from stored images",
   "detail": "Described by LaserFX as the first automated laser show: images drawn on a digitizing pad and stored in PROMs, control tracks on an 8-track recorder.",
   "source_url": "https://laserfx.com/Backstage.LaserFX.com/Newsletter/BriefHistory.html",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1977-10-11",
+  "label": "Gould wins his first basic laser patent",
+  "detail": "US 4,053,845 on optically pumped laser amplifiers issues after a long fight.",
+  "source_url": "https://photonics.com/LinearChart.aspx?ChartID=2",
   "era": "1973-1989"
  },
  {
@@ -161,6 +350,13 @@
   "era": "1973-1989"
  },
  {
+  "date": "1981-11",
+  "label": "The turkey experiment",
+  "detail": "IBM's Srinivasan, Wynne and Blum ablate turkey cartilage with an excimer laser.",
+  "source_url": "https://research.ibm.com/blog/40-years-excimer-laser-surgery",
+  "era": "1973-1989"
+ },
+ {
   "date": "1983",
   "label": "Stone Mountain laser show opens",
   "detail": "The Georgia park's mountain-side show begins; the park estimated 20 million viewers in its first 25 years.",
@@ -169,9 +365,23 @@
  },
  {
   "date": "1983",
+  "label": "Selective photothermolysis",
+  "detail": "Parrish and Anderson publish the idea in Science that makes targeted skin lasers possible.",
+  "source_url": "https://mdedge.com/content/experts-reflect-past-50-years-lasers-dermatology",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1983",
   "label": "Stone Mountain Lasershow begins",
   "detail": "A mountain face in Georgia becomes a laser screen about 400 ft square.",
   "source_url": "https://11alive.com/article/news/the-science-behind-the-stone-mountain-lasershow/85-548763380",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1985",
+  "label": "Chirped pulse amplification",
+  "detail": "Mourou and Strickland publish the method behind petawatt lasers.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/",
   "era": "1973-1989"
  },
  {
@@ -217,10 +427,31 @@
   "era": "1973-1989"
  },
  {
+  "date": "1987",
+  "label": "Optical tweezers hold bacteria",
+  "detail": "Ashkin captures living bacteria with focused laser light without harming them.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1988",
+  "label": "Gould's royalties begin",
+  "detail": "His fourth basic laser patent is approved in April.",
+  "source_url": "https://photonics.com/LinearChart.aspx?ChartID=2",
+  "era": "1973-1989"
+ },
+ {
   "date": "1988",
   "label": "ILDA Awards begin",
   "detail": "The trade association starts its annual awards program.",
   "source_url": "https://ilda.com/awards.htm",
+  "era": "1973-1989"
+ },
+ {
+  "date": "1988-03",
+  "label": "First laser vision correction",
+  "detail": "The first corrective laser eye surgery on a sighted person.",
+  "source_url": "https://research.ibm.com/blog/40-years-excimer-laser-surgery",
   "era": "1973-1989"
  },
  {
@@ -259,6 +490,13 @@
   "era": "1990-2009"
  },
  {
+  "date": "1995-03-10",
+  "label": "First refractive excimer approval",
+  "detail": "FDA approves the Summit Technology excimer laser system (PMA P910067).",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/fda-approved-lasers-prk-and-other-refractive-surgeries",
+  "era": "1990-2009"
+ },
+ {
   "date": "1995-10",
   "label": "ILDA Test Pattern revision 002",
   "detail": "The published standard sets tuning at 12,000 or 30,000 points per second.",
@@ -273,10 +511,38 @@
   "era": "1990-2009"
  },
  {
+  "date": "1995-10-13",
+  "label": "Blinding lasers banned",
+  "detail": "Protocol IV to the CCW is adopted in Vienna.",
+  "source_url": "https://nuke.fas.org/control/ccw/text/protocol4.htm",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1995-10-13",
+  "label": "Protocol IV adopted",
+  "detail": "Vienna adopts the protocol on blinding laser weapons; it enters into force on July 30, 1998.",
+  "source_url": "https://treaties.un.org/doc/Publication/MTDSG/Volume%20II/Chapter%20XXVI/XXVI-2-a.en.xml",
+  "era": "1990-2009"
+ },
+ {
   "date": "1996",
   "label": "HSE publishes HS(G)95",
   "detail": "UK guidance on display laser safety, published in October to replace note PM19 of 1980; since withdrawn.",
   "source_url": "https://cdn.shopify.com/s/files/1/2706/3278/files/Chapter_2.pdf",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1998-03-20",
+  "label": "Lidar speed readings admitted",
+  "detail": "A New Jersey court finds the LTI Marksman 20-20 laser speed detector reasonably reliable, with conditions.",
+  "source_url": "https://caselaw.findlaw.com/nj-superior-court/1382131.html",
+  "era": "1990-2009"
+ },
+ {
+  "date": "1998-07-30",
+  "label": "First LASIK laser approval",
+  "detail": "FDA approves the Kremer Excimer Laser System (PMA P970005). IBM's history says 1997.",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/list-fda-approved-lasers-lasik",
   "era": "1990-2009"
  },
  {
@@ -337,9 +603,23 @@
  },
  {
   "date": "2004",
+  "label": "GE starts the printed LEAP fuel nozzle",
+  "detail": "Development of the laser powder bed fuel nozzle begins.",
+  "source_url": "https://laserfocusworld.com/industrial-laser-solutions/article/14216415/additive-manufacturing-at-ge-aviation",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2004",
   "label": "Plug-in RGB",
   "detail": "5 W full-color DPSS lasers that run from a standard outlet are on offer.",
   "source_url": "https://www.laserfocusworld.com/software-accessories/software/article/16549676/laser-light-shows-take-on-new-dimensions",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2004-09-01",
+  "label": "First laser mouse",
+  "detail": "Logitech's MX 1000 ships with Agilent's laser sensor.",
+  "source_url": "https://www.investor.agilent.com/news-and-events/news/news-details/2004/Agilent-Technologies-Revolutionary-Sensor-Technology-Powers-Logitechs-New-Laser-Mouse/default.aspx",
   "era": "1990-2009"
  },
  {
@@ -347,6 +627,13 @@
   "label": "Roger Waters adds a solid-state laser prism",
   "detail": "Five direct-diode solid-state lasers totaling over 100 W drew a rotating 3D prism above the stage.",
   "source_url": "https://www.livedesignonline.com/brickman-adds-stunning-lasers-to-waters-tour",
+  "era": "1990-2009"
+ },
+ {
+  "date": "2007",
+  "label": "First cleared laser hair-growth device",
+  "detail": "FDA clears the first low-level light device for male pattern hair loss.",
+  "source_url": "https://jcadonline.com/laser-therapy-hair-loss",
   "era": "1990-2009"
  },
  {
@@ -371,6 +658,13 @@
   "era": "1990-2009"
  },
  {
+  "date": "2008-07-01",
+  "label": "Australia restricts pointer imports",
+  "detail": "Hand-held laser pointers above 1 mW become prohibited imports, treated as weapons.",
+  "source_url": "https://oia.pmc.gov.au/published-impact-analyses-and-reports/restrictions-importation-hand-held-laser-pointers-post",
+  "era": "1990-2009"
+ },
+ {
   "date": "2009-01-19",
   "label": "Global Rainbow first shown",
   "detail": "Yvette Mattern's seven parallel laser beams, one per color of the spectrum, debut in New York.",
@@ -385,10 +679,45 @@
   "era": "2010-now"
  },
  {
+  "date": "2010-02-03",
+  "label": "Airborne Laser hits a rocket",
+  "detail": "The YAL-1A destroys a boosting test rocket off California.",
+  "source_url": "https://www.edwards.af.mil/News/Article/394579/airborne-laser-test-bed-bids-adieu-to-edwards",
+  "era": "2010-now"
+ },
+ {
+  "date": "2010-02-07",
+  "label": "Super Bowl XLIV halftime lasers",
+  "detail": "Laser Design Productions ran 16 LDP 10 projectors, more than 400 W, for The Who in Miami.",
+  "source_url": "https://www.livedesignonline.com/lasers-light-up-skies-miami-for-super-bowl-xliv-halftime-show",
+  "era": "2010-now"
+ },
+ {
+  "date": "2010-02-10",
+  "label": "Chicago admits lidar evidence",
+  "detail": "Judge Eileen Burke rules lidar speed evidence admissible in Chicago Traffic Court.",
+  "source_url": "https://www.laserfocusworld.com/test-measurement/test-measurement/article/16568629/chicago-court-says-lidar-is-scientifically-admissible-for-speeding-tickets",
+  "era": "2010-now"
+ },
+ {
   "date": "2011",
   "label": "BEYOND",
   "detail": "Pangolin's flagship show software (maker's date).",
   "source_url": "https://pangolin.com/pages/about",
+  "era": "2010-now"
+ },
+ {
+  "date": "2012-02-14",
+  "label": "Airborne Laser retired",
+  "detail": "The 747 makes its last ferry flight to the Davis-Monthan boneyard.",
+  "source_url": "https://www.edwards.af.mil/News/Article/394579/airborne-laser-test-bed-bids-adieu-to-edwards",
+  "era": "2010-now"
+ },
+ {
+  "date": "2012-02-14",
+  "label": "Lasering an aircraft becomes a federal crime",
+  "detail": "18 U.S.C. 39A, added by the FAA Modernization and Reform Act, sets a maximum of five years.",
+  "source_url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title18/html/USCODE-2023-title18-partI-chap2-sec39A.htm",
   "era": "2010-now"
  },
  {
@@ -406,10 +735,31 @@
   "era": "2010-now"
  },
  {
+  "date": "2012-10-17",
+  "label": "ASML agrees to buy Cymer",
+  "detail": "About EUR 1.95 billion for the excimer and EUV source maker (reported).",
+  "source_url": "https://www.laserfocusworld.com/articles/2012/10/asml-to-buy-extreme-uv-light-source-maker-cymer.html",
+  "era": "2010-now"
+ },
+ {
   "date": "2013",
   "label": "Green diodes take over",
   "detail": "Laserworld dates the show industry's switch from DPSS green to direct green diodes to this year.",
   "source_url": "https://www.laserworld.com/en/technical-explanations-overview/the-2013-revolution-green-laser-diodes.html",
+  "era": "2010-now"
+ },
+ {
+  "date": "2013-06-24",
+  "label": "FDA proposes IEC harmonization",
+  "detail": "Docket FDA-2011-N-0070 would incorporate much of IEC 60825-1 and limit toy lasers to Class 1.",
+  "source_url": "https://www.govinfo.gov/content/pkg/FR-2013-06-24/pdf/2013-14846.pdf",
+  "era": "2010-now"
+ },
+ {
+  "date": "2014",
+  "label": "EDC Kinetic Field, 30+ laser systems",
+  "detail": "Lasertainment ran RTI NANO and PIKO projectors on the main stage.",
+  "source_url": "https://lsionline.co.uk/news/lasertainment-illuminates-edc-las-vegas-2014-axjvbz",
   "era": "2010-now"
  },
  {
@@ -420,10 +770,45 @@
   "era": "2010-now"
  },
  {
+  "date": "2014-03-10",
+  "label": "Fourteen-year laser-strike sentence",
+  "detail": "Sergio Patrick Rodriguez is sentenced in Fresno for aiming a laser pointer at a police helicopter; prosecutors say it is believed to be the longest sentence in a laser-strike case.",
+  "source_url": "https://www.justice.gov/usao-edca/pr/laser-striker-sentenced-14-years-prison-believed-be-longest-sentence-laser-strike-case",
+  "era": "2010-now"
+ },
+ {
+  "date": "2014-12",
+  "label": "FDA toy laser guidance",
+  "detail": "CDRH issues final guidance on minimizing risk from children's toy lasers.",
+  "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/minimizing-risk-childrens-toy-laser-products",
+  "era": "2010-now"
+ },
+ {
   "date": "2014-12-04",
   "label": "Seoul club case report",
   "detail": "Clinical Ophthalmology publishes two retinal injuries after a club laser show; both patients recovered after surgery.",
   "source_url": "https://www.dovepress.com/inner-retinal-damage-after-exposure-to-green-diode-laser-during-a-lase-peer-reviewed-fulltext-article-OPTH",
+  "era": "2010-now"
+ },
+ {
+  "date": "2014-12-10",
+  "label": "LaWS at sea",
+  "detail": "The US Navy announces its laser weapon operated on USS Ponce in the Persian Gulf.",
+  "source_url": "https://www.onr.navy.mil/media-center/news-releases/historic-leap-navy-shipboard-laser-operates-persian-gulf",
+  "era": "2010-now"
+ },
+ {
+  "date": "2015",
+  "label": "Ultra Miami, seven stages of lasers",
+  "detail": "LaserNet ran over 30 projectors above 20 W each at Bayfront Park.",
+  "source_url": "https://pangolin.com/blogs/news/ultra-music-festival-2015-miami",
+  "era": "2010-now"
+ },
+ {
+  "date": "2015",
+  "label": "Fiber outsells CO2 for cutting",
+  "detail": "First year fiber cutting lasers outsold CO2 (reported).",
+  "source_url": "https://laserfocusworld.com/industrial-laser-solutions/article/14216470/fiber-laser-cutting-drives-a-power-revolution",
   "era": "2010-now"
  },
  {
@@ -434,10 +819,80 @@
   "era": "2010-now"
  },
  {
+  "date": "2015-09-14",
+  "label": "LIGO detects gravitational waves",
+  "detail": "Two black holes of 36 and 29 solar masses merge about 1.3 billion light-years away.",
+  "source_url": "https://www.ligo.caltech.edu/detection",
+  "era": "2010-now"
+ },
+ {
+  "date": "2015-10",
+  "label": "Glowforge crowdfunding",
+  "detail": "$27.9 million in sales in 30 days (reported).",
+  "source_url": "https://www.geekwire.com/2025/glowforge-hits-restart-after-restructuring-co-founders-acquire-key-assets-of-laser-engraver-startup/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2016-09-13",
+  "label": "SMILE approved",
+  "detail": "FDA approves the Zeiss VisuMax femtosecond laser (PMA P150040).",
+  "source_url": "https://www.fda.gov/medical-devices/lasik/fda-approved-lasers-prk-and-other-refractive-surgeries",
+  "era": "2010-now"
+ },
+ {
+  "date": "2016-10-25",
+  "label": "Ninth Circuit affirms 60 months",
+  "detail": "After a 2015 appeal vacated his conviction on a second charge, the court affirms Rodriguez's 60-month sentence under 39A.",
+  "source_url": "https://law.justia.com/cases/federal/appellate-courts/ca9/15-10495/15-10495-2016-10-25.html",
+  "era": "2010-now"
+ },
+ {
+  "date": "2017-01",
+  "label": "PROWL results",
+  "detail": "FDA-led studies report 43-46% new visual symptoms at three months and 1-2% dissatisfied with the surgery.",
+  "source_url": "https://aao.org/eyenet/article/postoperative-symptoms-satisfaction-with-lasik-sur",
+  "era": "2010-now"
+ },
+ {
+  "date": "2017-06-20",
+  "label": "Nordic regulators on audience scanning",
+  "detail": "The Nordic radiation safety authorities jointly recommended avoiding audience exposure to high-power lasers.",
+  "source_url": "https://www.stralsakerhetsmyndigheten.se/contentassets/9f44b528c39a4337aa6fb9ccc891b9df/avoid-direct-laser-scanning-of-audiences---nordic-statement.pdf",
+  "era": "2010-now"
+ },
+ {
+  "date": "2017-11-07",
+  "label": "FDA Safety Communication on show projectors",
+  "detail": "FDA recommends against using two brands of projector it says were not sold under an approved variance.",
+  "source_url": "https://ilda.com/2017-11_FDA_Laserworld.htm",
+  "era": "2010-now"
+ },
+ {
   "date": "2017-11-18",
   "label": "314-fixture Guinness record",
   "detail": "ER Productions ran 314 laser fixtures at 1,377 W outside the Las Vegas Convention Center during LDI.",
   "source_url": "https://www.livedesignonline.com/ldi/world-s-largest-laser-show-at-ldi2017",
+  "era": "2010-now"
+ },
+ {
+  "date": "2018-01-01",
+  "label": "Dubai Light Up 2018",
+  "detail": "A laser and light show on the Burj Khalifa replaced fireworks and set a Guinness record of 109,252 square meters.",
+  "source_url": "https://www.thenationalnews.com/uae/tens-of-thousands-turn-out-for-new-year-s-eve-laser-show-in-dubai-1.691911",
+  "era": "2010-now"
+ },
+ {
+  "date": "2018-05-03",
+  "label": "Djibouti protest",
+  "detail": "The Pentagon says US aircraft were lased in Djibouti and demarches China.",
+  "source_url": "https://www.jcs.mil/Media/News/News-Display/Article/1512451/us-protests-chinese-interference-with-us-planes-in-djibouti/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2018-07-10",
+  "label": "UK Laser Misuse (Vehicles) Act in force",
+  "detail": "Shining a laser at a vehicle's operator carries up to five years and an unlimited fine.",
+  "source_url": "https://www.gov.uk/government/news/tougher-laser-misuse-laws-come-into-force",
   "era": "2010-now"
  },
  {
@@ -448,6 +903,20 @@
   "era": "2010-now"
  },
  {
+  "date": "2018-10-02",
+  "label": "Nobel for optical tweezers and chirped pulse amplification",
+  "detail": "Ashkin, Mourou and Strickland share the Physics prize.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2018-12-06",
+  "label": "TRUMPF describes its EUV drive laser",
+  "detail": "Five amplifier stages, mean pulse power above 30 kW.",
+  "source_url": "https://www.trumpf.com/en_GB/magazine/flashes-of-light-in-a-vacuum",
+  "era": "2010-now"
+ },
+ {
   "date": "2018-12-31",
   "label": "Mexico City swaps fireworks for lasers",
   "detail": "New Year's Eve fireworks were replaced with a concert and laser show on Reforma Avenue, for air-pollution reasons.",
@@ -455,10 +924,31 @@
   "era": "2010-now"
  },
  {
+  "date": "2019",
+  "label": "Glastonbury headliner laser rigs",
+  "detail": "ER Productions rigs for Stormzy, Tame Impala, the Chemical Brothers and Hot Chip.",
+  "source_url": "https://er-productions.com/items/glastonbury-2019",
+  "era": "2010-now"
+ },
+ {
+  "date": "2019-03",
+  "label": "10 petawatts",
+  "detail": "ELI-NP in Romania fires its first 10 PW pulses.",
+  "source_url": "https://optics.org/news/eli-np-laser-hits-10-petawatts-peak-power",
+  "era": "2010-now"
+ },
+ {
   "date": "2019-05-24",
   "label": "PLASA display laser guidance",
   "detail": "PLASA publishes the guide HSE now points to in place of HS(G)95.",
   "source_url": "http://www.plasa.org/technical/Laser_Guidance.asp",
+  "era": "2010-now"
+ },
+ {
+  "date": "2019-06-04",
+  "label": "LiGHT trial",
+  "detail": "74.2% of patients treated first with SLT need no glaucoma drops at three years.",
+  "source_url": "https://evidence.nihr.ac.uk/alert/a-laser-eye-procedure-can-be-effective-and-safe-if-used-early-as-treatment-for-glaucoma",
   "era": "2010-now"
  },
  {
@@ -473,6 +963,20 @@
   "label": "Canada restricts hand-held lasers",
   "detail": "SOR/2020-124 is registered, banning hand-held lasers over 1 mW near airports and in three metro regions.",
   "source_url": "https://gazette.gc.ca/rp-pr/p2/2020/2020-06-10/html/sor-dors124-eng.html",
+  "era": "2010-now"
+ },
+ {
+  "date": "2020-10",
+  "label": "Lidar in a phone",
+  "detail": "Apple announces the iPhone 12 Pro and Pro Max with a LiDAR Scanner.",
+  "source_url": "https://optics.org/news/11/10/5",
+  "era": "2010-now"
+ },
+ {
+  "date": "2021",
+  "label": "xTool D1 launches",
+  "detail": "The desktop engraver that started xTool (reported).",
+  "source_url": "https://kr-asia.com/xtool-avoids-collapse-but-faces-a-difficult-path-to-growth",
   "era": "2010-now"
  },
  {
@@ -492,8 +996,57 @@
  {
   "date": "2022-02-14",
   "label": "FAA Advisory Circular 70-1B",
+  "detail": "The FAA's current outdoor laser guidance, with a change dated May 5, 2022.",
+  "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf",
+  "era": "2010-now"
+ },
+ {
+  "date": "2022-02-14",
+  "label": "FAA Advisory Circular 70-1B",
   "detail": "Current FAA guidance on outdoor laser operations; Change 1 followed on May 5, 2022.",
   "source_url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC70-1B_with_chg1.pdf",
+  "era": "2010-now"
+ },
+ {
+  "date": "2022-02-17",
+  "label": "P-8A lased",
+  "detail": "Australia says a PLA-Navy ship lit up an RAAF P-8A Poseidon with a laser.",
+  "source_url": "https://www.defence.gov.au/news-events/releases/2022-02-19/chinese-vessel-lasing-adf-aircraft",
+  "era": "2010-now"
+ },
+ {
+  "date": "2022-07-27",
+  "label": "LASIK labeling draft",
+  "detail": "FDA issues draft guidance recommending a patient decision checklist and images of possible visual symptoms.",
+  "source_url": "https://www.aao.org/headline/fda-releases-draft-guidance-on-lasik-patient-label/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2022-08",
+  "label": "HELIOS delivered",
+  "detail": "Lockheed Martin delivers HELIOS to the destroyer USS Preble.",
+  "source_url": "https://www.militarytimes.com/news/your-navy/2025/02/04/us-navy-hits-drone-with-helios-laser-in-successful-test",
+  "era": "2010-now"
+ },
+ {
+  "date": "2022-10-07",
+  "label": "UK recall of Vevor laser engravers",
+  "detail": "Plug pins below the 6.22 mm minimum; shock risk rated serious.",
+  "source_url": "https://gov.uk/product-safety-alerts-reports-recalls/product-safety-report-vevor-laser-engraving-machine-2209-0275",
+  "era": "2010-now"
+ },
+ {
+  "date": "2022-12-05",
+  "label": "Fusion ignition",
+  "detail": "NIF gets 3.15 MJ of fusion energy from 2.05 MJ of laser energy.",
+  "source_url": "https://lmf.llnl.gov/science/achieving-fusion-ignition",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023",
+  "label": "Record year for FAA laser reports",
+  "detail": "Pilots report 13,304 laser incidents, the highest on the FAA's table.",
+  "source_url": "https://www.faa.gov/about/initiatives/lasers/laws",
   "era": "2010-now"
  },
  {
@@ -501,6 +1054,13 @@
   "label": "150,000 OPSLs",
   "detail": "Coherent reports more than 150,000 OPSLs in the field.",
   "source_url": "https://www.coherent.com/news/blog/150000-optically-pumped-semiconductor-lasers",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023-02",
+  "label": "Laser Notice 56",
+  "detail": "FDA says it does not intend to enforce matching US requirements for products meeting identified IEC 60825-1 Ed. 3 clauses.",
+  "source_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/laser-products-conformance-iec-60825-1-ed-3-and-iec-60601-2-22-ed-31-laser-notice-no-56",
   "era": "2010-now"
  },
  {
@@ -525,10 +1085,136 @@
   "era": "2010-now"
  },
  {
+  "date": "2023-12-11",
+  "label": "Laser video from deep space",
+  "detail": "DSOC on Psyche peaks at 267 Mbit/s with an ultra-high-definition video downlink.",
+  "source_url": "https://nasa.gov/directorates/stmd/tech-demo-missions-program/deep-space-optical-communications-dsoc/nasas-deep-space-communications-demo-exceeds-project-expectations",
+  "era": "2010-now"
+ },
+ {
+  "date": "2023-12-15",
+  "label": "FDA on laser toys",
+  "detail": "FDA says laser pointers are not toys and toys should stay within IEC Class 1.",
+  "source_url": "https://www.fda.gov/ForConsumers/ConsumerUpdates/ucm363908.htm",
+  "era": "2010-now"
+ },
+ {
+  "date": "2024-02-02",
+  "label": "Illenium at SoFi Stadium",
+  "detail": "147 laser systems totaling more than 4,000 W, by the software maker's account.",
+  "source_url": "https://pangolin.com/blogs/news/illenium-trilogy-show-breaks-records-with-laser-technology",
+  "era": "2010-now"
+ },
+ {
+  "date": "2024-07-26",
+  "label": "Lasers on the Eiffel Tower",
+  "detail": "The Paris 2024 opening ceremony used lasers on the tower.",
+  "source_url": "https://attractionsmagazine.com/eiffel-tower-olympics-paris-2024/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2024-08-09",
+  "label": "UK rejects Creality Falcon2 at the border",
+  "detail": "22 W Class 4 engraver found excessively strong for consumer use; goggles inadequate.",
+  "source_url": "https://gov.uk/product-safety-alerts-reports-recalls/product-safety-report-falcon2-magical-colorful-engraving-machine-2310-0021",
+  "era": "2010-now"
+ },
+ {
+  "date": "2024-10-09",
+  "label": "Canada rewrites its laser product rules",
+  "detail": "SOR/2024-196 builds a broad standard on IEC 60825-1 Ed. 3.0, in force a year later.",
+  "source_url": "https://gazette.gc.ca/rp-pr/p2/2024/2024-10-09/html/sor-dors196-eng.html",
+  "era": "2010-now"
+ },
+ {
+  "date": "2024-12-31",
+  "label": "FDA withdraws Laser Notice No. 50",
+  "detail": "Makers move to Laser Notice No. 56.",
+  "source_url": "https://content.govdelivery.com/accounts/USFDA/bulletins/3cb2a72",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025",
+  "label": "Coachella and Stagecoach lasers",
+  "detail": "Polar Productions lit six Coachella stages and brought lasers to Stagecoach for the first time.",
+  "source_url": "https://pangolin.com/blogs/news/coachella-2025-quasar-sahara-and-yuma-stages",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-01",
+  "label": "Olympic lasers at Disneyland Paris",
+  "detail": "Disney Tales of Magic reused the Eiffel Tower lasers from the opening ceremony.",
+  "source_url": "https://www.yahoo.com/news/disneyland-paris-unveils-spectacular-nighttime-105353083.html",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-02-11",
+  "label": "IPG reports 2024 revenue of $977.1 million",
+  "detail": "Down 24% from 2023 (official).",
+  "source_url": "https://investor.ipgphotonics.com/news/news-details/2025/IPG-Photonics-Announces-Fourth-Quarter-2024-Financial-Results/default.aspx",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-04-07",
+  "label": "NIF record yield",
+  "detail": "8.6 MJ from 2.08 MJ of laser energy, a gain of 4.13.",
+  "source_url": "https://lmf.llnl.gov/science/achieving-fusion-ignition",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-05-30",
+  "label": "Israel claims laser kills",
+  "detail": "Israel says lasers downed about 40 drones in combat; which system did it is disputed.",
+  "source_url": "https://www.defensenews.com/global/mideast-africa/2025/05/30/israel-claims-drone-interceptions-with-high-power-lasers/",
+  "era": "2010-now"
+ },
+ {
   "date": "2025-07-19",
   "label": "1,100-source Guinness record",
   "detail": "Verknipt ArenA at the Johan Cruijff ArenA, Amsterdam, set the current largest laser show record with 1,100 laser emission sources.",
   "source_url": "https://www.guinnessworldrecords.com/world-records/459824-largest-laser-show",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-07-23",
+  "label": "TRUMPF reports FY2024/25 sales of €4.3 billion",
+  "detail": "Down about 17% (preliminary).",
+  "source_url": "https://optics.org/news/16/7/39",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-11-06",
+  "label": "Glowforge restarts under its co-founders",
+  "detail": "After an Assignment for the Benefit of Creditors.",
+  "source_url": "https://www.geekwire.com/2025/glowforge-hits-restart-after-restructuring-co-founders-acquire-key-assets-of-laser-engraver-startup/",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-11-20",
+  "label": "DragonFire contract",
+  "detail": "The UK MOD reports 650 km/h drones downed and a GBP 316 million contract.",
+  "source_url": "https://www.gov.uk/government/news/boost-for-armed-forces-as-new-laser-weapon-takes-down-high-speed-drones",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-12-28",
+  "label": "Iron Beam handed over",
+  "detail": "Israel's Ministry of Defense delivers the first combat-ready Iron Beam to the IDF.",
+  "source_url": "https://www.timesofisrael.com/defense-ministry-hands-idf-first-combat-ready-iron-beam-laser-interception-system",
+  "era": "2010-now"
+ },
+ {
+  "date": "2025-12-28",
+  "label": "49ers laser halftime",
+  "detail": "An eight-minute laser halftime show at Levi's Stadium by Image Engineering.",
+  "source_url": "https://www.sportsvideo.org/2025/12/29/san-francisco-49ers-strike-gold-with-halftime-laser-spectacular",
+  "era": "2010-now"
+ },
+ {
+  "date": "2026-01-01",
+  "label": "xTool HKEX listing application made public",
+  "detail": "Prospectus reports 2024 revenue of RMB 2,475.9 million.",
+  "source_url": "https://makers101.com/xtool-hong-kong-ipo-filing-analysis/",
   "era": "2010-now"
  },
  {
@@ -539,10 +1225,24 @@
   "era": "2010-now"
  },
  {
+  "date": "2026-05-28",
+  "label": "Vivid Sydney's first laser show",
+  "detail": "Laser Lightfall by ER Productions ran 23 nights at Cockle Bay.",
+  "source_url": "https://www.vividsydney.com/event/light/laser-lightfall",
+  "era": "2010-now"
+ },
+ {
   "date": "2026-07-31",
   "label": "FDA revises its laser import alert",
   "detail": "Import Alert 95-04, first issued in December 1997, covers laser pointers and light show projectors from listed firms.",
   "source_url": "https://www.accessdata.fda.gov/CMS_IA/importalert_254.html",
+  "era": "2010-now"
+ },
+ {
+  "date": "2026-11-04",
+  "label": "ILDA Awards in Salzburg",
+  "detail": "Visual Sensation won the festival category; a Swedish New Year's Eve show won Corporate.",
+  "source_url": "https://www.ilda.com/awards2026.htm",
   "era": "2010-now"
  }
 ]

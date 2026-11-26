@@ -1,0 +1,92 @@
+[
+ {
+  "use": "Telephone call over a laser beam",
+  "field": "communications",
+  "laser": "helium-neon",
+  "wavelength": "1.15 micrometers",
+  "power": "",
+  "since": "1960-12-13",
+  "what": "Javan's team carried a telephone call over the first helium-neon beam the day after it first ran.",
+  "source_url": "https://lemelson.mit.edu/resources/ali-javan"
+ },
+ {
+  "use": "First medical laser treatment of a human patient",
+  "field": "medicine",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1961-12",
+  "what": "The Photonics Spectra timeline records the first medical laser treatment of a human patient in December 1961.",
+  "source_url": "https://photonics.com/LinearChart.aspx?ChartID=2"
+ },
+ {
+  "use": "Laser holography",
+  "field": "science",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1963",
+  "what": "Leith and Upatnieks at the University of Michigan made the first laser holograms in late 1963.",
+  "source_url": "https://www.britannica.com/technology/laser/History"
+ },
+ {
+  "use": "Laser spectroscopy",
+  "field": "science",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Recognized with the 1981 Nobel Prize in Physics to Bloembergen and Schawlow.",
+  "source_url": "https://nobelprize.org/prizes/physics/1981/summary"
+ },
+ {
+  "use": "Laser cooling and trapping of atoms",
+  "field": "science",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Methods to cool and trap atoms with laser light won the 1997 Nobel Prize in Physics.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/1997/summary/"
+ },
+ {
+  "use": "Laser precision spectroscopy and the frequency comb",
+  "field": "science",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "Recognized with the 2005 Nobel Prize in Physics to Hall and Hänsch.",
+  "source_url": "https://www.optica.org/history/optica_nobel_laureates/"
+ },
+ {
+  "use": "Optical tweezers",
+  "field": "science",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "1987",
+  "what": "A focused laser beam holds tiny particles; Ashkin used tweezers to hold living bacteria in 1987.",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/"
+ },
+ {
+  "use": "Eye surgery with chirped pulse amplification",
+  "field": "medicine",
+  "laser": "chirped pulse amplified ultrashort-pulse laser",
+  "wavelength": "",
+  "power": "",
+  "since": "",
+  "what": "The Nobel committee says chirped pulse amplification is used in millions of eye operations a year (2018).",
+  "source_url": "https://www.nobelprize.org/prizes/physics/2018/press-release/"
+ },
+ {
+  "use": "Attosecond pulses for studying electrons",
+  "field": "science",
+  "laser": "",
+  "wavelength": "",
+  "power": "",
+  "since": "2001",
+  "what": "Pulses of 250 attoseconds (trains) and 650 attoseconds (single) used to study electron dynamics in matter.",
+  "source_url": "https://nobelprize.org/prizes/physics/2023/press-release/"
+ }
+]
