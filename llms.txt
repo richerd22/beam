@@ -34,6 +34,7 @@ Independent cited field guide, 65,569 words, 475 sources, updated November 2026.
 - Everything on one page: https://beam.cold.fyi/all/
 
 ## Sister guides
+- https://finale.cold.fyi/ - The Finale: how fireworks work
 - https://showfile.cold.fyi/ - The Show File: how a dance music show is made
 - https://flip.cold.fyi/ - The Flip: how sampling works
 - https://groove.cold.fyi/ - The Groove: how a vinyl record is made
